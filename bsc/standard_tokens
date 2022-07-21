@@ -1,0 +1,54 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "Binance Coin",
+      "protocol": "",
+      "symbol": "BNB",
+      "address": "",
+      "decimals": 18,
+      "logo": "https://hashpay.gitee.io/icon/bnbtoken.jpg"
+    },
+    {
+      "name": " ",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "decimals": 18,
+      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130821621.png"
+    },
+    {
+      "name": "USDC",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "decimals": 18,
+      "logo": "https://acswap.gitee.io/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "BSC-HO",
+      "protocol": "20",
+      "symbol": "BSC-HO",
+      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+      "decimals": 18,
+      "logo": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
+    },
+    {
+      "name": "MOS",
+      "protocol": "20",
+      "symbol": "MOS",
+      "address": "0x51760576279bF7Ee35631d33edE4757De19D985D",
+      "decimals": 18,
+      "logo": "https://s3.ap-northeast-2.amazonaws.com/halo.land/hashpay/logo.png"
+    },
+    {
+      "name": "ZEED",
+      "protocol": "20",
+      "symbol": "ZEED",
+      "address": "0xB2F53069E1555793481aAfe639F8E274f4Ec8435",
+      "decimals": 18,
+      "logo": "https://zeedlogo.s3.ap-east-1.amazonaws.com/2x4.png"
+    }
+  ]
+}
