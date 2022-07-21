@@ -1,0 +1,11 @@
+{
+ "name": "BhSwap Dao",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x55F8345Ef373824A472c6313576Bf1528Ed62cBD",
+ "type": "BEP20",
+ "symbol": "DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55F8345Ef373824A472c6313576Bf1528Ed62cBD"
+}
