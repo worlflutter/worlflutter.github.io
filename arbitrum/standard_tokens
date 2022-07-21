@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "ETH",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": null,
+      "decimals": 18,
+      "logo": "https://www.gate.io/images/coin_icon/64/eth.png"
+    }
+  ]
+}
