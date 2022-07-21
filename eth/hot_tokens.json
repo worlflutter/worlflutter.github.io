@@ -2,165 +2,77 @@
   "errorCode": 0,
   "reason": "获取成功",
   "data": [
-    {
-      "name": "MFI_ERC20",
-      "protocol": "20",
-      "symbol": "MFI",
-      "address": "0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1603254208775.png"
-    },
-    {
-      "name": "1INCH Token",
-      "protocol": "20",
-      "symbol": "1INCH",
-      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616124409029.png"
-    },
-    {
-      "name": "PavitchDAOToken",
-      "protocol": "20",
-      "symbol": "PVK",
-      "address": "0x7183aa1805435a80d0dd6c7897b9f4756f4ecaed",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1608953818231.jpg"
-    },
-    {
-      "name": "Gossip Token",
-      "protocol": "20",
-      "symbol": "GOSS",
-      "address": "0x06Ee5a52AaA96074e9A6fEaEcD9fcE6809d9aE39",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611649460618.png"
-    },
-    {
-      "name": "Tether USD",
-      "protocol": "20",
-      "symbol": "USDT",
-      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "decimals": 6,
-      "logo": "https://tp-statics.tokenpocket.pro/token/1567500470273-ethx.png"
-    },
-    {
-      "name": "blocktrade.com",
-      "protocol": "20",
-      "symbol": "BTT",
-      "address": "0xfa456cf55250a839088b27ee32a424d7dacb54ff",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1598415905921.png"
-    },
-    {
-      "name": "TokenPocket Token",
-      "protocol": "20",
-      "symbol": "TPT",
-      "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
-      "decimals": 4,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616124878543.png"
-    },
-    {
-      "name": "MIC",
-      "protocol": "20",
-      "symbol": "MIC",
-      "address": "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1609675880611.png"
-    },
-    {
-      "name": "Rai Reflex Index",
-      "protocol": "20",
-      "symbol": "RAI1",
-      "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1613890689996.png"
-    },
-    {
-      "name": "Graph Token",
-      "protocol": "20",
-      "symbol": "GRT",
-      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1608259089479.png"
-    },
-    {
-      "name": "Value Liquidity",
-      "protocol": "20",
-      "symbol": "VALUE",
-      "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1607843117507.png"
-    },
-    {
-      "name": "Binance USD",
-      "protocol": "20",
-      "symbol": "BUSD",
-      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1592457231232.png"
-    },
-    {
-      "name": "Wrapped BTC",
-      "protocol": "20",
-      "symbol": "WBTC",
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "decimals": 8,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1598447394794.png"
-    },
-    {
-      "name": "MINISWAP",
-      "protocol": "20",
-      "symbol": "MINI",
-      "address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1596802189525.png"
-    },
-    {
-      "name": "RCU",
-      "protocol": "20",
-      "symbol": "RCU",
-      "address": "0x9c035d820af11343f2fd9b9ff42c95beb4312acd",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1604049348111.jpg"
-    },
-    {
-      "name": "HBTC",
-      "protocol": "20",
-      "symbol": "HBTC",
-      "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
-      "decimals": 18,
-      "logo": "https://cn.etherscan.com/token/images/huobibtc_32.png"
-    },
-    {
-      "name": " Cocos-BCX",
-      "protocol": "20",
-      "symbol": "COCOS",
-      "address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/1565841128212-200.png"
-    },
-    {
-      "name": "Aave Token",
-      "protocol": "20",
-      "symbol": "AAVE",
-      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1607326710982.png"
-    },
-    {
-      "name": "Republic",
-      "protocol": "20",
-      "symbol": "REN",
-      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/1571193885770.png"
-    },
-    {
-      "name": "Compound \n",
-      "protocol": "20",
-      "symbol": "COMP",
-      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-      "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1598513304968.png"
-    }
-  ]
+          {
+              "name": "USD Coin",
+              "protocol": "20",
+              "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+              "decimals": 6,
+              "symbol": "USDC",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+          },
+          {
+              "name": "Dai",
+              "protocol": "20",
+              "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+              "decimals": 18,
+              "symbol": "DAI",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+          },
+          {
+              "name": "Uniswap",
+              "protocol": "20",
+              "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+              "decimals": 18,
+              "symbol": "UNI",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+          },
+          {
+              "name": "Tether",
+              "protocol": "20",
+              "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+              "decimals": 6,
+              "symbol": "USDT",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+          },
+          {
+              "chainId": 1,
+              "name": "SushiSwap",
+              "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+              "decimals": 18,
+              "symbol": "SUSHI",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
+          },
+          {
+              "name": "Chainlink",
+              "protocol": "20",
+              "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+              "decimals": 18,
+              "symbol": "LINK",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+          },
+          {
+              "chainId": 1,
+              "name": "yearn.finance",
+              "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+              "decimals": 18,
+              "symbol": "YFI",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+          },
+          {
+              "name": "Curve DAO Token",
+              "protocol": "20",
+              "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+              "decimals": 18,
+              "symbol": "CRV",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0xD533a949740bb3306d119CC777fa900bA034cd52.png"
+          },
+          {
+              "name": "Wrapped Bitcoin",
+              "protocol": "20",
+              "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+              "decimals": 8,
+              "symbol": "WBTC",
+              "logoURI": "https://acswapinfo.github.io/tokens/eth/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+          }
+           ]
 }
