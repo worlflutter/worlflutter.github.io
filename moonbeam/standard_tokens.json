@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": " GLMR",
+      "protocol": "20",
+      "symbol": "GLMR",
+      "address": null,
+      "decimals": 18,
+      "logo": "https://www.gate.io/images/coin_icon/64/glmr.png"
+    }
+  ]
+}
