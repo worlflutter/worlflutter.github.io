@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "FTM",
+      "protocol": "20",
+      "symbol": "FTM",
+      "address": null,
+      "decimals": 18,
+      "logo": "https://chainlist.org/_next/image?url=https%3A%2F%2Fdefillama.com%2Fchain-https://www.gate.io/images/coin_icon/64/ftm.png"
+    }
+  ]
+}
