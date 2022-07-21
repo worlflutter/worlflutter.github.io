@@ -8,7 +8,7 @@
       "symbol": "BTT",
       "address": null,
       "decimals": 18,
-      "logo": "https://bttcscan.com/token/images/bittorentlight_32.png"
+      "logoURI": "https://bttcscan.com/token/images/bittorentlight_32.png"
     }
   ]
 }
