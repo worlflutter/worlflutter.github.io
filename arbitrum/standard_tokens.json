@@ -8,7 +8,7 @@
       "symbol": "ETH",
       "address": null,
       "decimals": 18,
-      "logo": "https://www.gate.io/images/coin_icon/64/eth.png"
+      "logoURI": "https://www.gate.io/images/coin_icon/64/eth.png"
     }
   ]
 }

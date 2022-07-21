@@ -3,12 +3,12 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "BTT",
+      "name": " GLMR",
       "protocol": "20",
-      "symbol": "BTT",
+      "symbol": "GLMR",
       "address": null,
       "decimals": 18,
-      "logoURI": "https://bttcscan.com/token/images/bittorentlight_32.png"
+      "logoURI": "https://www.gate.io/images/coin_icon/64/glmr.png"
     }
   ]
 }

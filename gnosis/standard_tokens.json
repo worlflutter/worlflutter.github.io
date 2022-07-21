@@ -3,12 +3,12 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "BTT",
+      "name": "xDAI",
       "protocol": "20",
-      "symbol": "BTT",
+      "symbol": "xDAI",
       "address": null,
       "decimals": 18,
-      "logoURI": "https://bttcscan.com/token/images/bittorentlight_32.png"
+      "logo": null
     }
   ]
 }

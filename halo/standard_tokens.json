@@ -8,7 +8,7 @@
       "symbol": "HT",
       "address": "",
       "decimals": 18,
-      "logo": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png"
+      "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png"
     },
     {
       "name": "Heco-Peg USDT Token",
@@ -16,7 +16,7 @@
       "symbol": "USDT",
       "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
       "decimals": 18,
-      "logo": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616401324647.png"
+      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616401324647.png"
     }
   ]
 }
