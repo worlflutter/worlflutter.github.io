@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "BTT",
+      "protocol": "20",
+      "symbol": "BTT",
+      "address": null,
+      "decimals": 18,
+      "logo": "https://bttcscan.com/token/images/bittorentlight_32.png"
+    }
+  ]
+}

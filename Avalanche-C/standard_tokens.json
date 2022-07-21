@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "AVAX",
+      "protocol": "20",
+      "symbol": "AVAX",
+      "address": null,
+      "decimals": 18,
+      "logo": "https://www.gate.io/images/coin_icon/64/avax.png"
+    }
+  ]
+}
