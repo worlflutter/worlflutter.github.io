@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "xDAI",
+      "protocol": "20",
+      "symbol": "xDAI",
+      "address": null,
+      "decimals": 18,
+      "logo": null
+    }
+  ]
+}
