@@ -1,0 +1,11 @@
+{
+"name": "PinToken",
+"website": "",
+"description": "PinSwap致力于为用户建立一个便捷高效、对比清晰、滑点更低的GameFi多链聚合去中心化交易系统.",
+"explorer": "https://bscscan.com/token/0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+"type": "BEP20",
+"symbol": "PIN",
+"decimals": 18,
+"status": "active",
+"id": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BHSwap",
+ "website": "https://bhswap.github.io",
+ "description": "BHSwap致力于打造集DEX、NFT、DAO为一体的DeFi平台，为更多优质资产提供一站式流动性服务.",
+ "explorer": "https://bscscan.com/token/0x11236618476d83cBeb4fe1EAc66F686b45241BaB",
+ "type": "BEP20",
+ "symbol": "BHB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x11236618476d83cBeb4fe1EAc66F686b45241BaB"
+}
