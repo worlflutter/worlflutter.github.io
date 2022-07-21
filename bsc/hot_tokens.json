@@ -3,8 +3,8 @@
   "reason": "获取成功",
   "data": [
    {
-    "name": "WBNB Token",
     "protocol": "20",
+    "name": "WBNB Token",
     "symbol": "BNB",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "decimals": 18,
@@ -27,8 +27,8 @@
     "symbol": "CAKE"
   },
   {
-    "name": "Dai Token ",
     "protocol": "20",
+    "name": "Dai Token ",
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "decimals": 18,
     "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png",
