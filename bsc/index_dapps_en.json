@@ -1,0 +1,140 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3.png",
+                "url": "3"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3-en.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "hot",
+                "items": [
+                    {
+                        "name": "HOSWAP-BSC",
+                        "des": null,
+                        "url": "https://bschoswap.halo.land/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/hoswap_bsc.png"
+                    },
+                    {
+                        "name": "PancakeSwap",
+                        "des": "",
+                        "url": "https://exchange.pancakeswap.finance/?utm_source=tokenpocket#/swap",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pancakeswap.png"
+                    },
+                    {
+                        "name": "HALO Bridge",
+                        "des": "Safe,fast and easiest cross-chain exchange",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
+                    },
+                    {
+                        "name": "COSMICC GAME",
+                        "des": null,
+                        "url": "https://game.cosmicc.online?horizontal=true",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/cosmicc_game.png"
+                    },
+                    {
+                        "name": "COSMICC",
+                        "des": null,
+                        "url": "https://www.cosmic.online/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/cosmicc_game.png"
+                    },
+                    {
+                        "name": "DODO",
+                        "des": "",
+                        "url": "http://app.dodoex.io/?utm_source=tokenpocket",
+                        "logo": "https://s2.bqiapp.com/logo/2/dodo.png"
+                    },
+                    {
+                        "name": "Token Issuance-BSC",
+                        "des": null,
+                        "url": "https://halo.land/#/tokenIssuance-bsc",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
+                    },
+                    {
+                        "name": "PinSwap",
+                        "des": "Gameifi multi chain aggregation decentralized trading system",
+                        "url": "https://pinswap.gitee.io/#/transaction",
+                        "logo": "https://pinswap.gitee.io/icon/pintoken.png"
+                    },
+                    {
+                        "name": "KLT",
+                        "des": "",
+                        "url": "https://klend.finance?ref=tp&utm_source=tokenpocket",
+                        "logo": "https://s2.bqiapp.com/logo/1/klend.png?x-oss-process=style/coin_72&v=1619057557"
+                    },
+                    {
+                        "name": "Bridge",
+                        "des": "",
+                        "url": "http://hashpay.one/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bridge.png"
+                    }
+                ]
+            },
+            {
+                "type": "Recommend",
+                "items": [
+                    {
+                        "name": "BSC News",
+                        "des": null,
+                        "url": "https://www.bsc.news/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bsc_new.png"
+                    },
+                    {
+                        "name": "BINANCE CHAIN EXPLORER",
+                        "des": null,
+                        "url": "https://explorer.binance.org/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/binance_coin.png"
+                    },
+                    {
+                        "name": "Dappradar",
+                        "des": null,
+                        "url": "https://dappradar.com/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/dappradar.png"
+                    },
+                    {
+                        "name": "Defibox",
+                        "des": null,
+                        "url": "https://bscdapp.defibox.io/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/defibox.png"
+                    },
+                    {
+                        "name": "Multichain",
+                        "des": null,
+                        "url": "https://app.multichain.org/#/router",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/multichain.png"
+                    },
+                    {
+                        "name": "Bscproject",
+                        "des": null,
+                        "url": "https://bscproject.org/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bscproject.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
