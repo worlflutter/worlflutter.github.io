@@ -3,14 +3,6 @@
   "reason": "获取成功",
   "data": [
     {
-        "name": "Wrapped HT",
-        "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
-        "symbol": "HT",
-        "decimals": 18,
-        "protocol": "20",
-        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
-    },
-    {
         "name": "USDC",
         "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
         "symbol": "USDC",

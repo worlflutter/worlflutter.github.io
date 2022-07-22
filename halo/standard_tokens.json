@@ -3,20 +3,20 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "HT",
+      "name": "HO",
       "protocol": "20",
-      "symbol": "HT",
-      "address": "",
+      "symbol": "HO",
+      "address": null,
       "decimals": 18,
-      "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png"
+      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/halo_logo.png"
     },
     {
-      "name": "Heco-Peg USDT Token",
+      "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
-      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616401324647.png"
+      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/USDT-HORC-PNG-96.png"
     }
   ]
 }
