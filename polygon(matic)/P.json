@@ -1,0 +1,32 @@
+[
+	{
+		"dirname": "0x239fA4ADa7B11E9b1E90e2Ce62FCb43556C0AD9e",
+		"address": "0x239fa4ada7b11e9b1e90e2ce62fcb43556c0ad9e",
+		"symbol": "polyminipig"
+	},
+	{
+		"dirname": "0x392995b5ee75b8471b8b51e64b023a38a21e2c2b",
+		"address": "0x392995b5ee75b8471b8b51e64b023a38a21e2c2b",
+		"symbol": "PolyMusk"
+	},
+	{
+		"dirname": "0x635f6f604b90C2fA97c9D712CF973dead678e68D",
+		"address": "0x635f6f604b90C2fA97c9D712CF973dead678e68D",
+		"symbol": "PD"
+	},
+	{
+		"dirname": "0x6cA4CD8873db45596C915268FC737994933D8a27",
+		"address": "0x6ca4cd8873db45596c915268fc737994933d8a27",
+		"symbol": "POLYSHIB"
+	},
+	{
+		"dirname": "0xdf2140DEe6B07ae495382bc1cd446F7B328F63e3",
+		"address": "0xdf2140DEe6B07ae495382bc1cd446F7B328F63e3",
+		"symbol": "PolyBabyDoge"
+	},
+	{
+		"dirname": "0xF3892eCb9802c4Bd13a123D9D1041654583915E1",
+		"address": "0xF3892eCb9802c4Bd13a123D9D1041654583915E1",
+		"symbol": "Pi NFT"
+	}
+]
