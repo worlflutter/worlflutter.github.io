@@ -1,0 +1,117 @@
+[
+	{
+		"dirname": "0x0b974773B418de561d03B0561957aA10A501bEd7",
+		"address": "0x0b974773B418de561d03B0561957aA10A501bEd7",
+		"symbol": "YYDS"
+	},
+	{
+		"dirname": "0x193B8230f594F63da50876EaF362177d1Dca4A45",
+		"address": "0x193B8230f594F63da50876EaF362177d1Dca4A45",
+		"symbol": "YEFI"
+	},
+	{
+		"dirname": "0x1E1Be60F2B299C1e24d5495F1307E492a522F580",
+		"address": "0x1E1Be60F2B299C1e24d5495F1307E492a522F580",
+		"symbol": "YDJ"
+	},
+	{
+		"dirname": "0x2aF9ebAbA0f3c988351339fd06A12B4eeF6D6989",
+		"address": "0x2af9ebaba0f3c988351339fd06a12b4eef6d6989",
+		"symbol": "YLS"
+	},
+	{
+		"dirname": "0x3b369c65e69Fc596c84d1eBf77d5E3753e367A8A",
+		"address": "0x3b369c65e69Fc596c84d1eBf77d5E3753e367A8A",
+		"symbol": "YYZ"
+	},
+	{
+		"dirname": "0x5AEc295a3FAe31CDF4C5bf534a9beaDF49746B3a",
+		"address": "0x5AEc295a3FAe31CDF4C5bf534a9beaDF49746B3a",
+		"symbol": "YWT"
+	},
+	{
+		"dirname": "0x693bF2fACbD16fE1a517285044344Ba0b68Dc44A",
+		"address": "0x693bF2fACbD16fE1a517285044344Ba0b68Dc44A",
+		"symbol": "YH"
+	},
+	{
+		"dirname": "0x7d9E1D0788A0eB37601c7E205A6E726778bBFaD3",
+		"address": "0x7d9E1D0788A0eB37601c7E205A6E726778bBFaD3",
+		"symbol": "YAFA"
+	},
+	{
+		"dirname": "0x830a84417057ba0A15d08D84dF99dA1631Aa552A",
+		"address": "0x830a84417057ba0A15d08D84dF99dA1631Aa552A",
+		"symbol": "YFSC"
+	},
+	{
+		"dirname": "0x83AAa9246d38F5CDf4508552610919c788a8E2bb",
+		"address": "0x83AAa9246d38F5CDf4508552610919c788a8E2bb",
+		"symbol": "YZB"
+	},
+	{
+		"dirname": "0x8e57812521D8A895404d8Fe4F13223592ec1f606",
+		"address": "0x8e57812521D8A895404d8Fe4F13223592ec1f606",
+		"symbol": "YFI6"
+	},
+	{
+		"dirname": "0x96a54d25c642b958b7f505c5fb9e1fba075bb4c3",
+		"address": "0x96a54d25c642b958b7f505c5fb9e1fba075bb4c3",
+		"symbol": "YZF"
+	},
+	{
+		"dirname": "0xB7eC60CF8EF96eD48b119277BC7a954A87f27388",
+		"address": "0xB7eC60CF8EF96eD48b119277BC7a954A87f27388",
+		"symbol": "YFSX"
+	},
+	{
+		"dirname": "0xc7551b05ed2540FDe821064cdd945eB7b72a6363",
+		"address": "0xc7551b05ed2540FDe821064cdd945eB7b72a6363",
+		"symbol": "YJ"
+	},
+	{
+		"dirname": "0xceCfE0684ec810b0b311F5B4DA9C2cFd460aE05b",
+		"address": "0xceCfE0684ec810b0b311F5B4DA9C2cFd460aE05b",
+		"symbol": "YH"
+	},
+	{
+		"dirname": "0xd05Dc9be7a49397C1ee02dcfAEa8f5Cf65be1867",
+		"address": "0xd05Dc9be7a49397C1ee02dcfAEa8f5Cf65be1867",
+		"symbol": "YBK"
+	},
+	{
+		"dirname": "0xe2398d163563D2B579e952EBe43474f3e7c0a115",
+		"address": "0xe2398d163563D2B579e952EBe43474f3e7c0a115",
+		"symbol": "YiDAO"
+	},
+	{
+		"dirname": "0xe2C89B590221693aFDa0E6DCd3f54BdF91e77A93",
+		"address": "0xe2C89B590221693aFDa0E6DCd3f54BdF91e77A93",
+		"symbol": "YBX"
+	},
+	{
+		"dirname": "0xE7b9666dab0732d41c7af16bc8ffFF176e6D484d",
+		"address": "0xE7b9666dab0732d41c7af16bc8ffFF176e6D484d",
+		"symbol": "Yibee"
+	},
+	{
+		"dirname": "0xE86e43220274a1E1712841408aA0C54ea5980644",
+		"address": "0xE86e43220274a1E1712841408aA0C54ea5980644",
+		"symbol": "YFSX"
+	},
+	{
+		"dirname": "0xec2DFaDCAa9b397aC57cC96De8391C2805709D0F",
+		"address": "0xec2DFaDCAa9b397aC57cC96De8391C2805709D0F",
+		"symbol": "YFSC"
+	},
+	{
+		"dirname": "0xeEEC438B2fc0A0C38DA8d69773A500548b71273c",
+		"address": "0xeEEC438B2fc0A0C38DA8d69773A500548b71273c",
+		"symbol": "YYDS"
+	},
+	{
+		"dirname": "0xF8357331711820F9cd91cC28442a108e18bC6f21",
+		"address": "0xF8357331711820F9cd91cC28442a108e18bC6f21",
+		"symbol": "Yi"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"dirname": "0x1F7229B0E1ca66b3599860c66B161edBB840F179",
+		"address": "0x1F7229B0E1ca66b3599860c66B161edBB840F179",
+		"symbol": "ISC"
+	},
+	{
+		"dirname": "0x35ce9f8efad7b694cb6b790d58c67eaf79385ab9",
+		"address": "0x35ce9f8efad7b694cb6b790d58c67eaf79385ab9",
+		"symbol": "Inception"
+	},
+	{
+		"dirname": "0x395EbA65f45e6864888580a81203e35B4be9a39C",
+		"address": "0x395EbA65f45e6864888580a81203e35B4be9a39C",
+		"symbol": "ITA"
+	},
+	{
+		"dirname": "0x41a0A0324526d45ba5658E9554395B8f9A877dBA",
+		"address": "0x41a0A0324526d45ba5658E9554395B8f9A877dBA",
+		"symbol": "INF"
+	},
+	{
+		"dirname": "0x617bA3d39E96C084E60C6db3f7B365A96eE4e555",
+		"address": "0x617bA3d39E96C084E60C6db3f7B365A96eE4e555",
+		"symbol": "IDO"
+	},
+	{
+		"dirname": "0x6F0967E1a8e8F30660955D7D9969BFd76bFe749E",
+		"address": "0x6F0967E1a8e8F30660955D7D9969BFd76bFe749E",
+		"symbol": "IPFS"
+	},
+	{
+		"dirname": "0x7268192a0e5882b21F13Fc857cF78299D8e3D75b",
+		"address": "0x7268192a0e5882b21F13Fc857cF78299D8e3D75b",
+		"symbol": "IONZ"
+	},
+	{
+		"dirname": "0x803C27c2cE80C3e18D1D0E74542bf4Ac8a008c60",
+		"address": "0x803C27c2cE80C3e18D1D0E74542bf4Ac8a008c60",
+		"symbol": "iPanda"
+	},
+	{
+		"dirname": "0x830F7A104a3dF30879D526031D57DAa44BF85686",
+		"address": "0x830F7A104a3dF30879D526031D57DAa44BF85686",
+		"symbol": "IBNB"
+	},
+	{
+		"dirname": "0x94eE560c7efF320d5E7a6Cc02f537c32248E837e",
+		"address": "0x94eE560c7efF320d5E7a6Cc02f537c32248E837e",
+		"symbol": "IFM"
+	},
+	{
+		"dirname": "0x9a7346A0B7967fd80F6Caa88ed3bcf07fF91504b",
+		"address": "0x9a7346A0B7967fd80F6Caa88ed3bcf07fF91504b",
+		"symbol": "icn"
+	},
+	{
+		"dirname": "0xB1FFd994970ce0952aFdf6aC89595267069F0551",
+		"address": "0xB1FFd994970ce0952aFdf6aC89595267069F0551",
+		"symbol": "IMAU"
+	},
+	{
+		"dirname": "0xb5e5Fa306cDCe27d6A574E20047Ed010ba6603e5",
+		"address": "0xb5e5Fa306cDCe27d6A574E20047Ed010ba6603e5",
+		"symbol": "ITF"
+	},
+	{
+		"dirname": "0xBDD1d5d1C1E9B2767188e29bf835af1b135BaE77",
+		"address": "0xBDD1d5d1C1E9B2767188e29bf835af1b135BaE77",
+		"symbol": "INBG"
+	},
+	{
+		"dirname": "0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB",
+		"address": "0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB",
+		"symbol": "INF"
+	},
+	{
+		"dirname": "0xCE5f07892ae38e42d889CA17ab88b9522e7367ee",
+		"address": "0xCE5f07892ae38e42d889CA17ab88b9522e7367ee",
+		"symbol": "IGG"
+	},
+	{
+		"dirname": "0xD3Af8E09894D69E937e37eeF46Df1cBF82b35C81",
+		"address": "0xD3Af8E09894D69E937e37eeF46Df1cBF82b35C81",
+		"symbol": "INDC"
+	},
+	{
+		"dirname": "0xF02188236708F2461E4ea726F9229fE4596be698",
+		"address": "0xF02188236708F2461E4ea726F9229fE4596be698",
+		"symbol": "inSF"
+	}
+]

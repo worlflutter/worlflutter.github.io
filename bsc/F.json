@@ -1,0 +1,667 @@
+[
+	{
+		"dirname": "0x0566B9a8fFb8908682796751EEd00722da967Be0",
+		"address": "0x0566B9a8fFb8908682796751EEd00722da967Be0",
+		"symbol": "FGD"
+	},
+	{
+		"dirname": "0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0",
+		"address": "0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0",
+		"symbol": "fCAKE"
+	},
+	{
+		"dirname": "0x05e87F3ff8c8A672a6D2262dc26aDBB9653E4Cb9",
+		"address": "0x05e87F3ff8c8A672a6D2262dc26aDBB9653E4Cb9",
+		"symbol": "FSTKING"
+	},
+	{
+		"dirname": "0x07281D572A4c0A5782Fc2256AC85FC728e0df0b1",
+		"address": "0x07281D572A4c0A5782Fc2256AC85FC728e0df0b1",
+		"symbol": "FTTZ"
+	},
+	{
+		"dirname": "0x0B165eD2633E08FE5e778E085e95C1C9b52e300D",
+		"address": "0x0B165eD2633E08FE5e778E085e95C1C9b52e300D",
+		"symbol": "FLS"
+	},
+	{
+		"dirname": "0x0B49857a572661CA319c3922F7CcBA6a1BbF3a17",
+		"address": "0x0B49857a572661CA319c3922F7CcBA6a1BbF3a17",
+		"symbol": "FXC"
+	},
+	{
+		"dirname": "0x0c12dc72c4293fc0b69e376ec1f7b030e98766af",
+		"address": "0x0c12dc72c4293fc0b69e376ec1f7b030e98766af",
+		"symbol": "FRBrabbit"
+	},
+	{
+		"dirname": "0x0D9D05884656f7958A68312a2F8A300d75567403",
+		"address": "0x0D9D05884656f7958A68312a2F8A300d75567403",
+		"symbol": "FAM"
+	},
+	{
+		"dirname": "0x11cf970C4fbadfdf996c74973F7B44Eb0F213664",
+		"address": "0x11cf970C4fbadfdf996c74973F7B44Eb0F213664",
+		"symbol": "FUSSY"
+	},
+	{
+		"dirname": "0x12f6EC9147695E77A36D61a5F44A61D631F80EB5",
+		"address": "0x12f6EC9147695E77A36D61a5F44A61D631F80EB5",
+		"symbol": "FX"
+	},
+	{
+		"dirname": "0x162e3e8b9e7bA1C03Ab7A18646093F192595E3e6",
+		"address": "0x162e3e8b9e7bA1C03Ab7A18646093F192595E3e6",
+		"symbol": "Fire Ants"
+	},
+	{
+		"dirname": "0x182D9Ba52e2780D0438E4623d9f74a8067a0655c",
+		"address": "0x182d9ba52e2780d0438e4623d9f74a8067a0655c",
+		"symbol": "FCH"
+	},
+	{
+		"dirname": "0x1C7B1de06AEc5251Cd20d61f15809fcB5b741ead",
+		"address": "0x1C7B1de06AEc5251Cd20d61f15809fcB5b741ead",
+		"symbol": "FNT"
+	},
+	{
+		"dirname": "0x1F46536325ecb129B3aFB2C34F7727D58Db63e57",
+		"address": "0x1F46536325ecb129B3aFB2C34F7727D58Db63e57",
+		"symbol": "FUT"
+	},
+	{
+		"dirname": "0x1F508e77Cd0D30792a2cf1558da3d5aD382328A4",
+		"address": "0x1F508e77Cd0D30792a2cf1558da3d5aD382328A4",
+		"symbol": "FOMO"
+	},
+	{
+		"dirname": "0x2006650cC450BC03a89d33d4A5c348C8b505CA47",
+		"address": "0x2006650cC450BC03a89d33d4A5c348C8b505CA47",
+		"symbol": "FRD"
+	},
+	{
+		"dirname": "0x20dd7F9FaF67D1991911c50BE8cC547184097518",
+		"address": "0x20dd7F9FaF67D1991911c50BE8cC547184097518",
+		"symbol": "FUBI"
+	},
+	{
+		"dirname": "0x2206C35e770b66fb6fd0D6c633101819E4358fb8",
+		"address": "0x2206c35e770b66fb6fd0d6c633101819e4358fb8",
+		"symbol": "FGD"
+	},
+	{
+		"dirname": "0x226039D64Cd91E06bdAcf67022b0369d47C2ba7A",
+		"address": "0x226039D64Cd91E06bdAcf67022b0369d47C2ba7A",
+		"symbol": "FTN"
+	},
+	{
+		"dirname": "0x2590d1e4108AAbdCEAa9FaB8c7e5d642b3E38Ee1",
+		"address": "0x2590d1e4108AAbdCEAa9FaB8c7e5d642b3E38Ee1",
+		"symbol": "FQ"
+	},
+	{
+		"dirname": "0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
+		"address": "0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
+		"symbol": "FLOKISHIB"
+	},
+	{
+		"dirname": "0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4",
+		"address": "0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4",
+		"symbol": "FLOKI"
+	},
+	{
+		"dirname": "0x2f976D4C22b6aDDCCd9d37dC37fb590aA61dBF2a",
+		"address": "0x2f976D4C22b6aDDCCd9d37dC37fb590aA61dBF2a",
+		"symbol": "FilBlue"
+	},
+	{
+		"dirname": "0x2fd3F1c2ab6C42b5B65e60Af7480488289E0084E",
+		"address": "0x2fd3F1c2ab6C42b5B65e60Af7480488289E0084E",
+		"symbol": "FootballDOGE"
+	},
+	{
+		"dirname": "0x30873D2bbC02766CD10efedB53b15490C6f991E7",
+		"address": "0x30873D2bbC02766CD10efedB53b15490C6f991E7",
+		"symbol": "FANS"
+	},
+	{
+		"dirname": "0x32F7501ecAB0F5ca7A277D7da5C078d57149D82e",
+		"address": "0x32F7501ecAB0F5ca7A277D7da5C078d57149D82e",
+		"symbol": "F1"
+	},
+	{
+		"dirname": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+		"address": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+		"symbol": "fBUSD"
+	},
+	{
+		"dirname": "0x398fC16AC7FE2B3C32eB43C3B8CD2F09155f57dB",
+		"address": "0x398fC16AC7FE2B3C32eB43C3B8CD2F09155f57dB",
+		"symbol": "FWH"
+	},
+	{
+		"dirname": "0x3A86693088985750F63db41373d8409f52be3fCc",
+		"address": "0x3A86693088985750F63db41373d8409f52be3fCc",
+		"symbol": "FIRE"
+	},
+	{
+		"dirname": "0x3b29290CcE0377f3B5f3059C6a8C2AC38f637685",
+		"address": "0x3b29290CcE0377f3B5f3059C6a8C2AC38f637685",
+		"symbol": "FC"
+	},
+	{
+		"dirname": "0x3B3951C95812B2f0FBfcFA1806b7693ddA9e9b7f",
+		"address": "0x3B3951C95812B2f0FBfcFA1806b7693ddA9e9b7f",
+		"symbol": "FISTS"
+	},
+	{
+		"dirname": "0x3Df48AF9E021867E35DFd43B2f9E980A7034e1d6",
+		"address": "0x3Df48AF9E021867E35DFd43B2f9E980A7034e1d6",
+		"symbol": "FOTK"
+	},
+	{
+		"dirname": "0x405fb128a35cb2294f2074d8e2e1d963c258ac39",
+		"address": "0x405fB128a35cb2294f2074D8e2e1d963C258aC39",
+		"symbol": "Firstmoon"
+	},
+	{
+		"dirname": "0x40ed1a2c92536dE4F7fBEE4e9a1675a70CbD0d71",
+		"address": "0x40ed1a2c92536dE4F7fBEE4e9a1675a70CbD0d71",
+		"symbol": "FLC"
+	},
+	{
+		"dirname": "0x42fDd09fcA12359f32E3D36f1700E480Ff6eBb49",
+		"address": "0x42fDd09fcA12359f32E3D36f1700E480Ff6eBb49",
+		"symbol": "fXRP"
+	},
+	{
+		"dirname": "0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55",
+		"address": "0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55",
+		"symbol": "firsthare"
+	},
+	{
+		"dirname": "0x4433398A4199bf2d5F57EC6d1f789aDd2B92622B",
+		"address": "0x4433398A4199bf2d5F57EC6d1f789aDd2B92622B",
+		"symbol": "FH"
+	},
+	{
+		"dirname": "0x4837EfCDc4Ca30cAB8Fa74A1f46452BF9e8bc598",
+		"address": "0x4837EfCDc4Ca30cAB8Fa74A1f46452BF9e8bc598",
+		"symbol": "FS"
+	},
+	{
+		"dirname": "0x4CC6303E0c308Bd8a6ee6bA989E41e3eb66B5D7B",
+		"address": "0x4CC6303E0c308Bd8a6ee6bA989E41e3eb66B5D7B",
+		"symbol": "FISTDAO"
+	},
+	{
+		"dirname": "0x52377Bd73BE79DB90324F1A951A13A02e640B57a",
+		"address": "0x52377Bd73BE79DB90324F1A951A13A02e640B57a",
+		"symbol": "FBDOG"
+	},
+	{
+		"dirname": "0x567FBCf55F66f9d6Ba1199c92f5e800b6f2F63Df",
+		"address": "0x567FBCf55F66f9d6Ba1199c92f5e800b6f2F63Df",
+		"symbol": "FTiger "
+	},
+	{
+		"dirname": "0x597828819C6A16Cea083Abb97a048984d1527eaB",
+		"address": "0x597828819C6A16Cea083Abb97a048984d1527eaB",
+		"symbol": "FANS"
+	},
+	{
+		"dirname": "0x5aba8B77422ac1625840F4C01145308c75634554",
+		"address": "0x5aba8b77422ac1625840f4c01145308c75634554",
+		"symbol": "FuckFake"
+	},
+	{
+		"dirname": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8",
+		"address": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8",
+		"symbol": "FA"
+	},
+	{
+		"dirname": "0x6108821d41d8e66ee8538dbba2184aa8d4814a13",
+		"address": "0x6108821d41d8e66ee8538dbba2184aa8d4814a13",
+		"symbol": "FIFA"
+	},
+	{
+		"dirname": "0x612502391f1f2D170dE3aA25E6f376f41Da56AFB",
+		"address": "0x612502391f1f2D170dE3aA25E6f376f41Da56AFB",
+		"symbol": "FlyDoge"
+	},
+	{
+		"dirname": "0x62c07281289e807d2aD7479E35e050264B5a3cBa",
+		"address": "0x62c07281289e807d2aD7479E35e050264B5a3cBa",
+		"symbol": "Fightdoge"
+	},
+	{
+		"dirname": "0x639f689ba5f911180204703ca3038e09d38ab6ce",
+		"address": "0x639f689ba5f911180204703ca3038e09d38ab6ce",
+		"symbol": "FITI"
+	},
+	{
+		"dirname": "0x63a472ec95527dcb79A3aA23170b9ece00A8Ad64",
+		"address": "0x63a472ec95527dcb79A3aA23170b9ece00A8Ad64",
+		"symbol": "FitApe"
+	},
+	{
+		"dirname": "0x669765d450e92d79fEBbB966a1eAD054cb62F33b",
+		"address": "0x669765d450e92d79fEBbB966a1eAD054cb62F33b",
+		"symbol": "FTTS"
+	},
+	{
+		"dirname": "0x6C5d567899c7edD04B1eD08Da28D936298405B21",
+		"address": "0x6C5d567899c7edD04B1eD08Da28D936298405B21",
+		"symbol": "FLS"
+	},
+	{
+		"dirname": "0x6d4967C33b3752cA9dbE3217B832b85F69E4948A",
+		"address": "0x6d4967C33b3752cA9dbE3217B832b85F69E4948A",
+		"symbol": "FGT"
+	},
+	{
+		"dirname": "0x6d5f32Ec8160Ed4Cb06E6a8752131DA389775C2a",
+		"address": "0x6d5f32Ec8160Ed4Cb06E6a8752131DA389775C2a",
+		"symbol": "FCS"
+	},
+	{
+		"dirname": "0x6DDB07fB0824748AC197F9D4d157B0689Bc08Add",
+		"address": "0x6DDB07fB0824748AC197F9D4d157B0689Bc08Add",
+		"symbol": "FRE"
+	},
+	{
+		"dirname": "0x6f8F7FD4C1C07dA8FA5C4D4e59AfbFD7b47d39C4",
+		"address": "0x6f8F7FD4C1C07dA8FA5C4D4e59AfbFD7b47d39C4",
+		"symbol": "FStar"
+	},
+	{
+		"dirname": "0x71D288C40cE3c51192fdED9344948d318EfF3688",
+		"address": "0x71D288C40cE3c51192fdED9344948d318EfF3688",
+		"symbol": "FUC"
+	},
+	{
+		"dirname": "0x7317466550586f1eeC20Fcbe3c0C68A570111786",
+		"address": "0x7317466550586f1eeC20Fcbe3c0C68A570111786",
+		"symbol": "FSI"
+	},
+	{
+		"dirname": "0x76407BB1dEfc9920Fe66BfDC9d33E1cBa8889d45",
+		"address": "0x76407BB1dEfc9920Fe66BfDC9d33E1cBa8889d45",
+		"symbol": "FoolsDoge"
+	},
+	{
+		"dirname": "0x772e9Bd714dce3A8E7115955FbD54cd31C4297Ac",
+		"address": "0x772e9Bd714dce3A8E7115955FbD54cd31C4297Ac",
+		"symbol": "F8"
+	},
+	{
+		"dirname": "0x7a97761a6dbb5109ec3a1a67e4e2bdc3a9ea58f0",
+		"address": "0x7a97761a6dbb5109ec3a1a67e4e2bdc3a9ea58f0",
+		"symbol": "FTB"
+	},
+	{
+		"dirname": "0x7D65b1e1b22Df1bF9F48748c10030D92f757F091",
+		"address": "0x7D65b1e1b22Df1bF9F48748c10030D92f757F091",
+		"symbol": "FTF"
+	},
+	{
+		"dirname": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+		"address": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+		"symbol": "fDOT"
+	},
+	{
+		"dirname": "0x7Fa7e41d5e005daB7e9Fe44F6cd44c02Cf2c45cC",
+		"address": "0x7Fa7e41d5e005daB7e9Fe44F6cd44c02Cf2c45cC",
+		"symbol": "Ferrari"
+	},
+	{
+		"dirname": "0x81f629387eF21CB79c39Cbca1c57149a07EbED1B",
+		"address": "0x81f629387eF21CB79c39Cbca1c57149a07EbED1B",
+		"symbol": "FRD"
+	},
+	{
+		"dirname": "0x82d306d9f940958B6895b22725903b309aaFFE06",
+		"address": "0x82d306d9f940958B6895b22725903b309aaFFE06",
+		"symbol": "FK"
+	},
+	{
+		"dirname": "0x874276938d036EB514A79F7A503C00452Fc7DF35",
+		"address": "0x874276938d036EB514A79F7A503C00452Fc7DF35",
+		"symbol": "FCN"
+	},
+	{
+		"dirname": "0x87b1AccE6a1958E522233A737313C086551a5c76",
+		"address": "0x87b1AccE6a1958E522233A737313C086551a5c76",
+		"symbol": "fBNB"
+	},
+	{
+		"dirname": "0x880BCe9321c79cAc1D290De6d31DDE722C606165",
+		"address": "0x880BCe9321c79cAc1D290De6d31DDE722C606165",
+		"symbol": "FREE"
+	},
+	{
+		"dirname": "0x899e2a220CBC6eb1Ab154211353EDED74BC1e266",
+		"address": "0x899e2a220CBC6eb1Ab154211353EDED74BC1e266",
+		"symbol": "FILST"
+	},
+	{
+		"dirname": "0x89c48fe146aFf05571a7443F82b5471483671465",
+		"address": "0x89c48fe146aFf05571a7443F82b5471483671465",
+		"symbol": "FWS"
+	},
+	{
+		"dirname": "0x8A65B987D9813f0a97446eDa0dE918b2573Ae406",
+		"address": "0x8A65B987D9813f0a97446eDa0dE918b2573Ae406",
+		"symbol": "FomoETH"
+	},
+	{
+		"dirname": "0x8aC5d36Dc0a710F0C76505ABBB929D8260A9eb8D",
+		"address": "0x8aC5d36Dc0a710F0C76505ABBB929D8260A9eb8D",
+		"symbol": "FC  "
+	},
+	{
+		"dirname": "0x8df6420E9223AA439737FbEFc744B4706C1d7e1F",
+		"address": "0x8df6420E9223AA439737FbEFc744B4706C1d7e1F",
+		"symbol": "FUSSY"
+	},
+	{
+		"dirname": "0x9087cbA5477DdC96B7ca86656b879A6eD49b717C",
+		"address": "0x9087cbA5477DdC96B7ca86656b879A6eD49b717C",
+		"symbol": "FISC"
+	},
+	{
+		"dirname": "0x9590b646aC3FE8FF9570A2BfCc033A78515DDAf5",
+		"address": "0x9590b646aC3FE8FF9570A2BfCc033A78515DDAf5",
+		"symbol": "FLA"
+	},
+	{
+		"dirname": "0x9772d2b4E0e86890b4E4e5b9446BaC39895cdac5",
+		"address": "0x9772d2b4e0e86890b4e4e5b9446bac39895cdac5",
+		"symbol": "FlyDoge"
+	},
+	{
+		"dirname": "0xa03706Caf95Daf033eFa98f5E200a7544f81b19D",
+		"address": "0xa03706Caf95Daf033eFa98f5E200a7544f81b19D",
+		"symbol": "FCN"
+	},
+	{
+		"dirname": "0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526",
+		"address": "0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526",
+		"symbol": "FAR"
+	},
+	{
+		"dirname": "0xa21f043F78F51CaBACF84960AaaCB7a2f8110b67",
+		"address": "0xa21f043F78F51CaBACF84960AaaCB7a2f8110b67",
+		"symbol": "FirstDoge"
+	},
+	{
+		"dirname": "0xa316f5ED04C3Cc6AfF914d9144e582B31c089FE9",
+		"address": "0xa316f5ED04C3Cc6AfF914d9144e582B31c089FE9",
+		"symbol": "FCT"
+	},
+	{
+		"dirname": "0xa41fbe30162137aee27a9b9AA5fb581a8949306E",
+		"address": "0xa41fbe30162137aee27a9b9AA5fb581a8949306E",
+		"symbol": "FoxDoge"
+	},
+	{
+		"dirname": "0xa4A031b87C2D6Dc00422da9478DdE24334E219AA",
+		"address": "0xa4A031b87C2D6Dc00422da9478DdE24334E219AA",
+		"symbol": "FISTTK"
+	},
+	{
+		"dirname": "0xA70ae4aCaA88A728b666B66edd034950Ceb6B62F",
+		"address": "0xA70ae4aCaA88A728b666B66edd034950Ceb6B62F",
+		"symbol": "FRP"
+	},
+	{
+		"dirname": "0xa74af19FC5f5996F34E8e2CB224A7a5c6C8d65B3",
+		"address": "0xa74af19FC5f5996F34E8e2CB224A7a5c6C8d65B3",
+		"symbol": "FDM"
+	},
+	{
+		"dirname": "0xa7d101FC5C82C07E8F4FDbee34125C4b0906A675",
+		"address": "0xa7d101FC5C82C07E8F4FDbee34125C4b0906A675",
+		"symbol": "FBU"
+	},
+	{
+		"dirname": "0xa83f74ca234d342bcc147250937ed325f2bbdad9",
+		"address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+		"symbol": "FUT"
+	},
+	{
+		"dirname": "0xA874A23e4b0C9d1d726ec88ade07850A63432032",
+		"address": "0xA874A23e4b0C9d1d726ec88ade07850A63432032",
+		"symbol": "FBOX"
+	},
+	{
+		"dirname": "0xa93e15caa52C9C2517b709b0b986a80b51b58B01",
+		"address": "0xa93e15caa52C9C2517b709b0b986a80b51b58B01",
+		"symbol": "FSY"
+	},
+	{
+		"dirname": "0xaA1DeB0768D3ee41673bcA440941709DfB3486a6",
+		"address": "0xaA1DeB0768D3ee41673bcA440941709DfB3486a6",
+		"symbol": "Firework"
+	},
+	{
+		"dirname": "0xac8E833EbD726523948521F84Cc1bEd350915ff4",
+		"address": "0xac8E833EbD726523948521F84Cc1bEd350915ff4",
+		"symbol": "FSC"
+	},
+	{
+		"dirname": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
+		"address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
+		"symbol": "FEGbsc"
+	},
+	{
+		"dirname": "0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A",
+		"address": "0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A",
+		"symbol": "FUT"
+	},
+	{
+		"dirname": "0xB2Dc20e31CC059257796A4fdB8a3F166b30bc086",
+		"address": "0xB2Dc20e31CC059257796A4fdB8a3F166b30bc086",
+		"symbol": "FUS"
+	},
+	{
+		"dirname": "0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B",
+		"address": "0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B",
+		"symbol": "fADA"
+	},
+	{
+		"dirname": "0xb90f003749b4B1bCA245b94245C8BfD6293121f2",
+		"address": "0xb90f003749b4B1bCA245b94245C8BfD6293121f2",
+		"symbol": "FTR"
+	},
+	{
+		"dirname": "0xbfEf9c113F22E62ef7008c28d82078dDC08F1204",
+		"address": "0xbfEf9c113F22E62ef7008c28d82078dDC08F1204",
+		"symbol": "FistTiger"
+	},
+	{
+		"dirname": "0xBFFC9A09cd852aC0F53e3988C4959ccbafc595a6",
+		"address": "0xBFFC9A09cd852aC0F53e3988C4959ccbafc595a6",
+		"symbol": "FSF"
+	},
+	{
+		"dirname": "0xc095A5B8C484f03196cc79320c38c5a3FeBbD543",
+		"address": "0xc095A5B8C484f03196cc79320c38c5a3FeBbD543",
+		"symbol": "FLOKI"
+	},
+	{
+		"dirname": "0xc2591D74cC6A0810847ADD242319d4b43c8e5f09",
+		"address": "0xc2591D74cC6A0810847ADD242319d4b43c8e5f09",
+		"symbol": "FMK"
+	},
+	{
+		"dirname": "0xc659DBe93BeB133BD3a378C2aa742D1CdC4f30FA",
+		"address": "0xc659DBe93BeB133BD3a378C2aa742D1CdC4f30FA",
+		"symbol": "FLOWER"
+	},
+	{
+		"dirname": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+		"address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+		"symbol": "FIST"
+	},
+	{
+		"dirname": "0xCBFfaCB134a4b1B617Be92F61BA621dD2aDB6b44",
+		"address": "0xCBFfaCB134a4b1B617Be92F61BA621dD2aDB6b44",
+		"symbol": "FUC"
+	},
+	{
+		"dirname": "0xCC617005ADB833Ff56A9DeEcc70d36d74959A5f8",
+		"address": "0xCC617005ADB833Ff56A9DeEcc70d36d74959A5f8",
+		"symbol": "FNT"
+	},
+	{
+		"dirname": "0xcCe5F4Cdc91fd2447FBE8A649275280af59fD832",
+		"address": "0xcCe5F4Cdc91fd2447FBE8A649275280af59fD832",
+		"symbol": "FREY"
+	},
+	{
+		"dirname": "0xcD3E0f859B34d462337172863009F5Fce898b1FB",
+		"address": "0xcD3E0f859B34d462337172863009F5Fce898b1FB",
+		"symbol": "FMK"
+	},
+	{
+		"dirname": "0xd2d251802606b7958DFBB0522aDD8A4DdB24C3EB",
+		"address": "0xd2d251802606b7958DFBB0522aDD8A4DdB24C3EB",
+		"symbol": "FID"
+	},
+	{
+		"dirname": "0xd3080c40fc9d46623d03a6b59f3d6ee530d50cc6",
+		"address": "0xd3080c40fc9d46623d03a6b59f3d6ee530d50cc6",
+		"symbol": "FOX"
+	},
+	{
+		"dirname": "0xD3ba3FB9014AB0b67ea9af05d9b690BFa2305DC2",
+		"address": "0xD3ba3FB9014AB0b67ea9af05d9b690BFa2305DC2",
+		"symbol": "fBTCB"
+	},
+	{
+		"dirname": "0xd8bd38029df39b4466b58b624aaf4be91863714d",
+		"address": "0xd8bd38029df39b4466b58b624aaf4be91863714d",
+		"symbol": "FLW"
+	},
+	{
+		"dirname": "0xD9756b2b47FE0f6Fc7Be06087a893c123C0b8253",
+		"address": "0xD9756b2b47FE0f6Fc7Be06087a893c123C0b8253",
+		"symbol": "FOX"
+	},
+	{
+		"dirname": "0xdC589955A6B19F0BA965813Ae51593CdEF44bD9a",
+		"address": "0xdC589955A6B19F0BA965813Ae51593CdEF44bD9a",
+		"symbol": "Fire Fox"
+	},
+	{
+		"dirname": "0xdc89a11D2c67AB93D2ef73a159c69523644001ff",
+		"address": "0xdc89a11D2c67AB93D2ef73a159c69523644001ff",
+		"symbol": "FDD"
+	},
+	{
+		"dirname": "0xDf251E0c76fcb7d0a81347553fa434ec903584A7",
+		"address": "0xDf251E0c76fcb7d0a81347553fa434ec903584A7",
+		"symbol": "FML"
+	},
+	{
+		"dirname": "0xe02DD9f57bf3e27cf4B5B436C94C33C37c32F36b",
+		"address": "0xe02DD9f57bf3e27cf4B5B436C94C33C37c32F36b",
+		"symbol": "FM3D"
+	},
+	{
+		"dirname": "0xe0a817d1f1AF8a8FfC66Ee319424d416Ba89cf02",
+		"address": "0xe0a817d1f1AF8a8FfC66Ee319424d416Ba89cf02",
+		"symbol": "FWB"
+	},
+	{
+		"dirname": "0xE235F5FBBD92e41aBe62F979e28AfF325cFE9D01",
+		"address": "0xE235F5FBBD92e41aBe62F979e28AfF325cFE9D01",
+		"symbol": "FUT"
+	},
+	{
+		"dirname": "0xE2998520406b55ceceC352e6FA6264CabD128BbC",
+		"address": "0xE2998520406b55ceceC352e6FA6264CabD128BbC",
+		"symbol": "FBL"
+	},
+	{
+		"dirname": "0xe7D692898CBa66a6f81AD98C997cC88D23103518",
+		"address": "0xe7D692898CBa66a6f81AD98C997cC88D23103518",
+		"symbol": "FirstSHIB"
+	},
+	{
+		"dirname": "0xea2f070c1b72012afb0ec30c267a792424027688",
+		"address": "0xea2f070c1b72012afb0ec30c267a792424027688",
+		"symbol": "FIVE"
+	},
+	{
+		"dirname": "0xeAA1f7dEb0e5E3d15Cab5C251a0CBe54f1281510",
+		"address": "0xeAA1f7dEb0e5E3d15Cab5C251a0CBe54f1281510",
+		"symbol": "FISTKING"
+	},
+	{
+		"dirname": "0xee33d16310DD102F45803F9C6EaE8Cdc39299F5f",
+		"address": "0xee33d16310DD102F45803F9C6EaE8Cdc39299F5f",
+		"symbol": "FREE001"
+	},
+	{
+		"dirname": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+		"address": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+		"symbol": "fUSDT"
+	},
+	{
+		"dirname": "0xf2e5e9eed15f08edc81b6cc653dc1e3be7fcb746",
+		"address": "0xf2e5e9eed15f08edc81b6cc653dc1e3be7fcb746",
+		"symbol": "Family"
+	},
+	{
+		"dirname": "0xf8aB4Be9b19e95B066C42F0935F2e4b1B62D8A71",
+		"address": "0xf8aB4Be9b19e95B066C42F0935F2e4b1B62D8A71",
+		"symbol": "FSD"
+	},
+	{
+		"dirname": "0xf917eEbDa43B21ca9789f20098Fa609297D89440",
+		"address": "0xf917eEbDa43B21ca9789f20098Fa609297D89440",
+		"symbol": "FomoDogeKing"
+	},
+	{
+		"dirname": "0xf983fcbedfc59d53425de5eb1cdea806db9c1cef",
+		"address": "0xf983fcbedfc59d53425de5eb1cdea806db9c1cef",
+		"symbol": "FLOKI"
+	},
+	{
+		"dirname": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+		"address": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+		"symbol": "fDOGE"
+	},
+	{
+		"dirname": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+		"address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+		"symbol": "FLOKI"
+	},
+	{
+		"dirname": "0xfB6CA216c08178F218c0b3983f81E066cB946199",
+		"address": "0xfB6CA216c08178F218c0b3983f81E066cB946199",
+		"symbol": "FTC"
+	},
+	{
+		"dirname": "0xFC6070a75BE7709ED7797aef1Ef19aC872279F36",
+		"address": "0xFC6070a75BE7709ED7797aef1Ef19aC872279F36",
+		"symbol": "FBL"
+	},
+	{
+		"dirname": "0xFDD40CEbCDe1E98B6492Dfd016b9F8B99B7aF1C1",
+		"address": "0xFDD40CEbCDe1E98B6492Dfd016b9F8B99B7aF1C1",
+		"symbol": "FOF"
+	},
+	{
+		"dirname": "0xFF2088ceDE2F70761Deb5C6De6846ab795494160",
+		"address": "0xFF2088ceDE2F70761Deb5C6De6846ab795494160",
+		"symbol": "FWS"
+	},
+	{
+		"dirname": "0xfF99934d649A1C45164eafa605cf541a6Ff6B2B4",
+		"address": "0xfF99934d649A1C45164eafa605cf541a6Ff6B2B4",
+		"symbol": "FISTS"
+	}
+]

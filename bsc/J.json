@@ -1,0 +1,152 @@
+[
+	{
+		"dirname": "0x01D56D92Be56507D1aa4Ff422c006779269F4871",
+		"address": "0x01D56D92Be56507D1aa4Ff422c006779269F4871",
+		"symbol": "JKZH"
+	},
+	{
+		"dirname": "0x08B583c26d986bB38F37b4915297CBa3D8F01694",
+		"address": "0x08B583c26d986bB38F37b4915297CBa3D8F01694",
+		"symbol": "JDC"
+	},
+	{
+		"dirname": "0x0ffaE86154F4b2CFac0B3d1bA9cc0f6960e0864b",
+		"address": "0x0ffaE86154F4b2CFac0B3d1bA9cc0f6960e0864b",
+		"symbol": "JOIN"
+	},
+	{
+		"dirname": "0x282aE8AD240A6BA96f2651F4aB68995D6388E951",
+		"address": "0x282aE8AD240A6BA96f2651F4aB68995D6388E951",
+		"symbol": "JSJ"
+	},
+	{
+		"dirname": "0x377a37c05FB9fe3cCa8aF26fB394fd8385D54d49",
+		"address": "0x377a37c05FB9fe3cCa8aF26fB394fd8385D54d49",
+		"symbol": "JKC"
+	},
+	{
+		"dirname": "0x3B1Ebf374C25f78A856532E181840BA9eAE20800",
+		"address": "0x3B1Ebf374C25f78A856532E181840BA9eAE20800",
+		"symbol": "JFC"
+	},
+	{
+		"dirname": "0x434638a54ea35d4f12a09b6e3b653c9072856295",
+		"address": "0x434638a54ea35d4f12a09b6E3B653C9072856295",
+		"symbol": "JDC"
+	},
+	{
+		"dirname": "0x44c098782990966Ec3aD27a7fA43947358EeB2C3",
+		"address": "0x44c098782990966Ec3aD27a7fA43947358EeB2C3",
+		"symbol": "JUB"
+	},
+	{
+		"dirname": "0x4c04b5f0eb280e43a783d67a3bc09808b957faf0",
+		"address": "0x4c04b5f0eb280e43a783d67a3bc09808b957faf0",
+		"symbol": "JDC"
+	},
+	{
+		"dirname": "0x4D071352a133Eb830Ae02acEBbA162dca39C2FB5",
+		"address": "0x4D071352a133Eb830Ae02acEBbA162dca39C2FB5",
+		"symbol": "JOLIN"
+	},
+	{
+		"dirname": "0x4e233e138fce03eec9f74c9ac91f9d85bdfec260",
+		"address": "0x4E233e138fce03eeC9F74c9Ac91F9D85bdfEC260",
+		"symbol": "JFH "
+	},
+	{
+		"dirname": "0x59cC61BF9fd75368e8c06CE17E43C6aC59F516C3",
+		"address": "0x59cC61BF9fd75368e8c06CE17E43C6aC59F516C3",
+		"symbol": "JRSP"
+	},
+	{
+		"dirname": "0x5Dd56af2AC9AAC1263155fA8B820bFCa27DE5d7C",
+		"address": "0x5Dd56af2AC9AAC1263155fA8B820bFCa27DE5d7C",
+		"symbol": "JERA"
+	},
+	{
+		"dirname": "0x69e9541C067d092a21109FE238d231469381775E",
+		"address": "0x69e9541C067d092a21109FE238d231469381775E",
+		"symbol": "JBKING"
+	},
+	{
+		"dirname": "0x746e53502e50a7eb0c1eabaa6a99eef970f47685",
+		"address": "0x746E53502e50A7eB0c1EAbaA6A99eEF970F47685",
+		"symbol": "Ji"
+	},
+	{
+		"dirname": "0x83a516b768672866b223BE40dca276C302d110C1",
+		"address": "0x83a516b768672866b223BE40dca276C302d110C1",
+		"symbol": "JESUS"
+	},
+	{
+		"dirname": "0x8Dcff5Ba47aa24CFEb73A2262b7cD6D18739600c",
+		"address": "0x8Dcff5Ba47aa24CFEb73A2262b7cD6D18739600c",
+		"symbol": "J9BC"
+	},
+	{
+		"dirname": "0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6",
+		"address": "0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6",
+		"symbol": "JKT"
+	},
+	{
+		"dirname": "0x950591B0f2E13453aBDF627b83D30A2Eb09C7Eaa",
+		"address": "0x950591b0f2e13453abdf627b83d30a2eb09c7eaa",
+		"symbol": "JOCK"
+	},
+	{
+		"dirname": "0xA750D6c17aec9d48f340Ab42C92C37F12D79e7f5",
+		"address": "0xA750D6c17aec9d48f340Ab42C92C37F12D79e7f5",
+		"symbol": "JDOGEDAO"
+	},
+	{
+		"dirname": "0xAD5E1a9a14dff89Ee48ddAfAAe36B4B0615498e2",
+		"address": "0xAD5E1a9a14dff89Ee48ddAfAAe36B4B0615498e2",
+		"symbol": "JS"
+	},
+	{
+		"dirname": "0xB14e82d1cc74c0BfB99ACC33D718BaF6D12e1109",
+		"address": "0xB14e82d1cc74c0BfB99ACC33D718BaF6D12e1109",
+		"symbol": "JIWE"
+	},
+	{
+		"dirname": "0xBe4628d7E02e9257875149FA4981C400a01A49A3",
+		"address": "0xBe4628d7E02e9257875149FA4981C400a01A49A3",
+		"symbol": "JAILDOGE"
+	},
+	{
+		"dirname": "0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667",
+		"address": "0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667",
+		"symbol": "4JNET"
+	},
+	{
+		"dirname": "0xD3bD43577192e2185DF7561DbB5e2B10Bf0aa4DF",
+		"address": "0xD3bD43577192e2185DF7561DbB5e2B10Bf0aa4DF",
+		"symbol": "JayChouDAO"
+	},
+	{
+		"dirname": "0xddcfE7b3Bb239FD6B37B09B36ceFbc31613359b8",
+		"address": "0xddcfE7b3Bb239FD6B37B09B36ceFbc31613359b8",
+		"symbol": "JW"
+	},
+	{
+		"dirname": "0xE3Da864CDc7B55d4195d79905D7d473C84a97Ee6",
+		"address": "0xE3Da864CDc7B55d4195d79905D7d473C84a97Ee6",
+		"symbol": "JOIN"
+	},
+	{
+		"dirname": "0xe73c081cB82f1e8486f18a833D547a33F28B1A45",
+		"address": "0xe73c081cB82f1e8486f18a833D547a33F28B1A45",
+		"symbol": "JGB"
+	},
+	{
+		"dirname": "0xef56555E5F98DF633303be29F446FE4e4ec9c342",
+		"address": "0xef56555E5F98DF633303be29F446FE4e4ec9c342",
+		"symbol": "JINGW"
+	},
+	{
+		"dirname": "0xf30925b40C9AEAba7bEbe89549336E49F3A4d360",
+		"address": "0xf30925b40C9AEAba7bEbe89549336E49F3A4d360",
+		"symbol": "JAM"
+	}
+]
