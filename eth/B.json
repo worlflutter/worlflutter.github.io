@@ -1,0 +1,52 @@
+[
+	{
+		"dirname": "0x0271B6B5bC3e3AB74AFDC8Ca39481220588b8AFB",
+		"address": "0x0271B6B5bC3e3AB74AFDC8Ca39481220588b8AFB",
+		"symbol": "BWARE"
+	},
+	{
+		"dirname": "0x0885D134fb2c78deaDeeb6962d1eC796f0cFF43C",
+		"address": "0x0885D134fb2c78deaDeeb6962d1eC796f0cFF43C",
+		"symbol": "BODI"
+	},
+	{
+		"dirname": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
+		"address": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
+		"symbol": "BitANT"
+	},
+	{
+		"dirname": "0x1e8433F5017B3006f634293Ed9Ecf0e9504CdB25",
+		"address": "0x1e8433F5017B3006f634293Ed9Ecf0e9504CdB25",
+		"symbol": "BLOG"
+	},
+	{
+		"dirname": "0x24196B54b6400049f69Fa7F92C3634dfa44689F0",
+		"address": "0x24196B54b6400049f69Fa7F92C3634dfa44689F0",
+		"symbol": "BOSO"
+	},
+	{
+		"dirname": "0x61955b6d6fd039Ca35208905C8c7b6f0BD42DC60",
+		"address": "0x61955b6d6fd039Ca35208905C8c7b6f0BD42DC60",
+		"symbol": "BigDoge"
+	},
+	{
+		"dirname": "0x63510AFA9e76033c68B8e001bAEf6a2f133e317D",
+		"address": "0x63510AFA9e76033c68B8e001bAEf6a2f133e317D",
+		"symbol": "BTTI"
+	},
+	{
+		"dirname": "0x88a23C650e8C72960596Acad5901CAE56cE6EF35",
+		"address": "0x88a23C650e8C72960596Acad5901CAE56cE6EF35",
+		"symbol": "BRK"
+	},
+	{
+		"dirname": "0x8bBa61E0668D3821413786D2Bd49B4D44AD5d26d",
+		"address": "0x8bBa61E0668D3821413786D2Bd49B4D44AD5d26d",
+		"symbol": "BABYSHIB"
+	},
+	{
+		"dirname": "0xFaa8c0e091aDD5Ac7112a67e6afD6DA9fc760d5a",
+		"address": "0xFaa8c0e091aDD5Ac7112a67e6afD6DA9fc760d5a",
+		"symbol": "BITI"
+	}
+]

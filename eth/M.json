@@ -1,0 +1,27 @@
+[
+	{
+		"dirname": "0x6251e725cd45fb1af99354035a414a2c0890b929",
+		"address": "0x6251e725cd45fb1af99354035a414a2c0890b929",
+		"symbol": "MXT"
+	},
+	{
+		"dirname": "0x8D95026D139f855B1458F3B8F48960C103D21ABB",
+		"address": "0x8D95026D139f855B1458F3B8F48960C103D21ABB",
+		"symbol": "MXS"
+	},
+	{
+		"dirname": "0xC120dBB74a1f9764D46dE19fb5C70cE71317cBEb",
+		"address": "0xC120dBB74a1f9764D46dE19fb5C70cE71317cBEb",
+		"symbol": "MTE"
+	},
+	{
+		"dirname": "0xcAa9Ed6D7502595B555113D4517668aE24038C8a",
+		"address": "0xcAa9Ed6D7502595B555113D4517668aE24038C8a",
+		"symbol": "MARVIN"
+	},
+	{
+		"dirname": "0xd0e818391623487be25e89170ea0c40ff09c8278",
+		"address": "0xd0e818391623487be25e89170ea0c40ff09c8278",
+		"symbol": "Mmax"
+	}
+]
