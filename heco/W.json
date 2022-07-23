@@ -1,0 +1,62 @@
+[
+	{
+		"dirname": "0x1935F765D492844857aEDa50bc5c27fC56A9858a",
+		"address": "0x1935F765D492844857aEDa50bc5c27fC56A9858a",
+		"symbol": "WKT"
+	},
+	{
+		"dirname": "0x193C7D6B6DE8c0F34c857B14df818bdaFD5Ae476",
+		"address": "0x193C7D6B6DE8c0F34c857B14df818bdaFD5Ae476",
+		"symbol": "WLC"
+	},
+	{
+		"dirname": "0x2a789C4CED94eadB2F10C74078e21b3527f571C0",
+		"address": "0x2a789C4CED94eadB2F10C74078e21b3527f571C0",
+		"symbol": "WXTZ"
+	},
+	{
+		"dirname": "0x30240b13fdad9eFEB7a8A85994241374090186a9",
+		"address": "0x30240b13fdad9eFEB7a8A85994241374090186a9",
+		"symbol": "WON"
+	},
+	{
+		"dirname": "0x3188F845f98dC0Ca341F08ACF85E3aC0519853A2",
+		"address": "0x3188F845f98dC0Ca341F08ACF85E3aC0519853A2",
+		"symbol": "WS"
+	},
+	{
+		"dirname": "0x448a51C8aCb1d5d29E826f0a1E7C148d647171e5",
+		"address": "0x448a51C8aCb1d5d29E826f0a1E7C148d647171e5",
+		"symbol": "WP"
+	},
+	{
+		"dirname": "0x6e3Db53f074add9D0067E033C29a6EE1a70DFC01",
+		"address": "0x6e3Db53f074add9D0067E033C29a6EE1a70DFC01",
+		"symbol": "WCB"
+	},
+	{
+		"dirname": "0x85dCB8609b97FE804819895D339cB9D438C02204",
+		"address": "0x85dCB8609b97FE804819895D339cB9D438C02204",
+		"symbol": "WBT"
+	},
+	{
+		"dirname": "0x9e6828085f877f528258109ae27ab7cb8d6f9f80",
+		"address": "0x9e6828085F877f528258109Ae27aB7CB8d6F9F80",
+		"symbol": "WZRY"
+	},
+	{
+		"dirname": "0xc60CEAe8E1C0b2C8532b0d4D75b2757F561D04Dc",
+		"address": "0xc60CEAe8E1C0b2C8532b0d4D75b2757F561D04Dc",
+		"symbol": "WOE"
+	},
+	{
+		"dirname": "0xcE2519673476e05fA5F41BF8Bf5725eb8CF52111",
+		"address": "0xcE2519673476e05fA5F41BF8Bf5725eb8CF52111",
+		"symbol": "wwcs"
+	},
+	{
+		"dirname": "0xCF4bc894197AA56435D286B97beF0C453a42a3A5",
+		"address": "0xCF4bc894197AA56435D286B97beF0C453a42a3A5",
+		"symbol": "WGME"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"dirname": "0x20dB9Bb09048AE08F6ecfF4fB9700FD2090E3379",
+		"address": "0x20db9bb09048ae08f6ecff4fb9700fd2090e3379",
+		"symbol": "KAROO"
+	},
+	{
+		"dirname": "0x3Be5f3Fc6079f90060097F4a503D1c4B914A84bA",
+		"address": "0x3Be5f3Fc6079f90060097F4a503D1c4B914A84bA",
+		"symbol": "KBB"
+	},
+	{
+		"dirname": "0x5B741408c85193fE88b34AcBc73e2C67953DFE1e",
+		"address": "0x5B741408c85193fE88b34AcBc73e2C67953DFE1e",
+		"symbol": "KOF"
+	},
+	{
+		"dirname": "0x836C9151d2070DEc1Fae8F50Ad7755eDC97a4d40",
+		"address": "0x836C9151d2070DEc1Fae8F50Ad7755eDC97a4d40",
+		"symbol": "KFB"
+	},
+	{
+		"dirname": "0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899",
+		"address": "0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899",
+		"symbol": "KOK"
+	},
+	{
+		"dirname": "0xB56D762F75ED7C071BE9acED8aD7571379fb9084",
+		"address": "0xB56D762F75ED7C071BE9acED8aD7571379fb9084",
+		"symbol": "KOF"
+	},
+	{
+		"dirname": "0xC551F19D579Dec25747df43E3AEc007051a59C96",
+		"address": "0xC551F19D579Dec25747df43E3AEc007051a59C96",
+		"symbol": "KBNFT"
+	},
+	{
+		"dirname": "0xCc9Dc6af109FCeaB7bE276b6Bda22C81106473C1",
+		"address": "0xCc9Dc6af109FCeaB7bE276b6Bda22C81106473C1",
+		"symbol": "KXM"
+	},
+	{
+		"dirname": "0xD81111380057780Daf38851850849F741C5CDE56",
+		"address": "0xD81111380057780Daf38851850849F741C5CDE56",
+		"symbol": "KKc"
+	},
+	{
+		"dirname": "0xDD6b659D4C1d211f3139cd54931c925ccaeE42de",
+		"address": "0xDD6b659D4C1d211f3139cd54931c925ccaeE42de",
+		"symbol": "King Crown"
+	},
+	{
+		"dirname": "0xdfBc2171A206889Bce657de4Bf08fDD466e8Fb31",
+		"address": "0xdfBc2171A206889Bce657de4Bf08fDD466e8Fb31",
+		"symbol": "KIT"
+	},
+	{
+		"dirname": "0xeE304cD96Ff2EBBE3aF8fdCf75C11F9C3a4eD18F",
+		"address": "0xeE304cD96Ff2EBBE3aF8fdCf75C11F9C3a4eD18F",
+		"symbol": "KBX"
+	}
+]
