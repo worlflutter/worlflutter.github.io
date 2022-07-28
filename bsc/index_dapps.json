@@ -51,28 +51,10 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/cosmicc_game.png"
                     },
                     {
-                        "name": "DODO",
-                        "des": "",
-                        "url": "http://app.dodoex.io/?utm_source=tokenpocket",
-                        "logo": "https://s2.bqiapp.com/logo/2/dodo.png"
-                    },
-                    {
                         "name": "代币发行-BSC",
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
-                    },
-                    {
-                        "name": "PinSwap",
-                        "des": "GameiFi多链聚合去中心化交易系统",
-                        "url": "https://pinswap.gitee.io/#/transaction",
-                        "logo": "https://pinswap.gitee.io/icon/pintoken.png"
-                    },
-                    {
-                        "name": "KLT",
-                        "des": "",
-                        "url": "https://klend.finance?ref=tp&utm_source=tokenpocket",
-                        "logo": "https://s2.bqiapp.com/logo/1/klend.png?x-oss-process=style/coin_72&v=1619057557"
                     },
                     {
                         "name": "跨链桥",
