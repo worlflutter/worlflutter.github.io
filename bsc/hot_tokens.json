@@ -2,93 +2,165 @@
   "errorCode": 0,
   "reason": "获取成功",
   "data": [
-   {
-    "protocol": "20",
-    "name": "WBNB Token",
-    "symbol": "BNB",
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
-  },
-  {
-    "protocol": "20",
-    "address": "0xe9c7a827a4ba133b338b844c19241c864e95d75f",
-    "decimals": "6",
-    "name": "FileSystemVideo",
-    "symbol": "FSV",
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xe9c7a827a4ba133b338b844c19241c864e95d75f.png"
-  },
-  {
-    "protocol": "20",
-    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
-    "name": "PancakeSwap Token ",
-    "symbol": "CAKE"
-  },
-  {
-    "protocol": "20",
-    "name": "Dai Token ",
-    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png",
-    "symbol": "DAI"
-  },
-  {
-    "protocol": "20",
-    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "decimals": "18",
-    "name": "BUSD Token",
-    "symbol": "BUSD",
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
-  },
-  {
-    "protocol": "20",
-    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png",
-    "name": "Polkadot Token ",
-    "symbol": "DOT"
-  },
-  {
-    "protocol": "20",
-    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png",
-    "name": "ChainLink Token",
-    "symbol": "LINK"
-  },
-  {
-    "protocol": "20",
-    "address": "0x55d398326f99059ff775485246999027b3197955",
-    "decimals": "18",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x55d398326f99059fF775485246999027B3197955.png"
-  },
-  {
-    "protocol": "20",
-    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.png",
-    "name": "SushiToken",
-    "symbol": "SUSHI"
-  },
-  {
-    "protocol": "20",
-    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png",
-    "name": "Uniswap",
-    "symbol": "UNI"
-  },
-  {
-    "protocol": "20",
-    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-    "decimals": 18,
-    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png",
-    "name": "USD Coin",
-    "symbol": "USDC"
-  }
+    {
+      "name": " ",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130821621.png"
+    },
+    {
+      "name": "BSC-HO",
+      "protocol": "20",
+      "symbol": "BSC-HO",
+      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
+    },
+    {
+      "name": "FAR",
+      "protocol": "20",
+      "symbol": "FAR",
+      "address": "0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526",
+      "decimals": 18,
+      "logoURL": "https://zeedlogo.s3.ap-east-1.amazonaws.com/FAR-ICON-PNG-96.png"
+    },
+    {
+      "name": "ZEED",
+      "protocol": "20",
+      "symbol": "ZEED",
+      "address": "0xB2F53069E1555793481aAfe639F8E274f4Ec8435",
+      "decimals": 18,
+      "logoURL": "https://zeedlogo.s3.ap-east-1.amazonaws.com/2x4.png"
+    },
+    {
+      "name": "BUSD Token\n",
+      "protocol": "20",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130804559.png"
+    },
+    {
+      "name": "HOS",
+      "protocol": "20",
+      "symbol": "HOS",
+      "address": "0xa0949F33FA921ca2571d469A1a4b08649838D34C",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hos-logo.png"
+    },
+    {
+      "name": "HOR",
+      "protocol": "20",
+      "symbol": "HOR",
+      "address": "0xc399DebeAa5a580D3AaBdaf1164Ed8f056D09fc8",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hor-logo-96-2.png"
+    },
+    {
+      "name": "LPT",
+      "protocol": "20",
+      "symbol": "LPT",
+      "address": "0xD5cbBF337B9Baddc489EB088090f475CA0131a80",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620639847117.png"
+    },
+    {
+      "name": "RRB",
+      "protocol": "20",
+      "symbol": "RRB",
+      "address": "0xa8d22026119bC8A33941853614148Fda61971d4D",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/rrb.jpg"
+    },
+    {
+      "name": "CAKE-LP",
+      "protocol": "20",
+      "symbol": "CAKE-LP",
+      "address": "0xc1b5ce0a8c25e8aba618f96f08d0b6c871b32a59",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/h%26u.png"
+    },
+    {
+      "name": "TokenPocket Token",
+      "protocol": "20",
+      "symbol": "TPT",
+      "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
+      "decimals": 4,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1613793834475.png"
+    },
+    {
+      "name": "Pig Token",
+      "protocol": "20",
+      "symbol": "PIG",
+      "address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+      "decimals": 9,
+      "logoURL": "https://bscscan.com/token/images/pigtoken_32.png?=v2"
+    },
+    {
+      "name": "DOGGY",
+      "protocol": "20",
+      "symbol": "DOGGY",
+      "address": "0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1620791551802.jpg"
+    },
+    {
+      "name": "PIN",
+      "protocol": "20",
+      "symbol": "PIN",
+      "address": "0xb86126b872e3f23bc62d6a4a3152ec65202a2073",
+      "decimals": 18,
+      "logoURL": "https://pinswap.gitee.io/icon/pinswap.png"
+    },
+    {
+      "name": "MOS",
+      "protocol": "20",
+      "symbol": "MOS",
+      "address": "0x51760576279bF7Ee35631d33edE4757De19D985D",
+      "decimals": 18,
+      "logoURL": "https://s3.ap-northeast-2.amazonaws.com/halo.land/hashpay/logo.png"
+    },
+    {
+      "name": "Ethereum Token\n",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397965901.png"
+    },
+    {
+      "name": "Polkadot Token\n",
+      "protocol": "20",
+      "symbol": "DOT",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397751349.png"
+    },
+    {
+      "name": "MDX",
+      "protocol": "20",
+      "symbol": "MDX",
+      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "decimals": 18,
+      "logoURL": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1617871648325.png"
+    },
+    {
+      "name": "NAR",
+      "protocol": "20",
+      "symbol": "NAR",
+      "address": "0x777ACbC3B6E9b22019980C5F41f9E04Cd51a4a4B",
+      "decimals": 18,
+      "logoURL": "https://zeedlogo.s3.ap-east-1.amazonaws.com/nar.jpg"
+    },
+    {
+      "name": "HBG",
+      "protocol": "20",
+      "symbol": "HBG",
+      "address": "0xe64Fd924909D2a441a85d82b633A4CC3c86E0f20",
+      "decimals": 18,
+      "logoURL": "https://zeedlogo.s3.ap-east-1.amazonaws.com/hbg.jpg"
+    }
   ]
 }
