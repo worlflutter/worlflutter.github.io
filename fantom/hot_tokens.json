@@ -24,7 +24,7 @@
       "symbol": "USDC",
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
       "decimals": 6,
-      "logo": "https://ftmscan.com/token/images/USDC_32.png"
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
     },
     {
       "name": "DAI",
