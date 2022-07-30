@@ -8,7 +8,7 @@
       "symbol": "USDT",
       "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
     {
       "name": "USDC",
@@ -24,7 +24,7 @@
       "symbol": "DAI",
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "decimals": 18,
-      "logo": "https://arbiscan.io/token/images/MCDDai_32.png"
+      "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
     },
     {
       "name": "WBTC",

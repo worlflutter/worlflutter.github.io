@@ -6,9 +6,9 @@
       "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
-      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/USDT-HORC-PNG-96.png"
     },
     {
       "name": "USDC",

@@ -48,7 +48,7 @@
       "symbol": "WBTC",
       "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
       "decimals": 8,
-      "logo": "https://moonbeam.moonscan.io/token/images/wbtc_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/wbtc_32.png"
     },
     {
       "name": "FTM",
