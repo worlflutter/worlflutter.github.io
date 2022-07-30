@@ -8,7 +8,7 @@
       "symbol": "USDT",
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
     {
       "name": "USDC",
@@ -16,23 +16,7 @@
       "symbol": "USDC",
       "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "name": "TMOON",
-      "protocol": "20",
-      "symbol": "TMOON",
-      "address": "0x1224C2D4461aD0841A181Fe6b17B493708BC4ce9",
-      "decimals": 18,
-      "logoURI": "https://blockscout.com/images/icons/moon.png"
-    },
-    {
-      "name": "GNO",
-      "protocol": "20",
-      "symbol": "GNO",
-      "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
     },
     {
       "name": "MATIC",
@@ -40,23 +24,7 @@
       "symbol": "MATIC",
       "address": "0x74e596525C63393f42C76987b6A66F4e52733efa",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
-    },
-    {
-      "name": "WETH",
-      "protocol": "20",
-      "symbol": "WETH",
-      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-      "decimals": 18,
-      "logoURI": "https://s2.bqiapp.com/logo/1/ethereum.png?x-oss-process=style/coin_72"
-    },
-    {
-      "name": "STAKE",
-      "protocol": "20",
-      "symbol": "STAKE",
-      "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png"
     }
   ]
 }
