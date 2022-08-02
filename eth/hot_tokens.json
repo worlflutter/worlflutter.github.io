@@ -35,7 +35,7 @@
               "logoURI": "https://tp-statics.tokenpocket.pro/token/1567500470273-ethx.png"
           },
           {
-              "chainId": 1,
+              "protocol": "20",
               "name": "SushiSwap",
               "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
               "decimals": 18,
@@ -51,7 +51,7 @@
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png"
           },
           {
-              "chainId": 1,
+              "protocol": "20",
               "name": "yearn.finance",
               "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
               "decimals": 18,
