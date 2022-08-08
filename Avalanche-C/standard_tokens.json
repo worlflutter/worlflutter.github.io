@@ -6,7 +6,7 @@
       "name": "AVAX",
       "protocol": "20",
       "symbol": "AVAX",
-      "address": null,
+      "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
     }
