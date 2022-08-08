@@ -6,7 +6,7 @@
       "name": "HO",
       "protocol": "20",
       "symbol": "HO",
-      "address": null,
+      "address": "",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/halo_logo.png"
     },
