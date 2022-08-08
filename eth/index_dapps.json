@@ -55,12 +55,6 @@
                         "des": "流动性提供者在所有交易中赚取0.3%的费用，与他们在池中的份额成比例。费用被添加到池中，实时累积，并可以通过收回你的流动性来要求。",
                         "url": "https://app.uniswap.org",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
-                    },
-                    {
-                        "name": "Aave",
-                        "des": "Aave是一个开放源代码和非管理协议，旨在使存款利息和可变或稳定的利率，以资产借款。该协议旨在。易于与其他与DeFi相关的服务集成。",
-                        "url": "https://app.aave.com/markets",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/aave.png"
                     }
                 ]
             }
