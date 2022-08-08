@@ -6,7 +6,7 @@
       "name": " GLMR",
       "protocol": "20",
       "symbol": "GLMR",
-      "address": null,
+      "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png"
     }
