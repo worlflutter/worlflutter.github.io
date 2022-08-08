@@ -55,12 +55,6 @@
                         "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
                         "url": "https://app.uniswap.org",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
-                    },
-                    {
-                        "name": "Aave",
-                        "des": "Aave is an open source code and unmanaged agreement, aims to make depositInterest and with variable or stable interest rates, borrowing in assets. The agreement aims to.Easy integration with other services related to DeFi.",
-                        "url": "https://app.aave.com/markets",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/aave.png"
                     }
                 ]
             }
