@@ -16,7 +16,7 @@
               "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
               "decimals": 18,
               "symbol": "DAI",
-              "logoURI": "https://tp-statics.tokenpocket.pro/token/1567500470273-ethx.png"
+              "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
           },
           {
               "name": "Uniswap",
@@ -32,10 +32,10 @@
               "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
               "decimals": 6,
               "symbol": "USDT",
-              "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+              "logoURI": "https://tp-statics.tokenpocket.pro/token/1567500470273-ethx.png"
           },
           {
-              "chainId": 1,
+              "protocol": "20",
               "name": "SushiSwap",
               "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
               "decimals": 18,
@@ -51,7 +51,7 @@
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png"
           },
           {
-              "chainId": 1,
+              "protocol": "20",
               "name": "yearn.finance",
               "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
               "decimals": 18,

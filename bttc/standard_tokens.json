@@ -6,7 +6,7 @@
       "name": "BTT",
       "protocol": "20",
       "symbol": "BTT",
-      "address": null,
+      "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png"
     }
