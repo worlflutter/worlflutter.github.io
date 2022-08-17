@@ -55,12 +55,6 @@
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
-                    },
-                    {
-                        "name": "跨链桥",
-                        "des": "",
-                        "url": "http://hashpay.one/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bridge.png"
                     }
                 ]
             },
