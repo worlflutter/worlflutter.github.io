@@ -67,12 +67,6 @@
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
-                    },
-                    {
-                        "name": "Bridge",
-                        "des": "",
-                        "url": "http://hashpay.one/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bridge.png"
                     }
                 ]
             },
