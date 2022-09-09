@@ -21,7 +21,7 @@
         "type": "hot",
         "items": [
           {
-            "name": "区块浏览器",
+            "name": "Block Browser",
             "des": "",
             "url": "https://blockscout.com/etc/mainnet",
             "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/etc.jpg"
