@@ -21,10 +21,10 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "SushiSwap",
-                        "des": "SushiSwap协议通过在流行的AMM模型中引入收入分享和论坛驱动的网络努力，重新调整了网络参与者的激励",
-                        "url": "https://app.sushi.com",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/sushiswap.png"
+                        "name": "IcSwap",
+                        "des": "一个多链聚合的去中心化兑换平台",
+                        "url": "https://acswap.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/dapp/aclogo.png"
                     }
                 ]
             }
