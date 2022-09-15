@@ -21,10 +21,10 @@
                 "type": "hot",
                 "items": [
                     {
-                        "name": "SushiSwap",
-                        "des": "The SushiSwap protocol realigns incentives for network participants by introducing revenue sharing and forum-driven network efforts to the popular AMM model",
-                        "url": "https://app.sushi.com",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/sushiswap.png"
+                        "name": "IcSwap",
+                        "des": "A decentralized exchange platform with multi-chain aggregation",
+                        "url": "https://acswap.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/dapp/aclogo.png"
                     }
                 ]
             }
