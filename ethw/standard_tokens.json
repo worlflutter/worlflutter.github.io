@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "ETH",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png"
+    },
+    {
+      "name": "Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "decimals": 6,
+      "logoURI": "https://tp-statics.tokenpocket.pro/token/1567500470273-ethx.png"
+    }
+  ]
+}
