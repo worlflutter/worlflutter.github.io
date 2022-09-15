@@ -3,12 +3,12 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "ETH",
+      "name": "ETF",
       "protocol": "20",
-      "symbol": "ETH",
+      "symbol": "ETF",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png"
     },
     {
       "name": "Tether USD",
