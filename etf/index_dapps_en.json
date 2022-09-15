@@ -25,36 +25,6 @@
                         "des": "The SushiSwap protocol realigns incentives for network participants by introducing revenue sharing and forum-driven network efforts to the popular AMM model",
                         "url": "https://app.sushi.com",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/sushiswap.png"
-                    },
-                    {
-                        "name": "Cream",
-                        "des": "C.R.E.A.M., a lending platform based on Compound Finance and exchange platform based on Balancer Labs",
-                        "url": "https://app.cream.finance",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/cream.png"
-                    },
-                    {
-                        "name": "Balancer",
-                        "des": "BAL is earned when eligible tokens are exchanged",
-                        "url": "https://balancer.exchange",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/balancer.png"
-                    },
-                    {
-                        "name": "WBTC",
-                        "des": "Wrapped Bitcoin delivers the power of Bitcoin\r\nwith the flexibility of an ERC20 token",
-                        "url": "https://wbtc.network",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/wbtc.png"
-                    },
-                    {
-                        "name": "Compound",
-                        "des": "Compound to provide a simple method is to earn interest or borrowing the etheric fang tokens.",
-                        "url": "https://app.compound.finance/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/compound.png"
-                    },
-                    {
-                        "name": "Uniswap",
-                        "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
-                        "url": "https://app.uniswap.org",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
                     }
                 ]
             }
