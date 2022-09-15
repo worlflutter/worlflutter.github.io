@@ -1,0 +1,33 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
+                "url": "2"
+            },
+            {
+                "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/en_03.jpg",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "hot",
+                "items": [
+                    {
+                        "name": "IcSwap",
+                        "des": "A decentralized exchange platform with multi-chain aggregation",
+                        "url": "https://acswap.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/dapp/aclogo.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
