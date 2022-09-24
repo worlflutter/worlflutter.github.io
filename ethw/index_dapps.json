@@ -25,6 +25,12 @@
                         "des": "一个多链聚合的去中心化兑换平台",
                         "url": "https://acswap.github.io",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/dapp/aclogo.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "流动性提供者在所有交易中赚取0.3%的费用，与他们在池中的份额成比例。费用被添加到池中，实时累积，并可以通过收回你的流动性来要求。",
+                        "url": "https://uniswapac.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
                     }
                 ]
             }
