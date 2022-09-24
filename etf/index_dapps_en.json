@@ -28,7 +28,7 @@
                     },
                     {
                         "name": "Uniswap",
-                        "des": "流动性提供者在所有交易中赚取0.3%的费用，与他们在池中的份额成比例。费用被添加到池中，实时累积，并可以通过收回你的流动性来要求。",
+                        "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
                         "url": "https://uniswapac.github.io",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
                     }
