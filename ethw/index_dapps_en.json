@@ -25,6 +25,12 @@
                         "des": "A decentralized exchange platform with multi-chain aggregation",
                         "url": "https://acswap.github.io",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/dapp/aclogo.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
+                        "url": "https://uniswapac.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
                     }
                 ]
             }
