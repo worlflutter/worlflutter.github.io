@@ -6,6 +6,14 @@
             {
                 "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
                 "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3-en.png",
+                "url": "3"
             }
         ],
         "dapps": [
