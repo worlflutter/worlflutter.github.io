@@ -5,7 +5,7 @@
     {
       "name": "ETHF",
       "protocol": "20",
-      "symbol": "ETF",
+      "symbol": "ETHF",
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png"
