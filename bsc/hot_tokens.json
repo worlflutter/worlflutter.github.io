@@ -14,7 +14,7 @@
       "name": "BSC-HO",
       "protocol": "20",
       "symbol": "BSC-HO",
-      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+      "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
     },
@@ -22,7 +22,7 @@
       "name": "FAR",
       "protocol": "20",
       "symbol": "FAR",
-      "address": "0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526",
+      "address": "0xa0ecaf5edf5df69edc7768da897dcea7d0c8e526",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/FAR-ICON-PNG-96.png"
     },
@@ -30,7 +30,7 @@
       "name": "ZEED",
       "protocol": "20",
       "symbol": "ZEED",
-      "address": "0xB2F53069E1555793481aAfe639F8E274f4Ec8435",
+      "address": "0xb2f53069e1555793481aafe639f8e274f4ec8435",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/2x4.png"
     },
@@ -46,7 +46,7 @@
       "name": "HOS",
       "protocol": "20",
       "symbol": "HOS",
-      "address": "0xa0949F33FA921ca2571d469A1a4b08649838D34C",
+      "address": "0xa0949f33fa921ca2571d469a1a4b08649838d34c",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hos-logo.png"
     },
@@ -54,7 +54,7 @@
       "name": "HOR",
       "protocol": "20",
       "symbol": "HOR",
-      "address": "0xc399DebeAa5a580D3AaBdaf1164Ed8f056D09fc8",
+      "address": "0xc399debeaa5a580d3aabdaf1164ed8f056d09fc8",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hor-logo-96-2.png"
     },
@@ -62,7 +62,7 @@
       "name": "LPT",
       "protocol": "20",
       "symbol": "LPT",
-      "address": "0xD5cbBF337B9Baddc489EB088090f475CA0131a80",
+      "address": "0xd5cbbf337b9baddc489eb088090f475ca0131a80",
       "decimals": 18,
       "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620639847117.png"
     },
@@ -70,7 +70,7 @@
       "name": "RRB",
       "protocol": "20",
       "symbol": "RRB",
-      "address": "0xa8d22026119bC8A33941853614148Fda61971d4D",
+      "address": "0xa8d22026119bc8a33941853614148fda61971d4d",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/rrb.jpg"
     },
@@ -94,7 +94,7 @@
       "name": "Pig Token",
       "protocol": "20",
       "symbol": "PIG",
-      "address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+      "address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
       "decimals": 9,
       "logoURI": "https://bscscan.com/token/images/pigtoken_32.png?=v2"
     },
@@ -102,7 +102,7 @@
       "name": "DOGGY",
       "protocol": "20",
       "symbol": "DOGGY",
-      "address": "0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6",
+      "address": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
       "decimals": 18,
       "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1620791551802.jpg"
     },
@@ -118,7 +118,7 @@
       "name": "MOS",
       "protocol": "20",
       "symbol": "MOS",
-      "address": "0x51760576279bF7Ee35631d33edE4757De19D985D",
+      "address": "0x51760576279bf7ee35631d33ede4757de19d985d",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/hashpay/logo.png"
     },
@@ -142,7 +142,7 @@
       "name": "MDX",
       "protocol": "20",
       "symbol": "MDX",
-      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
       "decimals": 18,
       "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1617871648325.png"
     },
@@ -150,7 +150,7 @@
       "name": "NAR",
       "protocol": "20",
       "symbol": "NAR",
-      "address": "0x777ACbC3B6E9b22019980C5F41f9E04Cd51a4a4B",
+      "address": "0x777acbc3b6e9b22019980c5f41f9e04cd51a4a4b",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/nar.jpg"
     },
@@ -158,7 +158,7 @@
       "name": "HBG",
       "protocol": "20",
       "symbol": "HBG",
-      "address": "0xe64Fd924909D2a441a85d82b633A4CC3c86E0f20",
+      "address": "0xe64fd924909d2a441a85d82b633a4cc3c86e0f20",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/hbg.jpg"
     }
