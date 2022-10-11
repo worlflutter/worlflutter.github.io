@@ -1210,6 +1210,11 @@
 		"symbol": "BBY"
 	},
 	{
+		"dirname": "0x81460AD24eAFa7e77623de607584719aF435Acd3",
+		"address": "0x81460AD24eAFa7e77623de607584719aF435Acd3",
+		"symbol": "BBG"
+	},
+	{
 		"dirname": "0xFd0fDc8A674E1EA88E2D83b04C7c8BE5cD1719c4",
 		"address": "0xFd0fDc8A674E1EA88E2D83b04C7c8BE5cD1719c4",
 		"symbol": "Blue"
