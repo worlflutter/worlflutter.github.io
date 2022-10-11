@@ -22,7 +22,7 @@
       "name": "USDC",
       "protocol": "20",
       "symbol": "USDC",
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "decimals": 18,
       "logoURI": "https://acswap.gitee.io/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
@@ -30,7 +30,7 @@
       "name": "BSC-HO",
       "protocol": "20",
       "symbol": "BSC-HO",
-      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+      "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
     },
@@ -38,7 +38,7 @@
       "name": "MOS",
       "protocol": "20",
       "symbol": "MOS",
-      "address": "0x51760576279bF7Ee35631d33edE4757De19D985D",
+      "address": "0x51760576279bf7ee35631d33ede4757de19d985d",
       "decimals": 18,
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/hashpay/logo.png"
     },
@@ -46,7 +46,7 @@
       "name": "ZEED",
       "protocol": "20",
       "symbol": "ZEED",
-      "address": "0xB2F53069E1555793481aAfe639F8E274f4Ec8435",
+      "address": "0xb2f53069e1555793481aafe639f8e274f4ec8435",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/2x4.png"
     }
