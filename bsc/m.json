@@ -1,0 +1,1022 @@
+[
+	{
+		"dirname": "0x019601ee0AA825Ec2A53C413924BE30D7eE1e573",
+		"address": "0x019601ee0AA825Ec2A53C413924BE30D7eE1e573",
+		"symbol": "MBUS"
+	},
+	{
+		"dirname": "0x01da6c58598124dd5b3F614433f8247D01A4DEF2",
+		"address": "0x01da6c58598124dd5b3F614433f8247D01A4DEF2",
+		"symbol": "MOON"
+	},
+	{
+		"dirname": "0x03b2E543c92e634113aA78EEa8713BBE6A64c0B8",
+		"address": "0x03b2E543c92e634113aA78EEa8713BBE6A64c0B8",
+		"symbol": "metadoge"
+	},
+	{
+		"dirname": "0x03B56A89c1aEaA2Ce67AbCD03e51E451c1473D60",
+		"address": "0x03B56A89c1aEaA2Ce67AbCD03e51E451c1473D60",
+		"symbol": "MOP"
+	},
+	{
+		"dirname": "0x03f8fdc10d5bcf7508375585b04e93d656d36954",
+		"address": "0x03f8fdc10d5bcf7508375585b04e93d656d36954",
+		"symbol": "METAX"
+	},
+	{
+		"dirname": "0x04b6ffe0829ca73bdaffa8285ce167acd12d380c",
+		"address": "0x04b6fFe0829CA73bDaFFA8285ce167acd12D380c",
+		"symbol": "Mars"
+	},
+	{
+		"dirname": "0x073B0246662E3615116868A95A9Af6F486512Fde",
+		"address": "0x073B0246662E3615116868A95A9Af6F486512Fde",
+		"symbol": "MBT"
+	},
+	{
+		"dirname": "0x07570b2A1EEFCd70C541a26e89Cb60D5f3e95386",
+		"address": "0x07570b2A1EEFCd70C541a26e89Cb60D5f3e95386",
+		"symbol": "MAX"
+	},
+	{
+		"dirname": "0x078680b4CeA9F9cd7F55DcBcB3A56246F132Cc11",
+		"address": "0x078680b4CeA9F9cd7F55DcBcB3A56246F132Cc11",
+		"symbol": "MMD"
+	},
+	{
+		"dirname": "0x096c3611eBea2C562a9bE02956aF39497598C255",
+		"address": "0x096c3611eBea2C562a9bE02956aF39497598C255",
+		"symbol": "MSS"
+	},
+	{
+		"dirname": "0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83",
+		"address": "0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83",
+		"symbol": "Meta"
+	},
+	{
+		"dirname": "0x0B45978f640bbF86a01D42d6bFa3531D39Cd0fe6",
+		"address": "0x0B45978f640bbF86a01D42d6bFa3531D39Cd0fe6",
+		"symbol": "MTW"
+	},
+	{
+		"dirname": "0x0C8daC6C91B43bb7242C93975E7c35e258254037",
+		"address": "0x0C8daC6C91B43bb7242C93975E7c35e258254037",
+		"symbol": "METAS"
+	},
+	{
+		"dirname": "0x0d2532E9e6EDA734f41bAdF9522A22C2DB5955D9",
+		"address": "0x0d2532E9e6EDA734f41bAdF9522A22C2DB5955D9",
+		"symbol": "MSD"
+	},
+	{
+		"dirname": "0x0d42BA9b368585076CbcA2cCd8C28566edF9f7d6",
+		"address": "0x0d42ba9b368585076cbca2ccd8c28566edf9f7d6",
+		"symbol": "MetaGuy"
+	},
+	{
+		"dirname": "0x0D4992E48278aA7F7C915f820743d9FaB7FeA713",
+		"address": "0x0D4992E48278aA7F7C915f820743d9FaB7FeA713",
+		"symbol": "MZ"
+	},
+	{
+		"dirname": "0x0f1389136471789aaEBFfb29f068E695598BBA53",
+		"address": "0x0f1389136471789aaEBFfb29f068E695598BBA53",
+		"symbol": "MACC"
+	},
+	{
+		"dirname": "0x11270eDeC5570ca0F59022cC94bfEf5Bde5b7618",
+		"address": "0x11270eDeC5570ca0F59022cC94bfEf5Bde5b7618",
+		"symbol": "MESO"
+	},
+	{
+		"dirname": "0x1202A20585930f93c983b1BF8dCe871249ca9aB6",
+		"address": "0x1202A20585930f93c983b1BF8dCe871249ca9aB6",
+		"symbol": "MA"
+	},
+	{
+		"dirname": "0x13bc3eeB77376CEb35b0eDDE3abde9208adE590A",
+		"address": "0x13bc3eeB77376CEb35b0eDDE3abde9208adE590A",
+		"symbol": "Meme"
+	},
+	{
+		"dirname": "0x154ECeB42679ac155EeF18820dE2Be75699263A8",
+		"address": "0x154ECeB42679ac155EeF18820dE2Be75699263A8",
+		"symbol": "MamySHIBA"
+	},
+	{
+		"dirname": "0x15efa15Bc4F9D904c2A8C4C73B14B3E186591b4F",
+		"address": "0x15efa15Bc4F9D904c2A8C4C73B14B3E186591b4F",
+		"symbol": "MetaHellcat"
+	},
+	{
+		"dirname": "0x16324758d7fbC995e652685DAf6D440DAcA33Ee6",
+		"address": "0x16324758d7fbC995e652685DAf6D440DAcA33Ee6",
+		"symbol": "MDL"
+	},
+	{
+		"dirname": "0x18fF245c134D9DAA6fED977617654490ba4DA526",
+		"address": "0x18fF245c134D9DAA6fED977617654490ba4DA526",
+		"symbol": "MASKDOGE"
+	},
+	{
+		"dirname": "0x1a9Ab1F0547b03da0D7e365622135A5042541302",
+		"address": "0x1a9Ab1F0547b03da0D7e365622135A5042541302",
+		"symbol": "MEV"
+	},
+	{
+		"dirname": "0x1Aac0c297F4aFFe0EB949E6F26159Dc28826A449",
+		"address": "0x1Aac0c297F4aFFe0EB949E6F26159Dc28826A449",
+		"symbol": "MOON"
+	},
+	{
+		"dirname": "0x1B927802FB7b0E074684408f8F9E87bb563aEBEc",
+		"address": "0x1B927802FB7b0E074684408f8F9E87bb563aEBEc",
+		"symbol": "MerryChristmas"
+	},
+	{
+		"dirname": "0x1C376275791069349fef8bd9F431382D384657a3",
+		"address": "0x1C376275791069349fef8bd9F431382D384657a3",
+		"symbol": "MMG"
+	},
+	{
+		"dirname": "0x1C9380979b3baEca4476e02d0d4db4B5E463d392",
+		"address": "0x7248C915828151576E6B4B1B20A318C2D96381e5",
+		"symbol": "MarsHero"
+	},
+	{
+		"dirname": "0x1Cc608AE784FA7cb276D73A0A6DFfd303946ca39",
+		"address": "0x1Cc608AE784FA7cb276D73A0A6DFfd303946ca39",
+		"symbol": "MOF"
+	},
+	{
+		"dirname": "0x1f0e1359dD1b789526F000797f51b13A7489aB52",
+		"address": "0x1f0e1359dD1b789526F000797f51b13A7489aB52",
+		"symbol": "MEP"
+	},
+	{
+		"dirname": "0x219cB63b1Dfc5eb456c6204476DdE2eDf274B997",
+		"address": "0x219cB63b1Dfc5eb456c6204476DdE2eDf274B997",
+		"symbol": "MAMMON"
+	},
+	{
+		"dirname": "0x25A449A185f767401860d95eB5F5c8FF341EF83d",
+		"address": "0x25A449A185f767401860d95eB5F5c8FF341EF83d",
+		"symbol": "MGET"
+	},
+	{
+		"dirname": "0x2700BC595607F154163471Ac2bD46eA8987d4cf0",
+		"address": "0x2700BC595607F154163471Ac2bD46eA8987d4cf0",
+		"symbol": "MAC"
+	},
+	{
+		"dirname": "0x2741b8f4f92238DB62D37C54e9cF3fB9De0F9390",
+		"address": "0x2741b8f4f92238DB62D37C54e9cF3fB9De0F9390",
+		"symbol": "MiniDoggy"
+	},
+	{
+		"dirname": "0x281b802EE5513ac417Bad82840c7Bf9c75967e13",
+		"address": "0x281b802EE5513ac417Bad82840c7Bf9c75967e13",
+		"symbol": "MOBOX"
+	},
+	{
+		"dirname": "0x28b6DC7f7665B5990bdfc02bAa9c18fb80d5AA2F",
+		"address": "0x28b6DC7f7665B5990bdfc02bAa9c18fb80d5AA2F",
+		"symbol": "METAW"
+	},
+	{
+		"dirname": "0x29878DC68cE8Cb98f774780F63cCc6A7Ee0591f5",
+		"address": "0x29878DC68cE8Cb98f774780F63cCc6A7Ee0591f5",
+		"symbol": "MESSI"
+	},
+	{
+		"dirname": "0x2a3Aa6b082d4A66E014Cb30dE1f76D7F621F188F",
+		"address": "0x2a3Aa6b082d4A66E014Cb30dE1f76D7F621F188F",
+		"symbol": "MARS"
+	},
+	{
+		"dirname": "0x2B22d7d9587b50F38052C07de707702be3ef0ACE",
+		"address": "0x2B22d7d9587b50F38052C07de707702be3ef0ACE",
+		"symbol": "MOW"
+	},
+	{
+		"dirname": "0x2B5390359fe03Fe5e082fC4dFe86E931bCdF850A",
+		"address": "0x2B5390359fe03Fe5e082fC4dFe86E931bCdF850A",
+		"symbol": "MetaFeg"
+	},
+	{
+		"dirname": "0x2bC86CF8b0D723934d5a48789e2AEE1212039673",
+		"address": "0x2bC86CF8b0D723934d5a48789e2AEE1212039673",
+		"symbol": "MIS"
+	},
+	{
+		"dirname": "0x2D996A77A979337bf2b28027252d29cDcB742e1b",
+		"address": "0x2D996A77A979337bf2b28027252d29cDcB742e1b",
+		"symbol": "META"
+	},
+	{
+		"dirname": "0x2e10Abc27D4878fa43Ee97e600fBE41Ce2D046dc",
+		"address": "0x2e10Abc27D4878fa43Ee97e600fBE41Ce2D046dc",
+		"symbol": "MINITIGER"
+	},
+	{
+		"dirname": "0x2e6C045a6244f0c2E157A56000575c7C22ADA774",
+		"address": "0x2e6C045a6244f0c2E157A56000575c7C22ADA774",
+		"symbol": "MOS"
+	},
+	{
+		"dirname": "0x2F0031C2AE951aE81Ab9a1fc06357595ECDbEE6E",
+		"address": "0x2F0031C2AE951aE81Ab9a1fc06357595ECDbEE6E",
+		"symbol": "MCROC"
+	},
+	{
+		"dirname": "0x2fC5891B983b302C87Fa31dc8C7492a5D47CB4a3",
+		"address": "0x2fC5891B983b302C87Fa31dc8C7492a5D47CB4a3",
+		"symbol": "MIS"
+	},
+	{
+		"dirname": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
+		"address": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
+		"symbol": "MVP"
+	},
+	{
+		"dirname": "0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
+		"address": "0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
+		"symbol": "miniSHIB"
+	},
+	{
+		"dirname": "0x361F3D81E9B249cFaFa7a047d9225c10323F10Bd",
+		"address": "0x361F3D81E9B249cFaFa7a047d9225c10323F10Bd",
+		"symbol": "MFM"
+	},
+	{
+		"dirname": "0x379f29911956052899E09233A3914f4e1eca075C",
+		"address": "0x379f29911956052899E09233A3914f4e1eca075C",
+		"symbol": "Meta"
+	},
+	{
+		"dirname": "0x38442871bDf1ED8ccD1C1Ed92B97B416450d8a76",
+		"address": "0x38442871bDf1ED8ccD1C1Ed92B97B416450d8a76",
+		"symbol": "MVS"
+	},
+	{
+		"dirname": "0x38d360cd4cd79b3ef8d99172384dc2cbec09b663",
+		"address": "0x38D360cD4CD79B3Ef8d99172384dC2CbeC09b663",
+		"symbol": "METIS2.0"
+	},
+	{
+		"dirname": "0x3a3F624E6dC7A1e65F7CCa4C869f93d7169400Fb",
+		"address": "0x3a3F624E6dC7A1e65F7CCa4C869f93d7169400Fb",
+		"symbol": "MSB"
+	},
+	{
+		"dirname": "0x3B1CE1ddB7fB8AD30E1271251f876498F9A603c6",
+		"address": "0x3B1CE1ddB7fB8AD30E1271251f876498F9A603c6",
+		"symbol": "MLT"
+	},
+	{
+		"dirname": "0x3C01EDA96A37A1C3dF760dE899139942Dc83695d",
+		"address": "0x3C01EDA96A37A1C3dF760dE899139942Dc83695d",
+		"symbol": "MOTI"
+	},
+	{
+		"dirname": "0x3C44f901a44825A13fCE4948475A54ACddB3Ba81",
+		"address": "0x3c44f901a44825a13fce4948475a54acddb3ba81",
+		"symbol": "MCU"
+	},
+	{
+		"dirname": "0x3D66452660F119f69A9e38a671b2459FE0e5Dae0",
+		"address": "0x3D66452660F119f69A9e38a671b2459FE0e5Dae0",
+		"symbol": "MSKE"
+	},
+	{
+		"dirname": "0x3e45aE17dF955995cD82172E445AbCAe148a1758",
+		"address": "0x3e45aE17dF955995cD82172E445AbCAe148a1758",
+		"symbol": "MVSR"
+	},
+	{
+		"dirname": "0x3ea0Da85e37271Ba7a572A1A2Be147F6f40c9C0a",
+		"address": "0x3ea0Da85e37271Ba7a572A1A2Be147F6f40c9C0a",
+		"symbol": "MEP"
+	},
+	{
+		"dirname": "0x432002a617B687aFBf78E26Ca3a9d7159bA79558",
+		"address": "0x432002a617B687aFBf78E26Ca3a9d7159bA79558",
+		"symbol": "MBX"
+	},
+	{
+		"dirname": "0x435802D8f34Fd36A66e86423592Ed2Cc763C4C38",
+		"address": "0x435802D8f34Fd36A66e86423592Ed2Cc763C4C38",
+		"symbol": "MVS"
+	},
+	{
+		"dirname": "0x43CBaEc4A5a132fad00d64627aDCD9351e139C9D",
+		"address": "0x43CBaEc4A5a132fad00d64627aDCD9351e139C9D",
+		"symbol": "MPM"
+	},
+	{
+		"dirname": "0x44690f7c8e56430Eb6Bfc7c1071Da67b27C76242",
+		"address": "0x44690f7c8e56430Eb6Bfc7c1071Da67b27C76242",
+		"symbol": "MetaPK"
+	},
+	{
+		"dirname": "0x500B59Ae41C140cB508EfD8320e4C92DF450F4E3",
+		"address": "0x500b59ae41c140cb508efd8320e4c92df450f4e3",
+		"symbol": "MARST"
+	},
+	{
+		"dirname": "0x501100D9A56a8e140cdE43C8aEF2abEb278A8F2F",
+		"address": "0x501100D9A56a8e140cdE43C8aEF2abEb278A8F2F",
+		"symbol": "Martis"
+	},
+	{
+		"dirname": "0x52dEF1CBc8d8476d45637222BEf2B71Ac8fB4FCa",
+		"address": "0x52dEF1CBc8d8476d45637222BEf2B71Ac8fB4FCa",
+		"symbol": "MC"
+	},
+	{
+		"dirname": "0x5324b1b8ffd63dae8ba2bd16796f339dc4df145c",
+		"address": "0x5324b1b8ffd63dae8ba2bd16796f339dc4df145c",
+		"symbol": "Metax"
+	},
+	{
+		"dirname": "0x5400Da9048388Db19d93e96648e1454be2394FB3",
+		"address": "0xe01Aa9E90116E6D713B21703874De2865bf3E804",
+		"symbol": "MOONDOG"
+	},
+	{
+		"dirname": "0x5639d895a232e6100416E4a7d23093adAfE48037",
+		"address": "0x5639d895a232e6100416E4a7d23093adAfE48037",
+		"symbol": "MTAW"
+	},
+	{
+		"dirname": "0x566f47bf6e0Fd69cD97Da548573A6127C18cE1c0",
+		"address": "0x566f47bf6e0Fd69cD97Da548573A6127C18cE1c0",
+		"symbol": "META"
+	},
+	{
+		"dirname": "0x577c12a99D1a3283e527e42006609b27FB06D328",
+		"address": "0x577c12a99d1a3283e527e42006609b27fb06d328",
+		"symbol": "ManhattanCake"
+	},
+	{
+		"dirname": "0x580799177f538bD5f03cD940Afe0F6Ef68C90356",
+		"address": " 0x580799177f538bD5f03cD940Afe0F6Ef68C90356",
+		"symbol": "MTR"
+	},
+	{
+		"dirname": "0x5ab6a4baf47dced0fabddde042b3b78cb213cef7",
+		"address": "0x5ab6a4baf47dced0fabddde042b3b78cb213cef7",
+		"symbol": "MKY"
+	},
+	{
+		"dirname": "0x5cedD85E5C34Ef894380fb027FA5D2C944ea28e0",
+		"address": "0x5cedD85E5C34Ef894380fb027FA5D2C944ea28e0",
+		"symbol": "MFLOKI"
+	},
+	{
+		"dirname": "0x5E03ECF5E5430811707ef270c01Dd1F73509112F",
+		"address": "0x5e03ecf5e5430811707ef270c01dd1f73509112f",
+		"symbol": "MDOGE "
+	},
+	{
+		"dirname": "0x6025C6818ed41b5968d2bE06e997A3EB9389DDC0",
+		"address": "0x6025C6818ed41b5968d2bE06e997A3EB9389DDC0",
+		"symbol": "MarsVOLS"
+	},
+	{
+		"dirname": "0x61686b6a713FD355F2B1986AecF4aB41204e4EA5",
+		"address": "0x61686b6a713FD355F2B1986AecF4aB41204e4EA5",
+		"symbol": "MONSTER"
+	},
+	{
+		"dirname": "0x6180c8C0E0b8f8d691466515897fF2b02b1a8fad",
+		"address": "0x6180c8C0E0b8f8d691466515897fF2b02b1a8fad",
+		"symbol": "META"
+	},
+	{
+		"dirname": "0x6403ec809d57f070f1a65f66ee7df0fa380f9fd8",
+		"address": "0x6403ec809d57f070f1a65f66ee7df0fa380f9fd8",
+		"symbol": "MetaKing"
+	},
+	{
+		"dirname": "0x650c13eDff75f64f76f86616F0CD09230221C9e2",
+		"address": "0x650c13eDff75f64f76f86616F0CD09230221C9e2",
+		"symbol": "MCU"
+	},
+	{
+		"dirname": "0x65371b2cf12ba2203b5fb14cb6fdeb1b2f131237c1dee108bc96c7966e590c1d",
+		"address": "0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd",
+		"symbol": "MCC"
+	},
+	{
+		"dirname": "0x653bffad7ee49450ae385cb2528b187e19d88e70",
+		"address": "0x653bffad7ee49450ae385cb2528b187e19d88e70",
+		"symbol": "Monkey"
+	},
+	{
+		"dirname": "0x65Fc381dF3D6d84De6f4A39705696d3aEf233245",
+		"address": "0x65Fc381dF3D6d84De6f4A39705696d3aEf233245",
+		"symbol": "MCU"
+	},
+	{
+		"dirname": "0x667dE2dDA32C02f6658ec9d243adDc1ab6487059",
+		"address": "0x667dE2dDA32C02f6658ec9d243adDc1ab6487059",
+		"symbol": "MART"
+	},
+	{
+		"dirname": "0x6A144274D3F7a2277f38b2d76e3fb8377799737d",
+		"address": "0x6A144274D3F7a2277f38b2d76e3fb8377799737d",
+		"symbol": "MJN"
+	},
+	{
+		"dirname": "0x6B0bB9817ec140e8AA13C9EB799fe12228a914EA",
+		"address": "0x6B0bB9817ec140e8AA13C9EB799fe12228a914EA",
+		"symbol": "MTVS"
+	},
+	{
+		"dirname": "0x6Df2CBbA55C63d707AB5982cbF8aDCAb16CB106A",
+		"address": "0x6Df2CBbA55C63d707AB5982cbF8aDCAb16CB106A",
+		"symbol": "MSN"
+	},
+	{
+		"dirname": "0x6Fb8226d23B0490cD437f3E592Ccf829d05998D9",
+		"address": "0x6Fb8226d23B0490cD437f3E592Ccf829d05998D9",
+		"symbol": "MAT"
+	},
+	{
+		"dirname": "0x706BABd2a336fD61653cF8D13DdEefF66CF624BF",
+		"address": "0x706BABd2a336fD61653cF8D13DdEefF66CF624BF",
+		"symbol": "MRV"
+	},
+	{
+		"dirname": "0x70F351cA7dc4c10Eb5408AC3a6Bb8Cf586d9fFe2",
+		"address": "0x70F351cA7dc4c10Eb5408AC3a6Bb8Cf586d9fFe2",
+		"symbol": "3M"
+	},
+	{
+		"dirname": "0x715bF703caE4555b24ABd87dd06B00c15C615d08",
+		"address": "0x715bF703caE4555b24ABd87dd06B00c15C615d08",
+		"symbol": "MTC"
+	},
+	{
+		"dirname": "0x715dC76C1e9169583b0043c2180eDe6E210d0b92",
+		"address": "0x715dC76C1e9169583b0043c2180eDe6E210d0b92",
+		"symbol": "MET"
+	},
+	{
+		"dirname": "0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B",
+		"address": "0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B",
+		"symbol": "MARVIN"
+	},
+	{
+		"dirname": "0x71F78f6884Acf32129b728157615540aAdB579C6",
+		"address": "0x71F78f6884Acf32129b728157615540aAdB579C6",
+		"symbol": "MILK"
+	},
+	{
+		"dirname": "0x71Fc2c893e41EaBDF9C4Afda3b2Cdb46B93Cd8Aa",
+		"address": "0x71Fc2c893e41EaBDF9C4Afda3b2Cdb46B93Cd8Aa",
+		"symbol": "MIC"
+	},
+	{
+		"dirname": "0x7268B479eb7CE8D1B37Ef1FFc3b82d7383A1162d",
+		"address": "0x7268B479eb7CE8D1B37Ef1FFc3b82d7383A1162d",
+		"symbol": "MEB"
+	},
+	{
+		"dirname": "0x72Cd94217f80a0A3C91Fdd2Aea8CF74d48cEF212",
+		"address": "0x72Cd94217f80a0A3C91Fdd2Aea8CF74d48cEF212",
+		"symbol": "MOZ"
+	},
+	{
+		"dirname": "0x74996B794b7A7C5eD3C4331F35A0AC7B673eFF97",
+		"address": "0x74996B794b7A7C5eD3C4331F35A0AC7B673eFF97",
+		"symbol": "Meta Cloth"
+	},
+	{
+		"dirname": "0x752d37d89ccd119f85a5607b01942d487a1dc1ce",
+		"address": "0x752d37d89CCd119f85a5607b01942d487A1dC1ce",
+		"symbol": "MIST"
+	},
+	{
+		"dirname": "0x77572AE6A47587950F2107A42e3fE905569c26E3",
+		"address": "0x77572AE6A47587950F2107A42e3fE905569c26E3",
+		"symbol": "METAS"
+	},
+	{
+		"dirname": "0x7773FeAF976599a9d6A3a7B5dc43d02AC166F255",
+		"address": "0x7773FeAF976599a9d6A3a7B5dc43d02AC166F255",
+		"symbol": "MGC"
+	},
+	{
+		"dirname": "0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
+		"address": "0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
+		"symbol": "MAMADOGE"
+	},
+	{
+		"dirname": "0x7826165A9E523aaBF89a7179c03320480Bd18fe7",
+		"address": "0x7826165A9E523aaBF89a7179c03320480Bd18fe7",
+		"symbol": "MIS"
+	},
+	{
+		"dirname": "0x80Ddc05A075D6be0f55E71A022e2f9A6f48a4d9A",
+		"address": "0x80Ddc05A075D6be0f55E71A022e2f9A6f48a4d9A",
+		"symbol": "MFT"
+	},
+	{
+		"dirname": "0x810FFCe42156a9a84e11b68A960a316C0F983522",
+		"address": "0x810FFCe42156a9a84e11b68A960a316C0F983522",
+		"symbol": "MBT"
+	},
+	{
+		"dirname": "0x8688C28f11585aB8D6ACF72c63125E89E75E9243",
+		"address": "0x8688C28f11585aB8D6ACF72c63125E89E75E9243",
+		"symbol": "MJ"
+	},
+	{
+		"dirname": "0x874E5AC50aBFfe0f60f9FB6f7A28f75FB878279d",
+		"address": "0x874E5AC50aBFfe0f60f9FB6f7A28f75FB878279d",
+		"symbol": "MRD"
+	},
+	{
+		"dirname": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+		"address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+		"symbol": "MONSTA"
+	},
+	{
+		"dirname": "0x8bb8B946FFc288f58D375769C0d1f02E3449c16a",
+		"address": "0x8bb8B946FFc288f58D375769C0d1f02E3449c16a",
+		"symbol": "MTAW"
+	},
+	{
+		"dirname": "0x8C2D4A28F07de861aE6C7FD7A446ea64fC6cc642",
+		"address": "0x8C2D4A28F07de861aE6C7FD7A446ea64fC6cc642",
+		"symbol": "MMP"
+	},
+	{
+		"dirname": "0x8E09FddF1c9eB717ab4e598516a1B0f522C21A6A",
+		"address": "0x8E09FddF1c9eB717ab4e598516a1B0f522C21A6A",
+		"symbol": "MiniPig"
+	},
+	{
+		"dirname": "0x8e0Ea1920fc68907ccc2A3a55C3CF6B56E812aDf",
+		"address": "0x8e0Ea1920fc68907ccc2A3a55C3CF6B56E812aDf",
+		"symbol": "MCF "
+	},
+	{
+		"dirname": "0x921cbadDB8C0f48dDb35a8348Aa5b31156c12372",
+		"address": "0x921cbadDB8C0f48dDb35a8348Aa5b31156c12372",
+		"symbol": "MoonDoge"
+	},
+	{
+		"dirname": "0x9298086d982388381b38b1e2f67900fa7bf18f12",
+		"address": "0x9298086d982388381b38b1e2f67900fa7bf18f12",
+		"symbol": "MUS"
+	},
+	{
+		"dirname": "0x931988F2eb9dC2C9D509328Cf0DEF6C3fc1D75C8",
+		"address": "0x931988F2eb9dC2C9D509328Cf0DEF6C3fc1D75C8",
+		"symbol": "MAYBACH"
+	},
+	{
+		"dirname": "0x955d76f9dD0Da70B64531777d1b1E55668D1a9C4",
+		"address": "0x955d76f9dD0Da70B64531777d1b1E55668D1a9C4",
+		"symbol": "MAZE"
+	},
+	{
+		"dirname": "0x981CB31e71E2b4EA59020B6b8093d8f274cc5BA3",
+		"address": "0xc9C8050639c4cC0DF159E0e47020d6e392191407",
+		"symbol": "MOS"
+	},
+	{
+		"dirname": "0x9848E15ec23FB8615B62563dD79ddB8282cC042d",
+		"address": "0x9848E15ec23FB8615B62563dD79ddB8282cC042d",
+		"symbol": "MTD"
+	},
+	{
+		"dirname": "0x98Afac3b663113D29dc2Cd8C2d1d14793692F110",
+		"address": "0x98Afac3b663113D29dc2Cd8C2d1d14793692F110",
+		"symbol": "MVS"
+	},
+	{
+		"dirname": "0x9953170dcAac530AD7D6949c7295207c6ec5669D",
+		"address": "0x9953170dcAac530AD7D6949c7295207c6ec5669D",
+		"symbol": "METADOGEV2"
+	},
+	{
+		"dirname": "0x997412389797BeBa9534B67e7E8caA8acb491286",
+		"address": "0x997412389797BeBa9534B67e7E8caA8acb491286",
+		"symbol": "MoonTiger"
+	},
+	{
+		"dirname": "0x99d38FFf30a6AC599a3A69E907d55C7EAA6ad061",
+		"address": "0x99d38FFf30a6AC599a3A69E907d55C7EAA6ad061",
+		"symbol": "MT"
+	},
+	{
+		"dirname": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+		"address": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+		"symbol": "MBH"
+	},
+	{
+		"dirname": "0x9DC53535C562F257b457911b048252231C786EA2",
+		"address": "0x9DC53535C562F257b457911b048252231C786EA2",
+		"symbol": "MS"
+	},
+	{
+		"dirname": "0xa4336A453DbcFdA92678E51ede05fF37EF7425f2",
+		"address": "0xa4336A453DbcFdA92678E51ede05fF37EF7425f2",
+		"symbol": "MCK"
+	},
+	{
+		"dirname": "0xA615F2eb9A9c77bc6d7AC5E10D8E4bD612987421",
+		"address": "0xA615F2eb9A9c77bc6d7AC5E10D8E4bD612987421",
+		"symbol": "Minipig"
+	},
+	{
+		"dirname": "0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+		"address": "0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+		"symbol": "MGP"
+	},
+	{
+		"dirname": "0xa9cE6c0422b5FCeb7F14ac8636fC7a0190F733f2",
+		"address": "0xa9cE6c0422b5FCeb7F14ac8636fC7a0190F733f2",
+		"symbol": "MTR"
+	},
+	{
+		"dirname": "0xAC789DcAD2437C3224c25A009Ae103ab6d1a9128",
+		"address": "0xAC789DcAD2437C3224c25A009Ae103ab6d1a9128",
+		"symbol": "MSG"
+	},
+	{
+		"dirname": "0xAC7Ae2ECa9Aa162590F884eFd36F29056953b49f",
+		"address": "0xAC7Ae2ECa9Aa162590F884eFd36F29056953b49f",
+		"symbol": "MST"
+	},
+	{
+		"dirname": "0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB",
+		"address": "0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB",
+		"symbol": "MELI"
+	},
+	{
+		"dirname": "0xAEbe1Aa8dFfAc306E58F13DA4A43dc13bd3446f8",
+		"address": "0xAEbe1Aa8dFfAc306E58F13DA4A43dc13bd3446f8",
+		"symbol": "MSUN"
+	},
+	{
+		"dirname": "0xb00004E5c4cceeab9d106173a02CCf55A4c37b4c",
+		"address": "0xb00004E5c4cceeab9d106173a02CCf55A4c37b4c",
+		"symbol": "MZT"
+	},
+	{
+		"dirname": "0xB109F3249CBaB9E9264291B92Cc645c58C6C6d68",
+		"address": "0xB109F3249CBaB9E9264291B92Cc645c58C6C6d68",
+		"symbol": "MTO"
+	},
+	{
+		"dirname": "0xB16dc7F1570337451146ec41e3F091E5E2f92b64",
+		"address": "0xB16dc7F1570337451146ec41e3F091E5E2f92b64",
+		"symbol": "Moon Man"
+	},
+	{
+		"dirname": "0xB2e9092EAe3d592015B64eab039c71972FE7D48D",
+		"address": "0xB2e9092EAe3d592015B64eab039c71972FE7D48D",
+		"symbol": "MPE"
+	},
+	{
+		"dirname": "0xB31FD05CAF496CEf34C945667E90dd89C20E0D09",
+		"address": "0xB31FD05CAF496CEf34C945667E90dd89C20E0D09",
+		"symbol": "MAST"
+	},
+	{
+		"dirname": "0xB4d2C5008F926b8330ad5825eD22DC206Ea40F11",
+		"address": "0xB4d2C5008F926b8330ad5825eD22DC206Ea40F11",
+		"symbol": "MarsHome"
+	},
+	{
+		"dirname": "0xb4D487Fcd31e3a6CaaCBdf1abcBe5ca72CDbB225",
+		"address": "0xb4D487Fcd31e3a6CaaCBdf1abcBe5ca72CDbB225",
+		"symbol": "MCA"
+	},
+	{
+		"dirname": "0xB5e8dE65aA60A9855D0e5B872e63dA02a93c28bf",
+		"address": "0xB5e8dE65aA60A9855D0e5B872e63dA02a93c28bf",
+		"symbol": "MIC"
+	},
+	{
+		"dirname": "0xB60174e5adE65Df87127f4A966161a75996ee1aE",
+		"address": "0xB60174e5adE65Df87127f4A966161a75996ee1aE",
+		"symbol": "MP"
+	},
+	{
+		"dirname": "0xB6e801524B59a4e1bbe3491DA89Dc06665C722E4",
+		"address": "0xB6e801524B59a4e1bbe3491DA89Dc06665C722E4",
+		"symbol": "MINICAT"
+	},
+	{
+		"dirname": "0xb78e41ae7fc8121978168557bb096e1a858be2ea",
+		"address": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
+		"symbol": "MicroSHIB"
+	},
+	{
+		"dirname": "0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397",
+		"address": "0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397",
+		"symbol": "MTHM"
+	},
+	{
+		"dirname": "0xb977fd4fb5a7F28Ecb07E5B48a2fb0897aE3009f",
+		"address": "0xb977fd4fb5a7F28Ecb07E5B48a2fb0897aE3009f",
+		"symbol": "MXT"
+	},
+	{
+		"dirname": "0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
+		"address": "0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
+		"symbol": "MEER"
+	},
+	{
+		"dirname": "0xBA5824DA895a073083Ac90b3D187a9e115Bb76df",
+		"address": "0xBA5824DA895a073083Ac90b3D187a9e115Bb76df",
+		"symbol": "MIK"
+	},
+	{
+		"dirname": "0xBb52045D74f0A4DbcFB5ec967c3c621949f865F6",
+		"address": "0xBb52045D74f0A4DbcFB5ec967c3c621949f865F6",
+		"symbol": "MBUS"
+	},
+	{
+		"dirname": "0xbb8874987da697798322869a1568CFE0E1271FB0",
+		"address": "0xbb8874987da697798322869a1568CFE0E1271FB0",
+		"symbol": "3M"
+	},
+	{
+		"dirname": "0xBe685F161EF902eB90A20077506f9965E501fdea",
+		"address": "0xBe685F161EF902eB90A20077506f9965E501fdea",
+		"symbol": "MDD"
+	},
+	{
+		"dirname": "0xBE6a48c4C38cb416e014eFE62cdb4dcaE1964894",
+		"address": "0xBE6a48c4C38cb416e014eFE62cdb4dcaE1964894",
+		"symbol": "MVSG"
+	},
+	{
+		"dirname": "0xBf37f781473f3b50E82C668352984865eac9853f",
+		"address": "0xBf37f781473f3b50E82C668352984865eac9853f",
+		"symbol": "MILK"
+	},
+	{
+		"dirname": "0xbF496a476E33e1019F87242CB61468De2532a16b",
+		"address": "0xbF496a476E33e1019F87242CB61468De2532a16b",
+		"symbol": "MET"
+	},
+	{
+		"dirname": "0xc113165C0a9761eA2Db47a270Ec6733606853F65",
+		"address": "0xc113165C0a9761eA2Db47a270Ec6733606853F65",
+		"symbol": "MFT"
+	},
+	{
+		"dirname": "0xC13c0dE461E2dB00e9269CBEC42A54960a4F7330",
+		"address": "0xC13c0dE461E2dB00e9269CBEC42A54960a4F7330",
+		"symbol": "MTS"
+	},
+	{
+		"dirname": "0xC162d93A88e03211163C093eBBd3a5d13b7264ce",
+		"address": "0xC162d93A88e03211163C093eBBd3a5d13b7264ce",
+		"symbol": "MDL"
+	},
+	{
+		"dirname": "0xC236680d4b5DAD41E8D3df22B691c39D25e41f31",
+		"address": "0xC236680d4b5DAD41E8D3df22B691c39D25e41f31",
+		"symbol": "METAS"
+	},
+	{
+		"dirname": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+		"address": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+		"symbol": "Munch"
+	},
+	{
+		"dirname": "0xc79C2f7711fE45b7ACC6646834940A298322715d",
+		"address": "0xc79C2f7711fE45b7ACC6646834940A298322715d",
+		"symbol": "MMI"
+	},
+	{
+		"dirname": "0xC7e0928d0A501CAE368E5eF4D9809E6AE29eF398",
+		"address": "0xC7e0928d0A501CAE368E5eF4D9809E6AE29eF398",
+		"symbol": "MSC"
+	},
+	{
+		"dirname": "0xC9877ebc648e4d703DB7F97c948aE76B4874930e",
+		"address": "0xC9877ebc648e4d703DB7F97c948aE76B4874930e",
+		"symbol": "MCT"
+	},
+	{
+		"dirname": "0xC9ddF5554AFcCD8e58d625e6a4084D7da74e16f5",
+		"address": "0xC9ddF5554AFcCD8e58d625e6a4084D7da74e16f5",
+		"symbol": "Myth"
+	},
+	{
+		"dirname": "0xca8a893a7464E82BDeE582017c749b92e5B45b48",
+		"address": "0xca8a893a7464E82BDeE582017c749b92e5B45b48",
+		"symbol": "MW"
+	},
+	{
+		"dirname": "0xCb822a3897f05d1B2B3D2eE7AE98cD7B3BE3b111",
+		"address": "0xCb822a3897f05d1B2B3D2eE7AE98cD7B3BE3b111",
+		"symbol": "MBC"
+	},
+	{
+		"dirname": "0xcc28A76d6530388b7a1Dd585136F8Be5c9033cEf",
+		"address": "0xcc28A76d6530388b7a1Dd585136F8Be5c9033cEf",
+		"symbol": "MPC"
+	},
+	{
+		"dirname": "0xCE262761DF57c72999146b7A6a752da03835db4a",
+		"address": "0xCE262761DF57c72999146b7A6a752da03835db4a",
+		"symbol": "MU"
+	},
+	{
+		"dirname": "0xd0040048E3026d6C57C69d489C70Df13cF70CEBA",
+		"address": "0xd0040048E3026d6C57C69d489C70Df13cF70CEBA",
+		"symbol": "MxPig"
+	},
+	{
+		"dirname": "0xd2E36Db792f6714a5b3C3D9bf5b4592df21041bD",
+		"address": "0xd2E36Db792f6714a5b3C3D9bf5b4592df21041bD",
+		"symbol": "MCT"
+	},
+	{
+		"dirname": "0xD3c6e3a5e6268113C1CC92651165755333f15599",
+		"address": "0xD3c6e3a5e6268113C1CC92651165755333f15599",
+		"symbol": "MMR"
+	},
+	{
+		"dirname": "0xd66B7fec3F891F8A732e489c4591d5e2C4303091",
+		"address": "0xd66B7fec3F891F8A732e489c4591d5e2C4303091",
+		"symbol": "MC"
+	},
+	{
+		"dirname": "0xD7575Dbf1efE45286d6866473738DA139dA617A2",
+		"address": "0xD7575Dbf1efE45286d6866473738DA139dA617A2",
+		"symbol": "MJ"
+	},
+	{
+		"dirname": "0xd76f84a1D7B9628280f9e9C6910866CECDc7f3A5",
+		"address": "0xd76f84a1D7B9628280f9e9C6910866CECDc7f3A5",
+		"symbol": "MarsDoge"
+	},
+	{
+		"dirname": "0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd",
+		"address": "0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd",
+		"symbol": "MCC"
+	},
+	{
+		"dirname": "0xd9befd8943aea5cac275102a6a267304b7380b9b",
+		"address": "0xd9befd8943aea5cac275102a6a267304b7380b9b",
+		"symbol": "MUDOGE"
+	},
+	{
+		"dirname": "0xd9dE2B1973E57Dc9DBA90c35d6Cd940ae4A3CBe1",
+		"address": "0xd9dE2B1973E57Dc9DBA90c35d6Cd940ae4A3CBe1",
+		"symbol": "MILO"
+	},
+	{
+		"dirname": "0xdD62ba49171DC41E6bA2eba1A9dB456918E02efb",
+		"address": "0xdD62ba49171DC41E6bA2eba1A9dB456918E02efb",
+		"symbol": "MTC"
+	},
+	{
+		"dirname": "0xde51fb6ad31b9fd6a6345b42590b990a19e57396",
+		"address": "0xde51fb6ad31b9fd6a6345b42590b990a19e57396",
+		"symbol": "MBM"
+	},
+	{
+		"dirname": "0xDfAC3B5cA0Fd11AeA24584C10689bBEd4C91F845",
+		"address": "0xDfAC3B5cA0Fd11AeA24584C10689bBEd4C91F845",
+		"symbol": "MCMP"
+	},
+	{
+		"dirname": "0xe01Aa9E90116E6D713B21703874De2865bf3E804",
+		"address": "0xe01Aa9E90116E6D713B21703874De2865bf3E804",
+		"symbol": "MOONDOG"
+	},
+	{
+		"dirname": "0xe0C7227fec46bEA77d01DDf4CdDB680793FD9D54",
+		"address": "0xe0C7227fec46bEA77d01DDf4CdDB680793FD9D54",
+		"symbol": "MYK"
+	},
+	{
+		"dirname": "0xE1c4D6cc4707785b3e55e958BdB86Aad545A836e",
+		"address": "0xE1c4D6cc4707785b3e55e958BdB86Aad545A836e",
+		"symbol": "MKY"
+	},
+	{
+		"dirname": "0xE65A03BE5103110A4907575a6f7E3284426c0cAb",
+		"address": "0xE65A03BE5103110A4907575a6f7E3284426c0cAb",
+		"symbol": "MOON MAN"
+	},
+	{
+		"dirname": "0xe66D915b7C26f0E27a64F2C6dD414d6ECb5A4DE7",
+		"address": "0xe66D915b7C26f0E27a64F2C6dD414d6ECb5A4DE7",
+		"symbol": "MES"
+	},
+	{
+		"dirname": "0xe6A240CB634Aa58DF051461d941495DD4C17e0AD",
+		"address": "0xe6A240CB634Aa58DF051461d941495DD4C17e0AD",
+		"symbol": "MWG"
+	},
+	{
+		"dirname": "0xE8A983F1ecf399e3db27f1070Dc7D62e42D92AC7",
+		"address": "0xE8A983F1ecf399e3db27f1070Dc7D62e42D92AC7",
+		"symbol": "MPC"
+	},
+	{
+		"dirname": "0xe93e7c8503c1424c61c20c2906dfa1f2e8709348",
+		"address": "0xe93e7c8503c1424c61c20c2906dfa1f2e8709348",
+		"symbol": "MI"
+	},
+	{
+		"dirname": "0xe9979441600bCdfC96de89EbB9cC8543D7Ca2aC6",
+		"address": "0xe9979441600bCdfC96de89EbB9cC8543D7Ca2aC6",
+		"symbol": "Mini mouse"
+	},
+	{
+		"dirname": "0xeacAd6c99965cDE0f31513dd72DE79FA24610767",
+		"address": "0xeacAd6c99965cDE0f31513dd72DE79FA24610767",
+		"symbol": "MSC"
+	},
+	{
+		"dirname": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
+		"address": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
+		"symbol": "MiniSHIBA"
+	},
+	{
+		"dirname": "0xeBf31b2F34236DA580b9a40f3E624777bbCfCc80",
+		"address": "0xeBf31b2F34236DA580b9a40f3E624777bbCfCc80",
+		"symbol": "MEP"
+	},
+	{
+		"dirname": "0xeC31Ce856a0dE6Fd3DB8b4543e0c27dC33782F3C",
+		"address": "0xeC31Ce856a0dE6Fd3DB8b4543e0c27dC33782F3C",
+		"symbol": "MMT"
+	},
+	{
+		"dirname": "0xeEa7C025b1EeE9527d631094D45Ff9cE5d830b6f",
+		"address": "0xeEa7C025b1EeE9527d631094D45Ff9cE5d830b6f",
+		"symbol": "MILIT"
+	},
+	{
+		"dirname": "0xeF48386E71E76001EFdeEd992462af12449db436",
+		"address": "0xeF48386E71E76001EFdeEd992462af12449db436",
+		"symbol": "MDY"
+	},
+	{
+		"dirname": "0xeF973E0AA901F65f181bA6c44A12CFf15E132e4a",
+		"address": "0xeF973E0AA901F65f181bA6c44A12CFf15E132e4a",
+		"symbol": "MATR"
+	},
+	{
+		"dirname": "0xf00f513078A8Dcc91b2Cfd3A7e0892613556feAf",
+		"address": "0xf00f513078A8Dcc91b2Cfd3A7e0892613556feAf",
+		"symbol": "MC"
+	},
+	{
+		"dirname": "0xf1761596CC6568C608cff23895075312ED374bF1",
+		"address": "0xf1761596CC6568C608cff23895075312ED374bF1",
+		"symbol": "MemeDoge"
+	},
+	{
+		"dirname": "0xF266a2C7959F86819d3f1f0700af29EfC36f4688",
+		"address": "0xF266a2C7959F86819d3f1f0700af29EfC36f4688",
+		"symbol": "MN"
+	},
+	{
+		"dirname": "0xF4936449d17E27B928E4aA5d75bB44e8983E87cc",
+		"address": "0xF4936449d17E27B928E4aA5d75bB44e8983E87cc",
+		"symbol": "MT"
+	},
+	{
+		"dirname": "0xf62d0BC0d1050eb439615a1603E5c743af28f349",
+		"address": "0xf62d0BC0d1050eb439615a1603E5c743af28f349",
+		"symbol": "MI"
+	},
+	{
+		"dirname": "0xF9aaEA755FCca5724f455be371fCA281BC075171",
+		"address": "0xF9aaEA755FCca5724f455be371fCA281BC075171",
+		"symbol": "MNK"
+	},
+	{
+		"dirname": "0xfa2e4a8cf093b6e801d5dd2ef0483c6e1283f13b",
+		"address": "0xfa2e4a8cf093b6e801d5dd2ef0483c6e1283f13b",
+		"symbol": "MP"
+	},
+	{
+		"dirname": "0xFDd7c878e44ef9Eb95a0C4D40d20ceCA65E674A3",
+		"address": "0xFDd7c878e44ef9Eb95a0C4D40d20ceCA65E674A3",
+		"symbol": "Meta Car"
+	},
+	{
+		"dirname": "0xffA905bb70B6d43CE7a8b84F2bA8e0a334B9765D",
+		"address": "0xffa905bb70b6d43ce7a8b84f2ba8e0a334b9765d",
+		"symbol": "MAS"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"dirname": "0x1997830B5beB723f5089bb8fc38766d419a0444d",
+		"address": "0x1997830B5beB723f5089bb8fc38766d419a0444d",
+		"symbol": "NEWINU"
+	},
+	{
+		"dirname": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+		"address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+		"symbol": "NAOS"
+	},
+	{
+		"dirname": "0x6a3aAB575838119ADCBE42063bf60bb4f8063f40",
+		"address": "0x6a3aAB575838119ADCBE42063bf60bb4f8063f40",
+		"symbol": "nine"
+	},
+	{
+		"dirname": "0x6b1218D1a79b06a811dc54E745C51d8cDF666c1d",
+		"address": "0x6b1218D1a79b06a811dc54E745C51d8cDF666c1d",
+		"symbol": "NERA"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"dirname": "0x20791BF24aA283De42D08BE7B112dE458186036e",
+		"address": "0x20791BF24aA283De42D08BE7B112dE458186036e",
+		"symbol": "MATIFI"
+	},
+	{
+		"dirname": "0xC08364b9864b65CD0B6dcEb2487c87110d1AA126",
+		"address": "0xC08364b9864b65CD0B6dcEb2487c87110d1AA126",
+		"symbol": "MLC"
+	},
+	{
+		"dirname": "0xcd49c497c1a10bd138a17533642a45af53fcb7b8",
+		"address": "0xcd49c497c1a10bd138a17533642a45af53fcb7b8",
+		"symbol": "MTMOON"
+	}
+]

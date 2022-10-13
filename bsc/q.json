@@ -1,0 +1,27 @@
+[
+	{
+		"dirname": "0x05158b1ea76BC98A7A46Ce9121E822b81E6A87d0",
+		"address": "0x05158b1ea76BC98A7A46Ce9121E822b81E6A87d0",
+		"symbol": "QSDTX"
+	},
+	{
+		"dirname": "0x4CcBe073a58A574CAC3eE69649E44728d2e2554c",
+		"address": "0x4CcBe073a58A574CAC3eE69649E44728d2e2554c",
+		"symbol": "QB"
+	},
+	{
+		"dirname": "0x7740013DC2009D6190D1810eB2F38ea779f02471",
+		"address": "0x7740013DC2009D6190D1810eB2F38ea779f02471",
+		"symbol": "QTZ"
+	},
+	{
+		"dirname": "0x910799B074b0f8C4Eaaf5B9Ed4c1172C478269C1",
+		"address": "0x910799B074b0f8C4Eaaf5B9Ed4c1172C478269C1",
+		"symbol": "QCHIP"
+	},
+	{
+		"dirname": "0xe83122De4f16e6876c7Ce7D225778aD391f353E5",
+		"address": "0xe83122De4f16e6876c7Ce7D225778aD391f353E5",
+		"symbol": "QSDT"
+	}
+]

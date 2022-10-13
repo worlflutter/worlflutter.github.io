@@ -1,0 +1,75 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3-en.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "hots",
+                "items": [
+                    {
+                        "name": "HALO Community",
+                        "des": "The Decentralized Community Infrastcuture",
+                        "url": "https://www.halo.land/#/community",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_community.png"
+                    },
+                    {
+                        "name": "HALO Bridge",
+                        "des": "Safe,fast and easiest cross-chain exchange",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_bridge.png"
+                    },
+                    {
+                        "name": "POS NODE",
+                        "des": "Proof of Stake Node",
+                        "url": "https://www.halo.land/#/pos",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/pos_node.png"
+                    },
+                    {
+                        "name": "HOSWAP",
+                        "des": "Decentralized exchange based on AMM model",
+                        "url": "https://swap.halo.land",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/hos_logo.png"
+                    },
+                    {
+                        "name": "ZEED Genesis",
+                        "des": "",
+                        "url": "http://kc.zeed.life",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/zeed_genesis.png"
+                    },
+                    {
+                        "name": "AW Genesis",
+                        "des": null,
+                        "url": "https://www.actionworld.io/genesis/#/genesisPool",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/aw_genesis.png"
+                    },
+                    {
+                        "name": "Token Issuance",
+                        "des": null,
+                        "url": "https://halo.land/#/tokenIssuance",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/token_Issuance.png"
+                    },
+                    {
+                        "name": "FARSWAP",
+                        "des": "",
+                        "url": "https://farswap-portal.com/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/farswap.png"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+[
+	{
+		"dirname": "0x2f143521ca191c18bb424fd622c45cb798980647",
+		"address": "0x2f143521ca191c18bb424fd622c45cb798980647",
+		"symbol": "VR"
+	},
+	{
+		"dirname": "0x381A519d9962f51a13C85Af74cc7F5dC2d844200",
+		"address": "0x381A519d9962f51a13C85Af74cc7F5dC2d844200",
+		"symbol": "VIT"
+	},
+	{
+		"dirname": "0x38B81fA44641Dcf2eD478307c9D50f4eeD56B867",
+		"address": "0x38B81fA44641Dcf2eD478307c9D50f4eeD56B867",
+		"symbol": "V"
+	},
+	{
+		"dirname": "0x447563329D68eb4eA0b448FE4EFC2058a7480E5D",
+		"address": "0x447563329D68eb4eA0b448FE4EFC2058a7480E5D",
+		"symbol": "Vulture"
+	},
+	{
+		"dirname": "0x65aBbe127C6C9E97750a3c73C286f16c1b0421C6",
+		"address": "0x65aBbe127C6C9E97750a3c73C286f16c1b0421C6",
+		"symbol": "VR"
+	},
+	{
+		"dirname": "0xb3f429333F535b597c39c8Bfd98C3475e37df959",
+		"address": "0xb3f429333F535b597c39c8Bfd98C3475e37df959",
+		"symbol": "Vcn"
+	},
+	{
+		"dirname": "0xd6485AB5F465664324F34F2462F89Ff6d6854Bfb",
+		"address": "0xd6485AB5F465664324F34F2462F89Ff6d6854Bfb",
+		"symbol": "VR"
+	}
+]

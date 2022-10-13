@@ -1,0 +1,27 @@
+[
+	{
+		"dirname": "0x07be0a3134d50c1ee53eafd399f5b5edb8608513",
+		"address": "0x07be0a3134d50c1ee53eafd399f5b5edb8608513",
+		"symbol": "CBD"
+	},
+	{
+		"dirname": "0x7f4ccCe0d4046720eDD483C0Ae09DCcD6C3D97Fc",
+		"address": "0x7f4ccce0d4046720edd483c0ae09dccd6c3d97fc",
+		"symbol": "CFF"
+	},
+	{
+		"dirname": "0x9783b81438c24848f85848f8df31845097341771",
+		"address": "0x9783b81438c24848f85848f8df31845097341771",
+		"symbol": "COLLAR"
+	},
+	{
+		"dirname": "0xD7D8f3b8Bc8bC48d3AcC37879EABA7b85889FA52",
+		"address": "0xD7D8f3b8Bc8bC48d3AcC37879EABA7b85889FA52",
+		"symbol": "CLH"
+	},
+	{
+		"dirname": "0xebc44b173741173b466874018715fefa46c32019",
+		"address": "0xebc44b173741173b466874018715fefa46c32019",
+		"symbol": "CCRT"
+	}
+]

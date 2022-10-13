@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "AVAX",
+      "protocol": "20",
+      "symbol": "AVAX",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "HO",
+      "protocol": "20",
+      "symbol": "HO",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/halo_logo.png"
+    },
+    {
+      "name": "USDT",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+      "decimals": 18,
+      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/USDT-HORC-PNG-96.png"
+    }
+  ]
+}

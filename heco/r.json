@@ -1,0 +1,47 @@
+[
+	{
+		"dirname": "0x10cb1d1e460555aF40c0afd8926B1Ba02a3203f4",
+		"address": "0x10cb1d1e460555aF40c0afd8926B1Ba02a3203f4",
+		"symbol": "RTH"
+	},
+	{
+		"dirname": "0x31f3C732be59Fc4d7D884516F48e0E448669cCfa",
+		"address": "0x31f3C732be59Fc4d7D884516F48e0E448669cCfa",
+		"symbol": "RLT"
+	},
+	{
+		"dirname": "0x62Db00296dB45AA9f6178c6E478489D1Efee30D8",
+		"address": "0x62Db00296dB45AA9f6178c6E478489D1Efee30D8",
+		"symbol": "RT"
+	},
+	{
+		"dirname": "0x8c352578b36ee343b2ef402cc8e1c83422048ccd",
+		"address": "0x8c352578b36ee343b2ef402cc8e1c83422048ccd",
+		"symbol": "RTZ"
+	},
+	{
+		"dirname": "0x8cbA0384b323E43eD30198e5c2F385300b914f81",
+		"address": "0x8cbA0384b323E43eD30198e5c2F385300b914f81",
+		"symbol": "RKT"
+	},
+	{
+		"dirname": "0xbd1823DB1914687ab29177c59A26a671867DBE53",
+		"address": "0xbd1823DB1914687ab29177c59A26a671867DBE53",
+		"symbol": "Rui"
+	},
+	{
+		"dirname": "0xDfd321E570d3B0588C16e2DEb6E70535201ea55C",
+		"address": "0xDfd321E570d3B0588C16e2DEb6E70535201ea55C",
+		"symbol": "RYB"
+	},
+	{
+		"dirname": "0xf0616E7606D35A40633110b681D2829Dc8AD72D9",
+		"address": "0xf0616E7606D35A40633110b681D2829Dc8AD72D9",
+		"symbol": "RSCX"
+	},
+	{
+		"dirname": "0xFD8F255b9F9781210FF3aAb715F8B0A1c78fB2b7",
+		"address": "0xFD8F255b9F9781210FF3aAb715F8B0A1c78fB2b7",
+		"symbol": "rFIL"
+	}
+]

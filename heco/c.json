@@ -1,0 +1,117 @@
+[
+	{
+		"dirname": "0x0c5dBd637A1B6665aF6633C6B0eFf03FEdaaef3a",
+		"address": "0x0c5dbd637a1b6665af6633c6b0eff03fedaaef3a",
+		"symbol": "Camel"
+	},
+	{
+		"dirname": "0x21aa398391B37abad53aE8a546D42a1e528274D5",
+		"address": "0x21aa398391B37abad53aE8a546D42a1e528274D5",
+		"symbol": "CONCH"
+	},
+	{
+		"dirname": "0x258f6738f238af6427DC3309495491e2ef0eABA9",
+		"address": "0x258f6738f238af6427DC3309495491e2ef0eABA9",
+		"symbol": "collis"
+	},
+	{
+		"dirname": "0x2b201ad0a8cb78c2c8f740af17487473c0d7fa02",
+		"address": "0x2b201ad0a8cb78c2c8f740af17487473c0d7fa02",
+		"symbol": "CCRT"
+	},
+	{
+		"dirname": "0x37f62f1539741a0e4f8fce6d3aae693dcc8370fc",
+		"address": "0x37F62F1539741A0E4F8fce6d3aAe693DcC8370FC",
+		"symbol": "CRZC"
+	},
+	{
+		"dirname": "0x4D108E0124228AEf1E605C043e5E588FeEE22AB0",
+		"address": "0x4D108E0124228AEf1E605C043e5E588FeEE22AB0",
+		"symbol": "CPC"
+	},
+	{
+		"dirname": "0x644ada741ff058aF529E3380b3645f224e3700cC",
+		"address": "0x644ada741ff058aF529E3380b3645f224e3700cC",
+		"symbol": "CAC"
+	},
+	{
+		"dirname": "0x6665dDf83Ec5A3f4f608F7aC2254B497A6BAf05a",
+		"address": "0x6665dDf83Ec5A3f4f608F7aC2254B497A6BAf05a",
+		"symbol": "CVD"
+	},
+	{
+		"dirname": "0x66B308F739b4553B35dD220390f451bB646F952D",
+		"address": "0x66B308F739b4553B35dD220390f451bB646F952D",
+		"symbol": "CRB"
+	},
+	{
+		"dirname": "0x6d9b7698D2994A812f7F46921388861e3174A0d9",
+		"address": "0x6d9b7698d2994a812f7f46921388861e3174a0d9",
+		"symbol": "CUC"
+	},
+	{
+		"dirname": "0x719Bb9e4695134dEb53fD30D23e3657F948Aa2Df",
+		"address": "0x719Bb9e4695134dEb53fD30D23e3657F948Aa2Df",
+		"symbol": "CSY"
+	},
+	{
+		"dirname": "0x75d03a319c12668577d893d0bf0c35c6f73cc700",
+		"address": "0x75d03a319c12668577d893d0bf0c35c6f73cc700",
+		"symbol": "CrownCoin"
+	},
+	{
+		"dirname": "0x7A5E553888AfB3a44C3449fe2C8e1592957c678C",
+		"address": "0x7A5E553888AfB3a44C3449fe2C8e1592957c678C",
+		"symbol": "CHC"
+	},
+	{
+		"dirname": "0x7F4D7F2f19E993E713FE85e877f34C949178Bf55",
+		"address": "0x7F4D7F2f19E993E713FE85e877f34C949178Bf55",
+		"symbol": "CHS"
+	},
+	{
+		"dirname": "0x8dFFD4eF10Ac7C3F45D58E3C602B9Da292573888",
+		"address": "0x8dffd4ef10ac7c3f45d58e3c602b9da292573888",
+		"symbol": "CYC"
+	},
+	{
+		"dirname": "0xb460A98f0FDfd34d1555c731D0F298E0Fc82081b",
+		"address": "0xb460A98f0FDfd34d1555c731D0F298E0Fc82081b",
+		"symbol": "Comet"
+	},
+	{
+		"dirname": "0xb4d3eD2132AE53813970B818a608574629d8ae59",
+		"address": "0xb4d3eD2132AE53813970B818a608574629d8ae59",
+		"symbol": "CHS"
+	},
+	{
+		"dirname": "0xD064A7795a8ce6a20acFAa8f46D7796E43297669",
+		"address": "0xD064A7795a8ce6a20acFAa8f46D7796E43297669",
+		"symbol": "CoinShop"
+	},
+	{
+		"dirname": "0xD84644BC0aa91d843099CBC479568890E0A11Cc3",
+		"address": "0xD84644BC0aa91d843099CBC479568890E0A11Cc3",
+		"symbol": "CC"
+	},
+	{
+		"dirname": "0xdeaEA402D81cc0AD35ce3D79a1FE135857cf9b7b",
+		"address": "0xdeaEA402D81cc0AD35ce3D79a1FE135857cf9b7b",
+		"symbol": "CHTC"
+	},
+	{
+		"dirname": "0xe23defD6148258cA60d58486E118D04fF08D1819",
+		"address": "0xe23defD6148258cA60d58486E118D04fF08D1819",
+		"symbol": "COF"
+	},
+	{
+		"dirname": "0xe365e56Dd12F08d4B848F786e748A1525C74E8c0",
+		"address": "0xe365e56Dd12F08d4B848F786e748A1525C74E8c0",
+		"symbol": "CSS"
+	},
+	{
+		"dirname": "0xFeD613CdD4182b73A032fe1f03Bd7872465010F8",
+		"address": "0xFeD613CdD4182b73A032fe1f03Bd7872465010F8",
+		"symbol": "C"
+	}
+]

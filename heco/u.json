@@ -1,0 +1,32 @@
+[
+	{
+		"dirname": "0x4CF0DdCc00B2e647011B8c538a17e6F5a6f8A214",
+		"address": "0x4CF0DdCc00B2e647011B8c538a17e6F5a6f8A214",
+		"symbol": "UBTMOON"
+	},
+	{
+		"dirname": "0x5E6f02736fa6E8CDa42ce322c968A804797E764B",
+		"address": "0x5E6f02736fa6E8CDa42ce322c968A804797E764B",
+		"symbol": "UL"
+	},
+	{
+		"dirname": "0x8d45ea93595a55470b1052acaed577d10fda5ee3",
+		"address": "0x8d45Ea93595A55470b1052aCaEd577d10fdA5eE3",
+		"symbol": "uvs"
+	},
+	{
+		"dirname": "0xAA3B015D1C4B06D7cA5D9e00E739D150363520DF",
+		"address": "0xaa3b015d1c4b06d7ca5d9e00e739d150363520df",
+		"symbol": "UMH"
+	},
+	{
+		"dirname": "0xAe807a539FdFB89b5A8B99B4B05D3488d3aF6C7A",
+		"address": "0xAe807a539FdFB89b5A8B99B4B05D3488d3aF6C7A",
+		"symbol": "UD"
+	},
+	{
+		"dirname": "0xecd08d402759b8297d3621c94bdb976c34afb403",
+		"address": "0xeCD08d402759b8297d3621c94bdB976c34Afb403",
+		"symbol": "uvs"
+	}
+]

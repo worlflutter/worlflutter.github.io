@@ -1,0 +1,11 @@
+{
+ "name": "Dao Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x69BeEc60a8aAA6791FCf98b663CDCfFAAb006D8C",
+ "type": "BEP20",
+ "symbol": "DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69BeEc60a8aAA6791FCf98b663CDCfFAAb006D8C"
+}

@@ -1,0 +1,33 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3-en.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "Hot",
+                "items": [
+                    {
+                        "name": "Hot",
+                        "des": null,
+                        "url": "https://ftmscan.com",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/fantom_blockchain_explorer.png"
+                    }
+                ]
+            }
+        ]
+    }
+}

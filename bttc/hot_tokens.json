@@ -1,0 +1,62 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "BTC_b",
+      "protocol": "20",
+      "symbol": "BTC_b",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/btcbttc_32.png"
+    },
+    {
+      "name": "ETH",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/ethereum_32.png"
+    },
+    {
+      "name": "ETH_b",
+      "protocol": "20",
+      "symbol": "ETH_b",
+      "address": "0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/ethereum_32.png"
+    },
+    {
+      "name": "USDT_b",
+      "protocol": "20",
+      "symbol": "USDT_b",
+      "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/tetherusdt_32.png"
+    },
+    {
+      "name": "BNB",
+      "protocol": "20",
+      "symbol": "BNB",
+      "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/binancebnb_32.png"
+    },
+    {
+      "name": "XRP_b",
+      "protocol": "20",
+      "symbol": "XRP_b",
+      "address": "0xF5DbB4e26C1946DFd5aD8cf2e1Cbda3510721bB8",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/ripplebtt_32.png"
+    },
+    {
+      "name": "ADA_b",
+      "protocol": "20",
+      "symbol": "ADA_b",
+      "address": "0x43559B1786C06d6B826e3cf9AA667eD8840f9106",
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/adabtt_32.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "BTT",
+      "protocol": "20",
+      "symbol": "BTT",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png"
+    }
+  ]
+}

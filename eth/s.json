@@ -1,0 +1,32 @@
+[
+	{
+		"dirname": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F",
+		"address": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F",
+		"symbol": "SANI"
+	},
+	{
+		"dirname": "0x5db63d676e127ff20866A4b2C9d8Ac79264214e7",
+		"address": "0x5db63d676e127ff20866A4b2C9d8Ac79264214e7",
+		"symbol": "STW"
+	},
+	{
+		"dirname": "0x7CCFeEF4F0Ff48B0E0abD19bBBebae90939f180D",
+		"address": "0x7CCFeEF4F0Ff48B0E0abD19bBBebae90939f180D",
+		"symbol": "STARS"
+	},
+	{
+		"dirname": "0x820fDDA87A6fAe864d3da0C2D9819B9e50a87fc9",
+		"address": "0x820fDDA87A6fAe864d3da0C2D9819B9e50a87fc9",
+		"symbol": "SUNT"
+	},
+	{
+		"dirname": "0xa8280309f229a5f177c1cde6a3f53a2a97bbdbac",
+		"address": "0xa8280309f229a5f177c1cde6a3f53a2a97bbdbac",
+		"symbol": "SHIBSHABU"
+	},
+	{
+		"dirname": "0xacE837f596029039E7eDd4789f9978259e1C3035",
+		"address": "0xacE837f596029039E7eDd4789f9978259e1C3035",
+		"symbol": "SHOP"
+	}
+]

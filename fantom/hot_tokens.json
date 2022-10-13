@@ -1,0 +1,70 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "FBTC",
+      "protocol": "20",
+      "symbol": "FBTC",
+      "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/fBTC_32.png"
+    },
+    {
+      "name": "FETH",
+      "protocol": "20",
+      "symbol": "FETH",
+      "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/fETH_32.png"
+    },
+    {
+      "name": "USDC",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "decimals": 6,
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+    },
+    {
+      "name": "DAI",
+      "protocol": "20",
+      "symbol": "DAI",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+    },
+    {
+      "name": "AVAX",
+      "protocol": "20",
+      "symbol": "AVAX",
+      "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/images/main/empty-token.png"
+    },
+    {
+      "name": "BTC",
+      "protocol": "20",
+      "symbol": "BTC",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "decimals": 8,
+      "logoURI": "https://ftmscan.com/token/images/wBTC_32.png"
+    },
+    {
+      "name": "LINK",
+      "protocol": "20",
+      "symbol": "LINK",
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+    },
+    {
+      "name": "FRAX",
+      "protocol": "20",
+      "symbol": "FRAX",
+      "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/frax_32_2.png"
+    }
+  ]
+}

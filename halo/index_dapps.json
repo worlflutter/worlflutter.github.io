@@ -1,0 +1,75 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门",
+                "items": [
+                    {
+                        "name": "HALO 社区",
+                        "des": "去中心化社区基础设施",
+                        "url": "https://www.halo.land/#/community",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_community.png"
+                    },
+                    {
+                        "name": "光环桥",
+                        "des": "安全、便捷、快速的跨链兑换",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_bridge.png"
+                    },
+                    {
+                        "name": "POS节点",
+                        "des": "质押节点DAPP",
+                        "url": "https://www.halo.land/#/pos",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/pos_node.png"
+                    },
+                    {
+                        "name": "光环交易所",
+                        "des": "基于AMM模型的去中心化交易所",
+                        "url": "https://swap.halo.land",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/hos_logo.png"
+                    },
+                    {
+                        "name": "ZEED创世",
+                        "des": "",
+                        "url": "http://kc.zeed.life",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/zeed_genesis.png"
+                    },
+                    {
+                        "name": "AW 创世",
+                        "des": null,
+                        "url": "https://www.actionworld.io/genesis/#/genesisPool",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/aw_genesis.png"
+                    },
+                    {
+                        "name": "代币发行",
+                        "des": null,
+                        "url": "https://halo.land/#/tokenIssuance",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/token_Issuance.png"
+                    },
+                    {
+                        "name": "FARSWAP",
+                        "des": "",
+                        "url": "https://farswap-portal.com/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/farswap.png"
+                    }
+                ]
+            }
+        ]
+    }
+}

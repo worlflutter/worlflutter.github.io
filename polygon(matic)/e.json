@@ -1,0 +1,17 @@
+[
+	{
+		"dirname": "0x6104947274a38CaEeb66ec84C5b78095a75AD4f8",
+		"address": "0x6104947274a38CaEeb66ec84C5b78095a75AD4f8",
+		"symbol": "EG"
+	},
+	{
+		"dirname": "0xA41eE9a01fd417c372B318746d8891c0C240A73c",
+		"address": "0xA41eE9a01fd417c372B318746d8891c0C240A73c",
+		"symbol": "EB"
+	},
+	{
+		"dirname": "0xAFC430b4A9AcD52401d19D09330Eb41a19055d00",
+		"address": "0xAFC430b4A9AcD52401d19D09330Eb41a19055d00",
+		"symbol": "EBC"
+	}
+]

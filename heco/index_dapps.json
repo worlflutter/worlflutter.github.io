@@ -1,0 +1,69 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1.png",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2.png",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner3.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                    {
+                        "name": "Mdex",
+                        "des": "每笔交易都有免费的MDX，费用是免费的!",
+                        "url": "https://ht.mdex.co/#/swap",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/mdex.png"
+                    },
+                    {
+                        "name": "Heco浏览器",
+                        "des": "火币生态链探索者",
+                        "url": "https://hecoinfo.com/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/heco_browser.png"
+                    },
+                    {
+                        "name": "HFI",
+                        "des": "最安全高效的聚合收益平台",
+                        "url": "https://hfi.one/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/hfi.png"
+                    },
+                    {
+                        "name": "LAVA",
+                        "des": "瞬间交易代币",
+                        "url": "https://exchange.lavaswap.com/#/swap",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/lavaswap.png"
+                    },
+                    {
+                        "name": "BXH",
+                        "des": "开启AI挖矿新纪元 实现超高收益",
+                        "url": "https://www.bxh.com/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/bxh.png"
+                    },
+                    {
+                        "name": "Fiexd-Rote",
+                        "des": "存款赚取三重奖励：固定存款收益+FIX奖励+生态奖励",
+                        "url": "https://www.fixed.finance/deposits",
+                        "logo": "https://s2.bqiapp.com/logo/1/fixedrateprotocol.png"
+                    },
+                    {
+                        "name": "乌托邦",
+                        "des": "乌托邦首家区块链生态平台，把流量变成留量，实现万物互联。",
+                        "url": "https://utopiasvip.github.io",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/utopia.png"
+                    }
+                ]
+            }
+        ]
+    }
+}

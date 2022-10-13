@@ -1,0 +1,1 @@
+In order to help projects add more information about their NFTs. We now support ERC721 and ERC1155 to be displayed on the wallet. Here are some information for projects to submit.
