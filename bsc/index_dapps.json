@@ -39,6 +39,24 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
                     },
                     {
+                        "name": "metapoint官网",
+                        "des": "https://metapoint.plus/#/",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
+                    },
+                    {
+                        "name": "metapoint官网",
+                        "des": null,
+                        "url": "https://metapoint.plus/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                    },
+                    {
+                        "name": "Keypoint",
+                        "des": null,
+                        "url": "https://game.metapoint.plus/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                    },
+                    {
                         "name": "代币发行-BSC",
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
