@@ -39,6 +39,18 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
                     },
                     {
+                        "name": "metapoint",
+                        "des": null,
+                        "url": "https://metapoint.plus/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                    },
+                    {
+                        "name": "Keypoint",
+                        "des": null,
+                        "url": "https://game.metapoint.plus/#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                    },
+                    {
                         "name": "Token Issuance-BSC",
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
