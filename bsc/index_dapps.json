@@ -39,18 +39,6 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
                     },
                     {
-                        "name": "魔幻部落链游",
-                        "des": null,
-                        "url": "https://game.cosmicc.online?horizontal=true",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/cosmicc_game.png"
-                    },
-                    {
-                        "name": "魔幻部落",
-                        "des": null,
-                        "url": "https://www.cosmic.online/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/cosmicc_game.png"
-                    },
-                    {
                         "name": "代币发行-BSC",
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
