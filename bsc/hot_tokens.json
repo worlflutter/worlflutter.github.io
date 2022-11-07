@@ -27,14 +27,6 @@
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/FAR-ICON-PNG-96.png"
     },
     {
-      "name": "ZEED",
-      "protocol": "20",
-      "symbol": "ZEED",
-      "address": "0xb2f53069e1555793481aafe639f8e274f4ec8435",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/2x4.png"
-    },
-    {
       "name": "BUSD Token\n",
       "protocol": "20",
       "symbol": "BUSD",
@@ -113,14 +105,6 @@
       "address": "0xb86126b872e3f23bc62d6a4a3152ec65202a2073",
       "decimals": 18,
       "logoURI": "https://chainconfig.github.io/bsc/tokens/pinlogo.jpeg"
-    },
-    {
-      "name": "MOS",
-      "protocol": "20",
-      "symbol": "MOS",
-      "address": "0x51760576279bf7ee35631d33ede4757de19d985d",
-      "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/hashpay/logo.png"
     },
     {
       "name": "Ethereum Token\n",
