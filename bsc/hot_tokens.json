@@ -19,14 +19,6 @@
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
     },
     {
-      "name": "FAR",
-      "protocol": "20",
-      "symbol": "FAR",
-      "address": "0xa0ecaf5edf5df69edc7768da897dcea7d0c8e526",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/FAR-ICON-PNG-96.png"
-    },
-    {
       "name": "BUSD Token\n",
       "protocol": "20",
       "symbol": "BUSD",
