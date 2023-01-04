@@ -6,7 +6,7 @@ In order to help projects add more information about their NFTs. We now support 
 ### How to submit 
 Please refer to [the sample](https://github.com/TP-Lab/tokens/tree/master/NFT/eth/erc721/0x67D9417C9C3c250f61A83C7e8658daC487B56B09).
 
-For more details, you can refer to this [link]([https://hashpayinfo.gitbook.io/submit-token/])
+For more details, you can refer to this [link](https://hashpayinfo.gitbook.io/submit-token/)
  
 
 
