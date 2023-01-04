@@ -14,7 +14,7 @@ For more details, you can refer to this [link](https://tphelp.gitbook.io/cn/wall
 ## NFT信息提交
 
 ### 简介
-本仓库为TokenPocket根据社区需求进行NFT更新，只要PR被合并，NFT及其图标就会在TokenPocket里更新。
+本仓库为Hashpay根据社区需求进行NFT更新，只要PR被合并，NFT及其图标就会在Hashoay里更新。
 请根据以下指引进行提交。
 
 
