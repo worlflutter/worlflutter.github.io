@@ -27,21 +27,21 @@
                         "logo": "https://hashpayinfo.github.io/eth/hot_dapp/pancake.png"
                     },
                     {
-                        "name": "Halo Bridge",
-                        "des": "Safe,fast and easiest cross-chain exchange",
-                        "url": "https://www.halo.land/#/bridgePage",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
-                    },
-                    {
                         "name": "Metapoint",
                         "des": null,
                         "url": "https://metapoint.plus/#/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     },
                     {
-                        "name": "Keypoint",
+                        "name": "PointStreet",
                         "des": null,
                         "url": "https://metapoint.plus/#/pointStreet",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                    },
+                    {
+                        "name": "PointDex",
+                        "des": null,
+                        "url": "https://metapoint.plus/PointDex/index.html#/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     },
                     {
@@ -49,6 +49,12 @@
                         "des": null,
                         "url": "https://halo.land/#/tokenIssuance-bsc",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
+                    },
+                    {
+                        "name": "CoinTool",
+                        "des": null,
+                        "url": "https://cointool.app/dashboard ",
+                        "logo": "https://cdn.jsdelivr.net/gh/c0deCn/wiki@master/logo.png"
                     }
                 ]
             },
@@ -56,22 +62,22 @@
                 "type": "Recommend",
                 "items": [
                     {
-                        "name": "Binance Chain Explorer",
-                        "des": null,
-                        "url": "https://explorer.binance.org/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/binance_coin.png"
-                    },
-                    {
                         "name": "Pinksale",
                         "des": null,
                         "url": "https://www.pinksale.finance/?chain=BSC",
                         "logo": "https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png"
                     },
                     {
-                        "name": "PointDex",
+                        "name": "Halo Bridge",
+                        "des": "Safe,fast and easiest cross-chain exchange",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
+                    },
+                    {
+                        "name": "Binance Chain Explorer",
                         "des": null,
-                        "url": "https://metapoint.plus/PointDex/index.html#/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                        "url": "https://explorer.binance.org/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/binance_coin.png"
                     }
                 ]
             }
