@@ -21,16 +21,10 @@
                 "type": "hot",
                 "items": [
                     {
-                        "name": "HOSWAP-BSC",
-                        "des": null,
-                        "url": "https://bschoswap.halo.land/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/hoswap_bsc.png"
-                    },
-                    {
                         "name": "PancakeSwap",
                         "des": "",
-                        "url": "https://exchange.pancakeswap.finance/?utm_source=tokenpocket#/swap",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pancakeswap.png"
+                        "url": "https://pancakeswap.finance/",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/pancake.png"
                     },
                     {
                         "name": "Halo Bridge",
@@ -47,7 +41,7 @@
                     {
                         "name": "Keypoint",
                         "des": null,
-                        "url": "https://game.metapoint.plus/#/",
+                        "url": "https://metapoint.plus/#/pointStreet",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     },
                     {
@@ -62,22 +56,22 @@
                 "type": "Recommend",
                 "items": [
                     {
-                        "name": "BSC News",
-                        "des": null,
-                        "url": "https://www.bsc.news/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bsc_new.png"
-                    },
-                    {
                         "name": "Binance Chain Explorer",
                         "des": null,
                         "url": "https://explorer.binance.org/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/binance_coin.png"
                     },
                     {
-                        "name": "Bscproject",
+                        "name": "Pinksale",
                         "des": null,
-                        "url": "https://bscproject.org/#/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/bscproject.png"
+                        "url": "https://www.pinksale.finance/?chain=BSC",
+                        "logo": "https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png"
+                    },
+                    {
+                        "name": "PointDex",
+                        "des": null,
+                        "url": "https://metapoint.plus/PointDex/index.html#/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     }
                 ]
             }
