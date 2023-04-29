@@ -68,6 +68,30 @@
                         "logo": "https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png"
                     },
                     {
+                        "name": "galxe",
+                        "des": null,
+                        "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
+                        "logo": "https://galxe.com/_nuxt/img/galxe-select-title-icon.0ede882.png"
+                    },
+                    {
+                        "name": "celer cbridge",
+                        "des": null,
+                        "url": "https://cbridge.celer.network/#/transfer?ref=bitkeep2022&utm_source=bitkeep&_needChain=bnb",
+                        "logo": "https://cbridge.celer.network/static/media/cbridgeLogo.f390be1a84b83fd0de9766ac8ca7ff80.svg"
+                    },
+                    {
+                        "name": "stargate Finance",
+                        "des": null,
+                        "url": "https://stargate.finance/?utm_source=bitkeep&_needChain=bnb",
+                        "logo": ""
+                    },
+                    {
+                        "name": "hooked",
+                        "des": null,
+                        "url": "https://hooked.io/?utm_source&_needChain=bnb",
+                        "logo": ""
+                    },
+                    {
                         "name": "Halo Bridge",
                         "des": "Safe,fast and easiest cross-chain exchange",
                         "url": "https://www.halo.land/#/bridgePage",
