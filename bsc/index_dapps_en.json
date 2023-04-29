@@ -33,22 +33,10 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     },
                     {
-                        "name": "PointStreet",
-                        "des": null,
-                        "url": "https://metapoint.plus/#/pointStreet",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
-                    },
-                    {
                         "name": "PointDex",
                         "des": null,
                         "url": "https://metapoint.plus/PointDex/index.html#/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
-                    },
-                    {
-                        "name": "Token Issuance-BSC",
-                        "des": null,
-                        "url": "https://halo.land/#/tokenIssuance-bsc",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
                     },
                     {
                         "name": "CoinTool",
