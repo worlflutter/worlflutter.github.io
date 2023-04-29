@@ -33,22 +33,10 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
                     },
                     {
-                        "name": "PointStreet",
-                        "des": null,
-                        "url": "https://metapoint.plus/#/pointStreet",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
-                    },
-                    {
                         "name": "PointDex",
                         "des": null,
                         "url": "https://metapoint.plus/PointDex/index.html#/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
-                    },
-                    {
-                        "name": "代币发行-BSC",
-                        "des": null,
-                        "url": "https://halo.land/#/tokenIssuance-bsc",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/token_lssuance_bsc.png"
                     },
                     {
                         "name": "CoinTool",
@@ -68,10 +56,34 @@
                         "logo": "https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png"
                     },
                     {
+                        "name": "galxe",
+                        "des": null,
+                        "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
+                        "logo": "https://galxe.com/_nuxt/img/galxe-select-title-icon.0ede882.png"
+                    },
+                    {
+                        "name": "celer cbridge",
+                        "des": null,
+                        "url": "https://cbridge.celer.network/#/transfer?ref=bitkeep2022&utm_source=bitkeep&_needChain=bnb",
+                        "logo": "https://cbridge.celer.network/static/media/cbridgeLogo.f390be1a84b83fd0de9766ac8ca7ff80.svg"
+                    },
+                    {
+                        "name": "stargate Finance",
+                        "des": null,
+                        "url": "https://stargate.finance/?utm_source=bitkeep&_needChain=bnb",
+                        "logo": ""
+                    },
+                    {
+                        "name": "hooked",
+                        "des": null,
+                        "url": "https://hooked.io/?utm_source&_needChain=bnb",
+                        "logo": ""
+                    },
+                    {
                         "name": "光环桥",
                         "des": "安全、便捷、快速的跨链兑换",
                         "url": "https://www.halo.land/#/bridgePage",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/halo_bridge.png"
+                        "logo": ""
                     },
                     {
                         "name": "Binance Chain Explorer",

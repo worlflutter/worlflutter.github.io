@@ -51,30 +51,6 @@
       "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620639847117.png"
     },
     {
-      "name": "RRB",
-      "protocol": "20",
-      "symbol": "RRB",
-      "address": "0xa8d22026119bc8a33941853614148fda61971d4d",
-      "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/rrb.jpg"
-    },
-    {
-      "name": "CAKE-LP",
-      "protocol": "20",
-      "symbol": "CAKE-LP",
-      "address": "0xc1b5ce0a8c25e8aba618f96f08d0b6c871b32a59",
-      "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/h%26u.png"
-    },
-    {
-      "name": "TokenPocket Token",
-      "protocol": "20",
-      "symbol": "TPT",
-      "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
-      "decimals": 4,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1613793834475.png"
-    },
-    {
       "name": "Pig Token",
       "protocol": "20",
       "symbol": "PIG",
@@ -83,28 +59,12 @@
       "logoURI": "https://bscscan.com/token/images/pigtoken_32.png?=v2"
     },
     {
-      "name": "DOGGY",
-      "protocol": "20",
-      "symbol": "DOGGY",
-      "address": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
-      "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1620791551802.jpg"
-    },
-    {
       "name": "PIN",
       "protocol": "20",
       "symbol": "PIN",
       "address": "0xb86126b872e3f23bc62d6a4a3152ec65202a2073",
       "decimals": 18,
       "logoURI": "https://chainconfig.github.io/bsc/tokens/pinlogo.jpeg"
-    },
-    {
-      "name": "Ethereum Token\n",
-      "protocol": "20",
-      "symbol": "ETH",
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397965901.png"
     },
     {
       "name": "Polkadot Token\n",
@@ -137,6 +97,62 @@
       "address": "0xe64fd924909d2a441a85d82b633a4cc3c86e0f20",
       "decimals": 18,
       "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/hbg.jpg"
+    },
+    {
+      "name": "CGPT",
+      "protocol": "20",
+      "symbol": "CGPT",
+      "address": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/chaingpt_32.png"
+    },
+    {
+      "name": "PPC",
+      "protocol": "20",
+      "symbol": "PPC",
+      "address": "0x9498c4383406a5bdd9100cff3fe0b550a111dd3d",
+      "decimals": 9,
+      "logoURI": ""
+    },
+    {
+      "name": "RDNT",
+      "protocol": "20",
+      "symbol": "RDNT",
+      "address": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/radiant_32.png"
+    },
+    {
+      "name": "GMM",
+      "protocol": "20",
+      "symbol": "GMM",
+      "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/gamium_32.png"
+    },
+    {
+      "name": "DEBT",
+      "protocol": "20",
+      "symbol": "DEBT",
+      "address": "0xc632f90affec7121120275610bf17df9963f181c",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "OGGY",
+      "protocol": "20",
+      "symbol": "OGGY",
+      "address": "0x92ed61fb8955cc4e392781cb8b7cd04aadc43d0c",
+      "decimals": 9,
+      "logoURI": "https://bscscan.com/token/images/oggyinu_32.png"
+    },
+    {
+      "name": "MMIT",
+      "protocol": "20",
+      "symbol": "MMIT",
+      "address": "0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/mmit_32.png"
     }
   ]
 }
