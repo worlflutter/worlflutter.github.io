@@ -30,13 +30,17 @@
                         "name": "Metapoint",
                         "des": null,
                         "url": "https://metapoint.plus/#/",
+
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/metapoint.png"
+
                     },
                     {
                         "name": "PointDex",
                         "des": null,
                         "url": "https://metapoint.plus/PointDex/index.html#/",
+
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pointDex.png"
+
                     },
                     {
                         "name": "CoinTool",
