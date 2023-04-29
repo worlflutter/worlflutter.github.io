@@ -24,25 +24,25 @@
                         "name": "PancakeSwap",
                         "des": "",
                         "url": "https://pancakeswap.finance/",
-                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/pancake.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pancakeswap.png"
                     },
                     {
                         "name": "Metapoint",
                         "des": null,
                         "url": "https://metapoint.plus/#/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/metapoint.png"
                     },
                     {
                         "name": "PointDex",
                         "des": null,
                         "url": "https://metapoint.plus/PointDex/index.html#/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pointDex.png"
                     },
                     {
                         "name": "CoinTool",
                         "des": null,
                         "url": "https://cointool.app/dashboard ",
-                        "logo": "https://cdn.jsdelivr.net/gh/c0deCn/wiki@master/logo.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/cointool.png"
                     }
                 ]
             },
@@ -53,43 +53,43 @@
                         "name": "Pinksale",
                         "des": null,
                         "url": "https://www.pinksale.finance/?chain=BSC",
-                        "logo": "https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pinksale.png"
                     },
                     {
                         "name": "galxe",
                         "des": null,
                         "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://galxe.com/_nuxt/img/galxe-select-title-icon.0ede882.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/galxe.png"
                     },
                     {
                         "name": "celer cbridge",
                         "des": null,
                         "url": "https://cbridge.celer.network/#/transfer?ref=bitkeep2022&utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://cbridge.celer.network/static/media/cbridgeLogo.f390be1a84b83fd0de9766ac8ca7ff80.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/cbridge.png"
                     },
                     {
                         "name": "stargate Finance",
                         "des": null,
                         "url": "https://stargate.finance/?utm_source=bitkeep&_needChain=bnb",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/stargate.png"
                     },
                     {
                         "name": "hooked",
                         "des": null,
                         "url": "https://hooked.io/?utm_source&_needChain=bnb",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/hooked.png"
                     },
                     {
                         "name": "光环桥",
                         "des": "安全、便捷、快速的跨链兑换",
                         "url": "https://www.halo.land/#/bridgePage",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/halo.png"
                     },
                     {
                         "name": "Binance Chain Explorer",
                         "des": null,
                         "url": "https://explorer.binance.org/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/binance_coin.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
                     }
                 ]
             }
