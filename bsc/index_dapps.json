@@ -28,13 +28,13 @@
                     },
                     {
                         "name": "Metapoint",
-                        "des": null,
+                        "des": "基于区块链技术的线上虚拟世界",
                         "url": "https://metapoint.plus/#/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/metapoint.png"
                     },
                     {
                         "name": "PointDex",
-                        "des": null,
+                        "des": "新一代去中心撮合交易平台",
                         "url": "https://metapoint.plus/PointDex/index.html#/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pointDex.png"
                     }
@@ -58,7 +58,7 @@
                     },
                     {
                         "name": "BscScan",
-                        "des": null,
+                        "des": "BSC链区块浏览器",
                         "url": "https://explorer.binance.org/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
                     },
