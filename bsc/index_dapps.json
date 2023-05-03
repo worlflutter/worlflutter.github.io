@@ -37,47 +37,18 @@
                         "des": null,
                         "url": "https://metapoint.plus/PointDex/index.html#/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pointDex.png"
-                    },
-                    {
-                        "name": "CoinTool",
-                        "des": null,
-                        "url": "https://cointool.app/dashboard ",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/cointool.png"
                     }
                 ]
             },
             {
                 "type": "推荐",
                 "items": [
-                    {
-                        "name": "Pinksale",
-                        "des": null,
-                        "url": "https://www.pinksale.finance/?chain=BSC",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pinksale.png"
-                    },
+                    
                     {
                         "name": "Galxe",
                         "des": "Galxe的使命是建立一个开放的、协作的凭证数据网络。",
                         "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/galxe.png"
-                    },
-                    {
-                        "name": "Celer Cbridge",
-                        "des": null,
-                        "url": "https://cbridge.celer.network/#/transfer?ref=bitkeep2022&utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/cbridge.png"
-                    },
-                    {
-                        "name": "Stargate Finance",
-                        "des": null,
-                        "url": "https://stargate.finance/?utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/stargate.png"
-                    },
-                    {
-                        "name": "Hooked",
-                        "des": null,
-                        "url": "https://hooked.io/?utm_source&_needChain=bnb",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/hooked.png"
                     },
                     {
                         "name": "光环桥",
@@ -210,12 +181,6 @@
                         "des": "Port3 是通向Web了社交洞察力的门户，将Web2社交数据作为附加组件。Port3 通过 Telegram & Discord 覆盖了超过 380 万用户，平均DAU为 15k;涵盖10个L1和大部分 EVM 的数据集；社交数据集涵盖 Twitter 并扩展到其他 Web2 社交媒体。",
                         "url": "https://www.port3.io",
                         "logo": "https://port3.io/_next/static/media/plogo.ec1e6976.svg"
-                    },
-                    {
-                        "name": "Port3 Network",
-                        "des": "Port3 是通向Web了社交洞察力的门户，将Web2社交数据作为附加组件。Port3 通过 Telegram & Discord 覆盖了超过 380 万用户，平均DAU为 15k;涵盖10个L1和大部分 EVM 的数据集；社交数据集涵盖 Twitter 并扩展到其他 Web2 社交媒体。",
-                        "url": "https://www.port3.io",
-                        "logo": " https://port3.io/_next/static/media/plogo.ec1e6976.svg"
                     },
                     {
                         "name": "Wombat Exchange",
