@@ -28,7 +28,7 @@
                     },
                     {
                         "name": "Metapoint",
-                        "des": null,
+                        "des": "Online virtual world based on blockchain technology",
                         "url": "https://metapoint.plus/#/",
 
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/metapoint.png"
@@ -36,7 +36,7 @@
                     },
                     {
                         "name": "PointDex",
-                        "des": null,
+                        "des": "A new generation of decentralized matching trading platform",
                         "url": "https://metapoint.plus/PointDex/index.html#/",
 
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pointDex.png"
@@ -62,7 +62,7 @@
                     },
                     {
                         "name": "BSC Scan",
-                        "des": null,
+                        "des": "BSC chain block explorer",
                         "url": "https://explorer.binance.org/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
                     },{
