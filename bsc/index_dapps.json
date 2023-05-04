@@ -66,151 +66,151 @@
                         "name": "DoDo",
                         "des": "web3的去中心化交易协议",
                         "url": "https://app.dodoex.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DoDo.png"
                     },
                     {
                         "name": "1inch",
                         "des": "1inch聚合协议有助于跨多个流动性来源进行经济高效和安全的掉期交易",
                         "url": "https://app.1inch.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/1inch.png"
                     },
                     {
                         "name": "Opensea",
                         "des": "最大的NFT市场。购买，销售和发现商品",
                         "url": "https://opensea.io/",
-                        "logo": "https://opensea.io/static/images/logos/opensea.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/OpenSea.png"
                     },
                     {
                         "name": "SWFT Bridge",
                         "des": "BTC/ETH/TrOn/BSC/SOL/AVAX/•上简单、安全、可靠的跨链交换",
                         "url": "https://defi.swft.pro/",
-                        "logo": "https://defi.swft.pro/img/swft.e7b0bd8e.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/SWFT_Bridge.png"
                     },
                     {
                         "name": "Multichain",
                         "des": "Multichain （前身为 Anyswap）被定位为一种去中心化的跨链路由器，以满足不同且多样化的区块链相互通信的明确需求。",
                         "url": "https://bridge.multichain.org/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Multichain.png"
                     },
                     {
                         "name": "ParaSwap",
                         "des": "Paraswap是适用于交易者和dApp的最快的DEX聚合器。该软件是为dApps和tra开发的",
                         "url": "https://www.paraswap.io/",
-                        "logo": "https://uploads-ssl.webflow.com/617aa5e4225be2555942852c/6214d5c4db4ce4d976b5f1f9_logo_paraswap-handbook%20copy%201.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ParaSwap.png"
                     },
                     {
                         "name": "Ox Protocol",
                         "des": "互联网的可信交换基础设施",
                         "url": "https://0x.org/",
-                        "logo": "https://assets.website-files.com/640bf70a17d12b42d97a052b/640bfd7d8441821c4cd20210_logo.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Ox_Protocol.png"
                     },
                     {
                         "name": "DappRadar",
                         "des": "世界的Dapp商店，$RADAR的家&探索Dapp数据最值得信赖的来源。",
                         "url": "https://dappradar.com/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DappRadar.png"
                     },
                     {
                         "name": "DeBank",
                         "des": "领先的Web3投资组合跟踪器，支持36个链中数量最多的eFi议。",
                         "url": "https://debank.com/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DeBank.png"
                     },
                     {
                         "name": "Avedex",
                         "des": "avedex.cc 是一个去中心化的聚合信息平台一—带价格图表",
                         "url": "https://avedex.cc/",
-                        "logo": "https://avedex.cc/static/img/ave-white.46ab30c8.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Avedex.png"
                     },
                     {
                         "name": "Dexify",
                         "des": "Dexify 允许任何数字创建、管理或投资 DeFi 投资组合。",
                         "url": "https://www.dexify.finance/",
-                        "logo": "https://www.dexify.finance/imgs/brand_logo.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Dexify.png"
                     },
                     {
                         "name": "Venus",
                         "des": "Venus Protocol 是一个快速、低成本、去中心化的借货平台，位于 BNB 链上。 Venus 的核心是一种货币市场协议，使贷方能够提供货款以产生其代币的收益，而借款人则能够使用 $xVS 和各种其他货币作为抵押品来获得货款。",
                         "url": "https://app.venus.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Venus.png"
                     },
                     {
                         "name": "Radiant",
                         "des": "Radiant 旨在成为第一个全链货币市场，用户可以在其中将任何主要资产存入任何主要链上，并跨多个链借入各种受支持的资产。",
                         "url": "https://app.radiant.capital/",
-                        "logo": "https://app.radiant.capital/static/media/logo-dark.417ff2d4.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Radiant.png"
                     },
                     {
                         "name": "Channels",
                         "des": "0安全事件，多链创新DeFi借货协议。",
                         "url": "https://channels.finance",
-                        "logo": "https://channels.finance/img/channels_logo_blue_light.4d16e986.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
                     },
                     {
                         "name": "Alpaca Finance",
                         "des": "Alpaca Finance 是第一个建立在 Binance 智能链上的杠杆式收益农业协议。我们是一个公平的启动项目，没有预售，没有投资者",
                         "url": "https://www.alpacafinance.org",
-                        "logo": "https://www.alpacafinance.org/static/alpaca-logo-f7fcf612582ebf134e0d118b5d62670f.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Alpaca_Finance.png"
                     },
                     {
                         "name": "AlphaGPT",
                         "des": "AILPHA GPT旨在为全球买家和机构客户提供最安全、最受监管的加密货币增量环境。它是首次加密货币套利买家和专业交易员的首选平台。",
                         "url": "https://alphagpt.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/AlphaGPT.png"
                     },
                     {
                         "name": "QuestN",
                         "des": "#Web3 的营销、增长和分析。",
                         "url": "https://app.questn.com",
-                        "logo": "https://app.questn.com/static/svgs/questn.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/QuestN.png"
                     },
                     {
                         "name": "ioTube",
                         "des": "ioTube 是连接以太坊、币安智能链、Polygon (Matic)和loTex 的去中心化桥梁。ioTube 支持 loTex、以太坊、币安智能链和现在的 Polygon 之间的双向代币交换！",
                         "url": "https://iotube.org",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ioTube.png"
                     },
                     {
                         "name": "Playbux",
                         "des": "Playbux是BNB 链上的元宇宙，集成了 Shop to Earn、虛拟社区和区块链服务。",
                         "url": "https://www.playbux.co",
-                        "logo": "https://vercel-static-files.s3.ap-southeast-1.amazonaws.com/images/logo.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Playbux.png"
                     },
                     {
                         "name": "Port3 Network",
                         "des": "Port3 是通向Web了社交洞察力的门户，将Web2社交数据作为附加组件。Port3 通过 Telegram & Discord 覆盖了超过 380 万用户，平均DAU为 15k;涵盖10个L1和大部分 EVM 的数据集；社交数据集涵盖 Twitter 并扩展到其他 Web2 社交媒体。",
                         "url": "https://www.port3.io",
-                        "logo": "https://port3.io/_next/static/media/plogo.ec1e6976.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Port3_Network.png"
                     },
                     {
                         "name": "Wombat Exchange",
                         "des": "超高效的多链稳定交换。#BNB 及其他。",
                         "url": "https://www.wombat.exchange",
-                        "logo": "https://www.wombat.exchange/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_with_name.8352a1b2.png&w=750&q=75"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Wombat_Exchange.png"
                     },
                     {
                         "name": "Hashflow",
                         "des": "最强大的 DeFi 交易体验。紧密的点差。 零滑点。",
                         "url": "https://www.hashflow.com",
-                        "logo": "https://uploads-ssl.webflow.com/60c8e48972ec5956bebf04fc/62688cc7cec16ed01b3d7020_Hashflow-Logo-Black.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Hashflow.png"
                     },
                     {
                         "name": "Thetanuts Finance",
                         "des": "Thetanuts 是一个去中心化的结构化产品协议，通过各种期权策略帮助用户获得可持续的收益",
                         "url": "https://www.thetanuts.finance",
-                        "logo": "https://www.thetanuts.finance/images/landing-page/logo-thetanuts-2.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Thetanuts_Finance.png"
                     },
                     {
                         "name": "XEN Crypto",
                         "des": "XEN 加密是很好的包装。据说它是由前谷歌工程师杰克莱文创立的，继承了比特币的精神，每个人都可以免费铸造。",
                         "url": "https://xen.network/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/XEN_Crypto.png"
                     },
                     {
                         "name": "Trader Joe",
                         "des": "Trader Joe是 Avalanche上的一站式分散交易平台，我们提供 DEX 和即将借出的产品。",
                         "url": "https://www.traderjoexyz.com",
-                        "logo": "https://traderjoexyz.com/static/media/trader-joe_2x.2da4ef949b2c16313bb3.webp"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
                     }
                 ]
             }

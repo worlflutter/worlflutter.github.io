@@ -69,151 +69,151 @@
                         "name": "DoDo",
                         "des": "DODO's original PMM algorithm can help ordinary market makers and professional market makers provide the best liquidity with the least amount of funds. Efficient routing algorithms can compare prices across the entire network and provide traders with the most favorable transaction path.",
                         "url": "https://app.dodoex.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DoDo.png"
                     },
                     {
                         "name": "1inch",
                         "des": "linch Aggregation Protocol Facilitates Cost-Efficient and Secure Swap Trading Across Multiple LiquiditySources",
                         "url": "https://app.1inch.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/1inch.png"
                     },
                     {
                         "name": "Opensea",
                         "des": "Largest NFT marketplace. Buy, sell and discover items.",
                         "url": "https://opensea.io/",
-                        "logo": "https://opensea.io/static/images/logos/opensea.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/OpenSea.png"
                     },
                     {
                         "name": "SWFT Bridge",
                         "des": "Simple, safe, & secure cross-chain swap on BTC/ETH/ Tron/BSC/SOL/AVAX/..",
                         "url": "https://defi.swft.pro/",
-                        "logo": "https://defi.swft.pro/img/swft.e7b0bd8e.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/SWFT_Bridge.png"
                     },
                     {
                         "name": "Multichain",
                         "des": "Multichain (previously Anyswap) is positioned as a decentralized cross-chain router to address the clear need for distinct and diverse blockchains to communicate with one another.",
                         "url": "https://bridge.multichain.org/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Multichain.png"
                     },
                     {
                         "name": "ParaSwap",
                         "des": "ParaSwap is the fastest DEX aggregator for traders and dApps. The software is made for dApps and tra",
                         "url": "https://www.paraswap.io/",
-                        "logo": "https://uploads-ssl.webflow.com/617aa5e4225be2555942852c/6214d5c4db4ce4d976b5f1f9_logo_paraswap-handbook%20copy%201.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ParaSwap.png"
                     },
                     {
                         "name": "Ox Protocol",
                         "des": "Trusted exchange infrastructure for the internet",
                         "url": "https://0x.org/",
-                        "logo": "https://assets.website-files.com/640bf70a17d12b42d97a052b/640bfd7d8441821c4cd20210_logo.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Ox_Protocol.png"
                     },
                     {
                         "name": "DappRadar",
                         "des": "The world's Dapp store, §RADAR's home & explore the most trusted source of Dapp data.",
                         "url": "https://dappradar.com/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DappRadar.png"
                     },
                     {
                         "name": "DeBank",
                         "des": "The leading Web3 portfolio tracker supporting the largest number of DeFi protocols out of 36 chains.",
                         "url": "https://debank.com/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DeBank.png"
                     },
                     {
                         "name": "Avedex",
                         "des": "avedex.cc is an decentralized aggregate infomation platform--with price chart",
                         "url": "https://avedex.cc/",
-                        "logo": "https://avedex.cc/static/img/ave-white.46ab30c8.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Avedex.png"
                     },
                     {
                         "name": "Dexify",
                         "des": "Dexify allows any digital to create, manage or invest in DeFi portfolios.",
                         "url": "https://www.dexify.finance/",
-                        "logo": "https://www.dexify.finance/imgs/brand_logo.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Dexify.png"
                     },
                     {
                         "name": "Venus",
                         "des": "Venus Protocol is a fast, low cost, decentralized lending platform that lives on the BNB Chain. At its core, Venus is a money market protocol that enables lenders to provide loans to generate vield on their tokens and borrowers to take out loans using $XVS and a variety of other currencies as collateral.",
                         "url": "https://app.venus.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Venus.png"
                     },
                     {
                         "name": "Radiant",
                         "des": "Radiant aims to be the first omnichain money market, where users can deposit any major asset on any major chain and borrow a variety of supported assets across multiple chains.",
                         "url": "https://app.radiant.capital/",
-                        "logo": "https://app.radiant.capital/static/media/logo-dark.417ff2d4.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Radiant.png"
                     },
                     {
                         "name": "Channels",
                         "des": "O security incidents, multi-chain innovative DeFi lending protocol",
                         "url": "https://channels.finance",
-                        "logo": "https://channels.finance/img/channels_logo_blue_light.4d16e986.png"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
                     },
                     {
                         "name": "Alpaca Finance",
                         "des": "Alpaca Finance is the first leveraged yield farming protocol built on the Binance Smart Chain. We are a fair launch project with no pre-sale and no investors",
                         "url": "https://www.alpacafinance.org",
-                        "logo": "https://www.alpacafinance.org/static/alpaca-logo-f7fcf612582ebf134e0d118b5d62670f.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Alpaca_Finance.png"
                     },
                     {
                         "name": "AlphaGPT",
                         "des": "AILPHA GPT aims to provide the safest and most regulated cryptocurrency incremental environment for global buyers and institutional clients. It is the platform of choice for first-time cryptocurrency arbitrage buyers and professional traders.",
                         "url": "https://alphagpt.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/AlphaGPT.png"
                     },
                     {
                         "name": "QuestN",
                         "des": "Marketing, Growth and Analysis for #Web3.",
                         "url": "https://app.questn.com",
-                        "logo": "https://app.questn.com/static/svgs/questn.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/QuestN.png"
                     },
                     {
                         "name": "ioTube",
                         "des": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and loTeX. ioTube enables bi-directional exchange of tokens between loTeX, Ethereum, Binance Smart Chain, and now Polygon!",
                         "url": "https://iotube.org",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ioTube.png"
                     },
                     {
                         "name": "Playbux",
                         "des": "Playbux is a metaverse on the BNB chain that integrates Shop to Earn, Virtual communities and blockchain services.",
                         "url": "https://www.playbux.co",
-                        "logo": "https://vercel-static-files.s3.ap-southeast-1.amazonaws.com/images/logo.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Playbux.png"
                     },
                     {
                         "name": "Port3 Network",
                         "des": "Port3 is the gateway to Web3 social insights with Web2 social data as an add-on. Port3 has covered over 3.8 million users over Telegram & Discord with an average DAU of 15k; Dataset covering 10 L1s and most of the EVMs; Social dataset covering Twitter and expanding into other Web2 social media.",
                         "url": "https://www.port3.io",
-                        "logo": "https://port3.io/_next/static/media/plogo.ec1e6976.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Port3_Network.png"
                     },
                     {
                         "name": "Wombat Exchange",
                         "des": "Hyper efficient multi-chain stableswap. #BNB andbeyond.",
                         "url": "https://www.wombat.exchange",
-                        "logo": "https://www.wombat.exchange/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_with_name.8352a1b2.png&w=750&q=75"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Wombat_Exchange.png"
                     },
                     {
                         "name": "Hashflow",
                         "des": "The most powerful DeFi trading experience. Tight spreads. Zero slippage. MEV-resistant",
                         "url": "https://www.hashflow.com",
-                        "logo": "https://uploads-ssl.webflow.com/60c8e48972ec5956bebf04fc/62688cc7cec16ed01b3d7020_Hashflow-Logo-Black.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Hashflow.png"
                     },
                     {
                         "name": "Thetanuts Finance",
                         "des": "Thetanuts is a decentralized structured products protocol that helps users gain sustainable yield through various options strategies",
                         "url": "https://www.thetanuts.finance",
-                        "logo": "https://www.thetanuts.finance/images/landing-page/logo-thetanuts-2.svg"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Thetanuts_Finance.png"
                     },
                     {
                         "name": "XEN Crypto",
                         "des": "XEN crpyto is well packaged. It is said that it was founded by former Google engineer Jack Levin, inheriting the spirit of Bitcoin, and everyone can mint it for free.",
                         "url": "https://xen.network/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/XEN_Crypto.png"
                     },
                     {
                         "name": "Trader Joe",
                         "des": "Trader Joe is a one stop decentralized trading platform on Avalanche, we offer both a DEX and soon, lending product.",
                         "url": "https://www.traderjoexyz.com",
-                        "logo": "https://traderjoexyz.com/static/media/trader-joe_2x.2da4ef949b2c16313bb3.webp"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
                     }
                 ]
             }

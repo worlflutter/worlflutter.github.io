@@ -60,85 +60,79 @@
                         "name": "Swell",
                         "des": "一种非托管ETH流动性质押协议，可帮助您优化DeFi中的收益率。",
                         "url": "https://app.swellnetwork.io",
-                        "logo": ""
-                    },
-                    {
-                        "name": "Lybra Finance",
-                        "des": "Lybra 协议是一种开创性的去中心化协议，旨在为动荡的加密货币世界带来稳定性。",
-                        "url": "https://lybra.finance",
-                        "logo": "https://lybra.finance/images/logo.png"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/swell.png"
                     },
                     {
                         "name": "Dydx",
                         "des": "dYdX 是领先的去中心化交易所的开发商，其使命是构建开放、安全和强大的金融产品。dYdX 在以太坊上经过审计的智能合约上运行，这消除了在交易时信任中央交易所的需要。我们将去中心化交易所的安全性和透明度与中心化交易所的速度和可用性相结合。",
                         "url": "http://dydx.exchange",
-                        "logo": "https://lybra.finance/images/logo.png"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/dydx.png"
                     },
                     {
                         "name": "Lybra Finance",
                         "des": "Lybra 协议是一种开创性的去中心化协议，旨在为动荡的加密货币世界带来稳定性。",
                         "url": "https://lybra.finance",
-                        "logo": "https://dydx.exchange/logo.svg"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/lybra.png"
                     },
                     {
                         "name": "Curve",
                         "des": "Curve 是 DeFi 领先的 AMM （自动做市商）。通过 Curve的工厂启动了数百个流动资金池，并由 Curve 的DAO进行激励。用户依靠 Curve 的专有公式在 ERC-20代币之间提供高流动性、低滑点、低费用的交易。",
                         "url": "https://curve.eth.link",
-                        "logo": "https://curve.eth.link/logos/logo_optimized.svg"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/curve.png"
                     },
                     {
                         "name": "1inch",
                         "des": "1inch聚合协议有助于跨多个流动性来源进行经济高效和安全的掉期交易。",
                         "url": "https://1inch.exchange",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/1inch.png"
                     },
                     {
                         "name": "GALA",
                         "des": "以太坊和币安智能链上的NFT游戏生态系统。",
                         "url": "https://app.gala.games",
-                        "logo": "https://app.gala.games/_nuxt/img/gala-logo_horizontal_white.8b0409c.png"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/gala.png"
                     },
                     {
                         "name": "KingData",
                         "des": "专业 DeFi 数据分析服务平台，支持 ETH、HECO、BSC、HSC、OKExChain等多条公链。完善的 APY，借贷，DEX等项目数据的多维度数据可视化分析。",
                         "url": "https://kingdata.com",
-                        "logo": "https://kingdata.com/images/common/logo.svg"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/kingdata.png"
                     },
                     {
                         "name": "Axie Infinity",
                         "des": "一个以口袋妖怪为灵感的数字宠物世界。",
                         "url": "https://land.axieinfinity.com",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Axie_Infinity.png"
                     },
                     {
                         "name": "Aave",
                         "des": "去中心化理财,抵押DAl获取收益。",
                         "url": "https://app.aave.com",
-                        "logo": "https://app.aave.com/aaveLogo.svg"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Aave.png"
                     },
                     {
                         "name": "SWFT Bridge",
                         "des": "BTC/ETH/TrOn/BSC/SOL/AVAX/•上简单、安全、可靠的跨链交换。",
                         "url": "https://defi.swft.pro",
-                        "logo": "https://defi.swft.pro/img/swft.e7b0bd8e.png"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/SWFT_.png"
                     },
                     {
                         "name": "OpenSea",
                         "des": "最大的 NFT 市场。购买、销售和发现商品。",
                         "url": "https://opensea.io",
-                        "logo": "https://opensea.io/static/images/logos/opensea.svg"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/OpenSea.png"
                     },
                     {
                         "name": "Blur",
                         "des": "面向专业交易者的 NFT 市场。",
                         "url": "https://blur.io",
-                        "logo": "https://imgs.blur.io/_assets/homepage/logo.png"
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Blur.png"
                     },
                     {
                         "name": "LIDO",
                         "des": "Lido DAO是一个分散的自治组织，通过治理令牌 （ldo）持有者的投票权决定关键参数（例如，设置费用，分配节点运营商和预言机等）来管理液体质押协议。",
                         "url": "https://lido.fi",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/LIDO.png"
                     }
                 ]
             }
