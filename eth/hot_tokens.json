@@ -16,7 +16,7 @@
               "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
               "decimals": 6,
               "symbol": "USDC",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/centre-usdc_28.png"
           },
           {
               "name": "Dai Stablecoin",
@@ -24,7 +24,7 @@
               "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
               "decimals": 18,
               "symbol": "DAI",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/MCDDai_32.png"
           },
           {
               "name": "XEN Crypto",
@@ -32,7 +32,7 @@
               "address": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
               "decimals": 18,
               "symbol": "XEN",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/xennetwork_32.png?=v021"
           },
           {
               "name": "SHIBA INU",
@@ -40,7 +40,7 @@
               "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
               "decimals": 18,
               "symbol": "SHIB",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/shibatoken_32.png"
           },
           {
               "name": "ApeCoin",
@@ -48,7 +48,7 @@
               "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
               "decimals": 18,
               "symbol": "APE",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/apecoin_32.png"
           },
           {
               "name": "Gala",
@@ -64,7 +64,7 @@
               "address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
               "decimals": 18,
               "symbol": "BLUR",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/blurio_32.png"
           },
           {
               "name": "RADAR",
@@ -72,7 +72,7 @@
               "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
               "decimals": 18,
               "symbol": "RADAR",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/dappradar_32.png"
           },
           {
               "name": "LINK",
@@ -80,7 +80,7 @@
               "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
               "decimals": 18,
               "symbol": "LINK",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/chainlinktoken_32.png?v=6"
           },
           {
               "name": "UNI",
@@ -88,7 +88,7 @@
               "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
               "decimals": 18,
               "symbol": "UNI",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/uniswap_32.png"
           },
           {
               "name": "RPL",
@@ -96,7 +96,7 @@
               "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
               "decimals": 18,
               "symbol": "RPL",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/Rocketpool_32.png"
           },
           {
               "name": "JASMY",
@@ -104,7 +104,7 @@
               "address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec",
               "decimals": 18,
               "symbol": "JASMY",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/jasmycoin_32.png"
           },
           {
               "name": "GTC",
@@ -112,7 +112,7 @@
               "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
               "decimals": 18,
               "symbol": "GTC",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/gitcoinGTC_32.png"
           },
           {
               "name": "ILV",
@@ -120,7 +120,7 @@
               "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
               "decimals": 18,
               "symbol": "ILV",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/illuvium_32.png"
           },
           {
               "name": "RNDR",
@@ -128,7 +128,7 @@
               "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
               "decimals": 18,
               "symbol": "RNDR",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/Render2_32.png"
           },
           {
               "name": "SAND",
@@ -136,7 +136,7 @@
               "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
               "decimals": 18,
               "symbol": "SAND",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/sand_32.png"
           },
           {
               "name": "MANA",
@@ -144,7 +144,7 @@
               "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
               "decimals": 18,
               "symbol": "MANA",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/decentraland_32.png?v=1"
           },
           {
               "name": "EXRD",
@@ -152,7 +152,7 @@
               "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
               "decimals": 18,
               "symbol": "EXRD",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/eradix_32.png?v=9876239786679842687243"
           },
           {
               "name": "FRAX",
@@ -160,7 +160,7 @@
               "address": "0x853d955acef822db058eb8505911ed77f175b99e",
               "decimals": 18,
               "symbol": "FRAX",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/fraxfinanceeth2_32.png"
           },
           {
               "name": "BIT",
@@ -168,7 +168,7 @@
               "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
               "decimals": 18,
               "symbol": "BIT",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/bitdao_32.png?=v97"
           },
           {
               "name": "LDO",
@@ -176,7 +176,7 @@
               "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
               "decimals": 18,
               "symbol": "LDO",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/lido-dao_32.png"
           },
           {
               "name": "CRV",
@@ -184,7 +184,7 @@
               "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
               "decimals": 18,
               "symbol": "CRV",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/Curvefi_32.png"
           },
           {
               "name": "ENS",
@@ -192,7 +192,7 @@
               "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
               "decimals": 18,
               "symbol": "ENS",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/ens2_32.png?v=2"
           },
           {
               "name": "MASK",
@@ -200,7 +200,7 @@
               "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
               "decimals": 18,
               "symbol": "MASK",
-              "logoURI": null
+              "logoURI": "https://cn.etherscan.com/token/images/mask_32.png"
           }
           ]
 }
