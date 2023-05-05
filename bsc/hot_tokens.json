@@ -8,7 +8,7 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
     },
     {
       "name": "Binance-Peg USD Coin",
@@ -16,7 +16,7 @@
       "symbol": "USDC",
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png"
     },
     {
       "name": "Binance-Peg BUSD Token",
@@ -24,7 +24,7 @@
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56/logo.png"
     },
     {
       "name": "PancakeSwap Token",
@@ -32,7 +32,7 @@
       "symbol": "CAKE",
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82/logo.png"
     },
     {
       "name": "Binance-Peg Dai Token",
@@ -40,7 +40,7 @@
       "symbol": "DAI",
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png"
     },
     {
       "name": "Binance-Peg XRP Token",
@@ -48,7 +48,7 @@
       "symbol": "XRP",
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe/logo.png"
     },
     {
       "name": "Binance-Peg Filecoin",
@@ -56,7 +56,7 @@
       "symbol": "FIL",
       "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153/logo.png"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -64,7 +64,7 @@
       "symbol": "ADA",
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png"
     },
     {
       "name": "Binance-Peg Dogecoin Token",
@@ -72,7 +72,7 @@
       "symbol": "DOGE",
       "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
       "decimals": 8,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43/logo.png"
     },
     {
       "name": "Radiant",
@@ -80,7 +80,7 @@
       "symbol": "RDNT",
       "address": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df/logo.png"
     },
     {
       "name": "Radio Caca V2",
@@ -88,7 +88,7 @@
       "symbol": "RACA",
       "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x12BB890508c125661E03b09EC06E404bc9289040/logo.png"
     },
     {
       "name": "Binance-Peg SHIBA INU Token",
@@ -96,7 +96,7 @@
       "symbol": "SHIB",
       "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x2859e4544c4bb03966803b044a93563bd2d0dd4d/logo.png"
     },
     {
       "name": "Venus",
@@ -104,7 +104,7 @@
       "symbol": "XVS",
       "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63/logo.png"
     },
     {
       "name": "Injective Protocol",
@@ -112,7 +112,7 @@
       "symbol": "INJ",
       "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495/logo.png"
     },
     {
       "name": "Highstreet Token",
@@ -120,7 +120,7 @@
       "symbol": "HIGH",
       "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63/logo.png"
     },
     {
       "name": "TRON",
@@ -128,7 +128,7 @@
       "symbol": "TRX",
       "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b/logo.png"
     },
     {
       "name": "Binance-Peg Uniswap",
@@ -136,7 +136,7 @@
       "symbol": "UNI",
       "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1/logo.png"
     }
   ]
 }
