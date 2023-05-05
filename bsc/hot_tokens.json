@@ -67,36 +67,36 @@
       "logoURI": "https://hashpayinfo.github.io/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png"
     },
     {
-      "name": "Binance-Peg Dogecoin Token",
+      "name": "ANKR",
       "protocol": "20",
-      "symbol": "DOGE",
-      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-      "decimals": 8,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43/logo.png"
+      "symbol": "ANKR",
+      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "decimals": 18,
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png"
     },
     {
-      "name": "Radiant",
+      "name": "BAT",
       "protocol": "20",
-      "symbol": "RDNT",
-      "address": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
+      "symbol": "BAT",
+      "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x101d82428437127bf1608f699cd651e6abf9766e/logo.png"
     },
     {
-      "name": "Radio Caca V2",
+      "name": "COMP",
       "protocol": "20",
-      "symbol": "RACA",
-      "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+      "symbol": "COMP",
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x12BB890508c125661E03b09EC06E404bc9289040/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/logo.png"
     },
     {
-      "name": "Binance-Peg SHIBA INU Token",
+      "name": "LINK",
       "protocol": "20",
-      "symbol": "SHIB",
-      "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+      "symbol": "LINK",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x2859e4544c4bb03966803b044a93563bd2d0dd4d/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png"
     },
     {
       "name": "Venus",
@@ -115,20 +115,12 @@
       "logoURI": "https://hashpayinfo.github.io/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495/logo.png"
     },
     {
-      "name": "Highstreet Token",
+      "name": "MKR",
       "protocol": "20",
-      "symbol": "HIGH",
-      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "MKR",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63/logo.png"
-    },
-    {
-      "name": "TRON",
-      "protocol": "20",
-      "symbol": "TRX",
-      "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
-      "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350/logo.png"
     },
     {
       "name": "Binance-Peg Uniswap",
