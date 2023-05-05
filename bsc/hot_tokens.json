@@ -8,151 +8,135 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130821621.png"
+      "logoURI": null
     },
     {
-      "name": "BSC-HO",
+      "name": "Binance-Peg USD Coin",
       "protocol": "20",
-      "symbol": "BSC-HO",
-      "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
+      "logoURI": null
     },
     {
-      "name": "BUSD Token\n",
+      "name": "Binance-Peg BUSD Token",
       "protocol": "20",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130804559.png"
+      "logoURI": null
     },
     {
-      "name": "HOS",
+      "name": "PancakeSwap Token",
       "protocol": "20",
-      "symbol": "HOS",
-      "address": "0xa0949f33fa921ca2571d469a1a4b08649838d34c",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hos-logo.png"
+      "logoURI": null
     },
     {
-      "name": "HOR",
+      "name": "Binance-Peg Dai Token",
       "protocol": "20",
-      "symbol": "HOR",
-      "address": "0xc399debeaa5a580d3aabdaf1164ed8f056d09fc8",
+      "symbol": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hor-logo-96-2.png"
+      "logoURI": null
     },
     {
-      "name": "LPT",
+      "name": "Binance-Peg XRP Token",
       "protocol": "20",
-      "symbol": "LPT",
-      "address": "0xd5cbbf337b9baddc489eb088090f475ca0131a80",
+      "symbol": "XRP",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
       "decimals": 18,
-      "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620639847117.png"
+      "logoURI": null
     },
     {
-      "name": "Pig Token",
+      "name": "Binance-Peg Filecoin",
       "protocol": "20",
-      "symbol": "PIG",
-      "address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
-      "decimals": 9,
-      "logoURI": "https://bscscan.com/token/images/pigtoken_32.png?=v2"
-    },
-    {
-      "name": "PIN",
-      "protocol": "20",
-      "symbol": "PIN",
-      "address": "0xb86126b872e3f23bc62d6a4a3152ec65202a2073",
+      "symbol": "FIL",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
       "decimals": 18,
-      "logoURI": "https://chainconfig.github.io/bsc/tokens/pinlogo.jpeg"
+      "logoURI": null
     },
     {
-      "name": "Polkadot Token\n",
+      "name": "Binance-Peg Cardano Token",
       "protocol": "20",
-      "symbol": "DOT",
-      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "ADA",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397751349.png"
+      "logoURI": null
     },
     {
-      "name": "MDX",
+      "name": "Binance-Peg Dogecoin Token",
       "protocol": "20",
-      "symbol": "MDX",
-      "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
-      "decimals": 18,
-      "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1617871648325.png"
+      "symbol": "DOGE",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "decimals": 8,
+      "logoURI": null
     },
     {
-      "name": "NAR",
-      "protocol": "20",
-      "symbol": "NAR",
-      "address": "0x777acbc3b6e9b22019980c5f41f9e04cd51a4a4b",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/nar.jpg"
-    },
-    {
-      "name": "HBG",
-      "protocol": "20",
-      "symbol": "HBG",
-      "address": "0xe64fd924909d2a441a85d82b633a4cc3c86e0f20",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/hbg.jpg"
-    },
-    {
-      "name": "CGPT",
-      "protocol": "20",
-      "symbol": "CGPT",
-      "address": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/chaingpt_32.png"
-    },
-    {
-      "name": "PPC",
-      "protocol": "20",
-      "symbol": "PPC",
-      "address": "0x9498c4383406a5bdd9100cff3fe0b550a111dd3d",
-      "decimals": 9,
-      "logoURI": ""
-    },
-    {
-      "name": "RDNT",
+      "name": "Radiant",
       "protocol": "20",
       "symbol": "RDNT",
       "address": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/radiant_32.png"
+      "logoURI": null
     },
     {
-      "name": "GMM",
+      "name": "Radio Caca V2",
       "protocol": "20",
-      "symbol": "GMM",
-      "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+      "symbol": "RACA",
+      "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/gamium_32.png"
+      "logoURI": null
     },
     {
-      "name": "DEBT",
+      "name": "Binance-Peg SHIBA INU Token",
       "protocol": "20",
-      "symbol": "DEBT",
-      "address": "0xc632f90affec7121120275610bf17df9963f181c",
-      "decimals": 8,
-      "logoURI": ""
-    },
-    {
-      "name": "OGGY",
-      "protocol": "20",
-      "symbol": "OGGY",
-      "address": "0x92ed61fb8955cc4e392781cb8b7cd04aadc43d0c",
-      "decimals": 9,
-      "logoURI": "https://bscscan.com/token/images/oggyinu_32.png"
-    },
-    {
-      "name": "MMIT",
-      "protocol": "20",
-      "symbol": "MMIT",
-      "address": "0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8",
+      "symbol": "SHIB",
+      "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/mmit_32.png"
+      "logoURI": null
+    },
+    {
+      "name": "Venus",
+      "protocol": "20",
+      "symbol": "XVS",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Injective Protocol",
+      "protocol": "20",
+      "symbol": "INJ",
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Highstreet Token",
+      "protocol": "20",
+      "symbol": "HIGH",
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "TRON",
+      "protocol": "20",
+      "symbol": "TRX",
+      "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg Uniswap",
+      "protocol": "20",
+      "symbol": "UNI",
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
