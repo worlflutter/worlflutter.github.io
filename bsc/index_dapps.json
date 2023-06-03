@@ -179,49 +179,49 @@
                         "name": "W3swap",
                         "des": "",
                         "url": "https://w3swap.link/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/W3swap.png"
                     },
                     {
                         "name": "BscProject",
                         "des": "BSC DeFi项目收录与分析",
                         "url": "https://bnbproject.org/#/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
                     },
                     {
                         "name": "Solo.top",
                         "des": "单币无损挖矿收益聚合平台",
                         "url": "https://solo.top/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
                     },
                     {
                         "name": "CoinWind",
                         "des": "BSC生态单币挖矿收益最优平台",
                         "url": "https://www.coinwind.com/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/CoinWind.png"
                     },
                     {
                         "name": "Defibox",
                         "des": "一站式DeFi平台",
                         "url": "https://defibox.io/",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
                     },
                     {
                         "name": "Channels",
-                        "des": "",
+                        "des": "0安全事故，多链创新DeFi借贷协议",
                         "url": "https://bsc.channels.finance/?utm_source=tokenpocket",
-                        "logo": "0安全事故，多链创新DeFi借贷协议"
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
                     },
                     {
                         "name": "BSC.Tools",
                         "des": "增加您在Binance Smart Chain上的交易经验",
                         "url": "https://bsctools.xyz/pancakeswap/pools/?utm_source=tokenpocket",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Tools.png"
                     },
                     {
                         "name": "Seascape",
                         "des": "围绕NFT+DeFi设计的综合游戏平台",
                         "url": "https://bsc.seascape.network/index/product.html?skin=light&utm_source=tokenpocket",
-                        "logo": ""
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Seascape.png"
                     }
                 ]
             }
