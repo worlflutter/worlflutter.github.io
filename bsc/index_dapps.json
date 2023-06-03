@@ -50,6 +50,54 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/halo.png"
                     },
                     {
+                        "name": "W3swap",
+                        "des": "",
+                        "url": "https://w3swap.link/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/W3swap.png"
+                    },
+                    {
+                        "name": "BscProject",
+                        "des": "BSC DeFi项目收录与分析",
+                        "url": "https://bnbproject.org/#/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
+                    },
+                    {
+                        "name": "Solo.top",
+                        "des": "单币无损挖矿收益聚合平台",
+                        "url": "https://solo.top/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
+                    },
+                    {
+                        "name": "CoinWind",
+                        "des": "BSC生态单币挖矿收益最优平台",
+                        "url": "https://www.coinwind.com/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/CoinWind.png"
+                    },
+                    {
+                        "name": "Defibox",
+                        "des": "一站式DeFi平台",
+                        "url": "https://defibox.io/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
+                    },
+                    {
+                        "name": "Channels",
+                        "des": "0安全事故，多链创新DeFi借贷协议",
+                        "url": "https://bsc.channels.finance",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
+                    },
+                    {
+                        "name": "BSC.Tools",
+                        "des": "增加您在Binance Smart Chain上的交易经验",
+                        "url": "http://ww25.bsc.tools",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscTools.png"
+                    },
+                    {
+                        "name": "Seascape",
+                        "des": "围绕NFT+DeFi设计的综合游戏平台",
+                        "url": "https://bsc.seascape.network/index/product.html",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Seascape.png"
+                    },
+                    {
                         "name": "BscScan",
                         "des": "BSC链区块浏览器",
                         "url": "https://explorer.binance.org/",
@@ -110,12 +158,6 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Radiant.png"
                     },
                     {
-                        "name": "Channels",
-                        "des": "0安全事件，多链创新DeFi借货协议。",
-                        "url": "https://channels.finance",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
-                    },
-                    {
                         "name": "Alpaca Finance",
                         "des": "Alpaca Finance 是第一个建立在 Binance 智能链上的杠杆式收益农业协议。我们是一个公平的启动项目，没有预售，没有投资者",
                         "url": "https://www.alpacafinance.org",
@@ -174,54 +216,6 @@
                         "des": "Trader Joe是 Avalanche上的一站式分散交易平台，我们提供 DEX 和即将借出的产品。",
                         "url": "https://www.traderjoexyz.com",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
-                    },
-                    {
-                        "name": "W3swap",
-                        "des": "",
-                        "url": "https://w3swap.link/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/W3swap.png"
-                    },
-                    {
-                        "name": "BscProject",
-                        "des": "BSC DeFi项目收录与分析",
-                        "url": "https://bnbproject.org/#/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
-                    },
-                    {
-                        "name": "Solo.top",
-                        "des": "单币无损挖矿收益聚合平台",
-                        "url": "https://solo.top/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
-                    },
-                    {
-                        "name": "CoinWind",
-                        "des": "BSC生态单币挖矿收益最优平台",
-                        "url": "https://www.coinwind.com/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/CoinWind.png"
-                    },
-                    {
-                        "name": "Defibox",
-                        "des": "一站式DeFi平台",
-                        "url": "https://defibox.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
-                    },
-                    {
-                        "name": "Channels",
-                        "des": "0安全事故，多链创新DeFi借贷协议",
-                        "url": "https://bsc.channels.finance",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
-                    },
-                    {
-                        "name": "BSC.Tools",
-                        "des": "增加您在Binance Smart Chain上的交易经验",
-                        "url": "http://ww25.bsc.tools",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscTools.png"
-                    },
-                    {
-                        "name": "Seascape",
-                        "des": "围绕NFT+DeFi设计的综合游戏平台",
-                        "url": "https://bsc.seascape.network/index/product.html",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Seascape.png"
                     }
                 ]
             }
