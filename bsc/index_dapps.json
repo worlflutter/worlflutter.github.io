@@ -43,13 +43,6 @@
             {
                 "type": "推荐",
                 "items": [
-                    
-                    {
-                        "name": "Galxe",
-                        "des": "Galxe的使命是建立一个开放的、协作的凭证数据网络。",
-                        "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/galxe.png"
-                    },
                     {
                         "name": "光环桥",
                         "des": "安全、便捷、快速的跨链兑换",
@@ -75,28 +68,10 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/1inch.png"
                     },
                     {
-                        "name": "Opensea",
-                        "des": "最大的NFT市场。购买，销售和发现商品",
-                        "url": "https://opensea.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/OpenSea.png"
-                    },
-                    {
                         "name": "SWFT Bridge",
                         "des": "BTC/ETH/TrOn/BSC/SOL/AVAX/•上简单、安全、可靠的跨链交换",
                         "url": "https://defi.swft.pro/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/SWFT_Bridge.png"
-                    },
-                    {
-                        "name": "Multichain",
-                        "des": "Multichain （前身为 Anyswap）被定位为一种去中心化的跨链路由器，以满足不同且多样化的区块链相互通信的明确需求。",
-                        "url": "https://bridge.multichain.org/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Multichain.png"
-                    },
-                    {
-                        "name": "ParaSwap",
-                        "des": "Paraswap是适用于交易者和dApp的最快的DEX聚合器。该软件是为dApps和tra开发的",
-                        "url": "https://www.paraswap.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ParaSwap.png"
                     },
                     {
                         "name": "Ox Protocol",
@@ -115,12 +90,6 @@
                         "des": "领先的Web3投资组合跟踪器，支持36个链中数量最多的eFi议。",
                         "url": "https://debank.com/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DeBank.png"
-                    },
-                    {
-                        "name": "Avedex",
-                        "des": "avedex.cc 是一个去中心化的聚合信息平台一—带价格图表",
-                        "url": "https://avedex.cc/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Avedex.png"
                     },
                     {
                         "name": "Dexify",
@@ -157,12 +126,6 @@
                         "des": "AILPHA GPT旨在为全球买家和机构客户提供最安全、最受监管的加密货币增量环境。它是首次加密货币套利买家和专业交易员的首选平台。",
                         "url": "https://alphagpt.io/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/AlphaGPT.png"
-                    },
-                    {
-                        "name": "QuestN",
-                        "des": "#Web3 的营销、增长和分析。",
-                        "url": "https://app.questn.com",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/QuestN.png"
                     },
                     {
                         "name": "ioTube",
@@ -211,6 +174,54 @@
                         "des": "Trader Joe是 Avalanche上的一站式分散交易平台，我们提供 DEX 和即将借出的产品。",
                         "url": "https://www.traderjoexyz.com",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
+                    },
+                    {
+                        "name": "W3swap",
+                        "des": "",
+                        "url": "https://w3swap.link/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "BscProject",
+                        "des": "",
+                        "url": "https://bnbproject.org/#/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Solo.top",
+                        "des": "",
+                        "url": "https://solo.top/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Coinwind",
+                        "des": "",
+                        "url": "https://www.coinwind.com/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Defibox",
+                        "des": "",
+                        "url": "https://defibox.io/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Channels",
+                        "des": "",
+                        "url": "https://bsc.channels.finance/?utm_source=tokenpocket",
+                        "logo": ""
+                    },
+                    {
+                        "name": "BSC.Tools",
+                        "des": "",
+                        "url": "https://bsctools.xyz/pancakeswap/pools/?utm_source=tokenpocket",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Seascape",
+                        "des": "",
+                        "url": "https://bsc.seascape.network/index/product.html?skin=light&utm_source=tokenpocket",
+                        "logo": ""
                     }
                 ]
             }
