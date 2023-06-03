@@ -54,6 +54,54 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/halo.png"
                     },
                     {
+                        "name": "W3swap",
+                        "des": "",
+                        "url": "https://w3swap.link/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/W3swap.png"
+                    },
+                    {
+                        "name": "BscProject",
+                        "des": "BSC DeFi project inclusion and analysis.",
+                        "url": "https://bnbproject.org/#/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
+                    },
+                    {
+                        "name": "Solo.top",
+                        "des": "Single-asset impermanent loss-free mining yield aggregation platform.",
+                        "url": "https://solo.top/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
+                    },
+                    {
+                        "name": "CoinWind",
+                        "des": "Optimal platform for single-asset mining yield in the BSC ecosystem.",
+                        "url": "https://www.coinwind.com/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/CoinWind.png"
+                    },
+                    {
+                        "name": "Defibox",
+                        "des": "One-stop DeFi platform.",
+                        "url": "https://defibox.io/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
+                    },
+                    {
+                        "name": "Channels",
+                        "des": "Zero security incidents, multi-chain innovative DeFi lending protocols.",
+                        "url": "https://bsc.channels.finance",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
+                    },
+                    {
+                        "name": "BSC.Tools",
+                        "des": "Improve your trading experience on Binance Smart Chain.",
+                        "url": "http://ww25.bsc.tools",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscTools.png"
+                    },
+                    {
+                        "name": "Seascape",
+                        "des": "Comprehensive gaming platform designed around NFT+DeFi.",
+                        "url": "https://bsc.seascape.network/index/product.html",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Seascape.png"
+                    },
+                    {
                         "name": "BSC Scan",
                         "des": "BSC chain block explorer",
                         "url": "https://explorer.binance.org/",
@@ -114,12 +162,6 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Radiant.png"
                     },
                     {
-                        "name": "Channels",
-                        "des": "O security incidents, multi-chain innovative DeFi lending protocol",
-                        "url": "https://channels.finance",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
-                    },
-                    {
                         "name": "Alpaca Finance",
                         "des": "Alpaca Finance is the first leveraged yield farming protocol built on the Binance Smart Chain. We are a fair launch project with no pre-sale and no investors",
                         "url": "https://www.alpacafinance.org",
@@ -178,54 +220,6 @@
                         "des": "Trader Joe is a one stop decentralized trading platform on Avalanche, we offer both a DEX and soon, lending product.",
                         "url": "https://www.traderjoexyz.com",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
-                    },
-                    {
-                        "name": "W3swap",
-                        "des": "",
-                        "url": "https://w3swap.link/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/W3swap.png"
-                    },
-                    {
-                        "name": "BscProject",
-                        "des": "BSC DeFi project inclusion and analysis.",
-                        "url": "https://bnbproject.org/#/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
-                    },
-                    {
-                        "name": "Solo.top",
-                        "des": "Single-asset impermanent loss-free mining yield aggregation platform.",
-                        "url": "https://solo.top/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
-                    },
-                    {
-                        "name": "CoinWind",
-                        "des": "Optimal platform for single-asset mining yield in the BSC ecosystem.",
-                        "url": "https://www.coinwind.com/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/CoinWind.png"
-                    },
-                    {
-                        "name": "Defibox",
-                        "des": "One-stop DeFi platform.",
-                        "url": "https://defibox.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
-                    },
-                    {
-                        "name": "Channels",
-                        "des": "Zero security incidents, multi-chain innovative DeFi lending protocols.",
-                        "url": "https://bsc.channels.finance",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Channels.png"
-                    },
-                    {
-                        "name": "BSC.Tools",
-                        "des": "Improve your trading experience on Binance Smart Chain.",
-                        "url": "http://ww25.bsc.tools",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscTools.png"
-                    },
-                    {
-                        "name": "Seascape",
-                        "des": "Comprehensive gaming platform designed around NFT+DeFi.",
-                        "url": "https://bsc.seascape.network/index/product.html",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Seascape.png"
                     }
                 ]
             }
