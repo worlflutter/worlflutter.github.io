@@ -47,13 +47,6 @@
             {
                 "type": "Recommend",
                 "items": [
-                    
-                    {
-                        "name": "galxe",
-                        "des": "Gale's mission is to build an open, collaborative credential data network.",
-                        "url": "https://galxe.com/?utm_source=bitkeep&_needChain=bnb",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/galxe.png"
-                    },
                     {
                         "name": "Halo Bridge",
                         "des": "Safe,fast and easiest cross-chain exchange",
@@ -65,7 +58,8 @@
                         "des": "BSC chain block explorer",
                         "url": "https://explorer.binance.org/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
-                    },{
+                    },
+                    {
                         "name": "DoDo",
                         "des": "DODO's original PMM algorithm can help ordinary market makers and professional market makers provide the best liquidity with the least amount of funds. Efficient routing algorithms can compare prices across the entire network and provide traders with the most favorable transaction path.",
                         "url": "https://app.dodoex.io/",
@@ -78,28 +72,10 @@
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/1inch.png"
                     },
                     {
-                        "name": "Opensea",
-                        "des": "Largest NFT marketplace. Buy, sell and discover items.",
-                        "url": "https://opensea.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/OpenSea.png"
-                    },
-                    {
                         "name": "SWFT Bridge",
                         "des": "Simple, safe, & secure cross-chain swap on BTC/ETH/ Tron/BSC/SOL/AVAX/..",
                         "url": "https://defi.swft.pro/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/SWFT_Bridge.png"
-                    },
-                    {
-                        "name": "Multichain",
-                        "des": "Multichain (previously Anyswap) is positioned as a decentralized cross-chain router to address the clear need for distinct and diverse blockchains to communicate with one another.",
-                        "url": "https://bridge.multichain.org/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Multichain.png"
-                    },
-                    {
-                        "name": "ParaSwap",
-                        "des": "ParaSwap is the fastest DEX aggregator for traders and dApps. The software is made for dApps and tra",
-                        "url": "https://www.paraswap.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/ParaSwap.png"
                     },
                     {
                         "name": "Ox Protocol",
@@ -118,12 +94,6 @@
                         "des": "The leading Web3 portfolio tracker supporting the largest number of DeFi protocols out of 36 chains.",
                         "url": "https://debank.com/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/DeBank.png"
-                    },
-                    {
-                        "name": "Avedex",
-                        "des": "avedex.cc is an decentralized aggregate infomation platform--with price chart",
-                        "url": "https://avedex.cc/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Avedex.png"
                     },
                     {
                         "name": "Dexify",
@@ -160,12 +130,6 @@
                         "des": "AILPHA GPT aims to provide the safest and most regulated cryptocurrency incremental environment for global buyers and institutional clients. It is the platform of choice for first-time cryptocurrency arbitrage buyers and professional traders.",
                         "url": "https://alphagpt.io/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/AlphaGPT.png"
-                    },
-                    {
-                        "name": "QuestN",
-                        "des": "Marketing, Growth and Analysis for #Web3.",
-                        "url": "https://app.questn.com",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/QuestN.png"
                     },
                     {
                         "name": "ioTube",
@@ -214,6 +178,54 @@
                         "des": "Trader Joe is a one stop decentralized trading platform on Avalanche, we offer both a DEX and soon, lending product.",
                         "url": "https://www.traderjoexyz.com",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Trader_Joe.png"
+                    },
+                    {
+                        "name": "W3swap",
+                        "des": "",
+                        "url": "https://w3swap.link/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "BscProject",
+                        "des": "",
+                        "url": "https://bnbproject.org/#/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Solo.top",
+                        "des": "",
+                        "url": "https://solo.top/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Coinwind",
+                        "des": "",
+                        "url": "https://www.coinwind.com/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Defibox",
+                        "des": "",
+                        "url": "https://defibox.io/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Channels",
+                        "des": "",
+                        "url": "https://bsc.channels.finance/?utm_source=tokenpocket",
+                        "logo": ""
+                    },
+                    {
+                        "name": "BSC.Tools",
+                        "des": "",
+                        "url": "https://bsctools.xyz/pancakeswap/pools/?utm_source=tokenpocket",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Seascape",
+                        "des": "",
+                        "url": "https://bsc.seascape.network/index/product.html?skin=light&utm_source=tokenpocket",
+                        "logo": ""
                     }
                 ]
             }
