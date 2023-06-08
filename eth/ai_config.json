@@ -1,7 +1,7 @@
 [
 {
-"isFree":"false",
-"paySate":"true",
+"isFree":false,
+"paySate":true,
 "freeCount":100,
 "price":[
 	{
