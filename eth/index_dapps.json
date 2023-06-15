@@ -4,19 +4,19 @@
     "data": {
         "banners": [
             {
-                "image": "https://worlflutter.github.io/eth/banner/banner-a.jpg",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-a.jpg",
                 "url": "1"
             },
             {
-                "image": "https://worlflutter.github.io/eth/banner/banner-b.jpg",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
                 "url": "2"
             },
             {
-                "image": "https://worlflutter.github.io/eth/banner/banner-c.jpg",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
                 "url": "3"
             },
             {
-                "image": "https://worlflutter.github.io/eth/banner/banner-d.jpg",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
                 "url": "4"
             }
         ],
