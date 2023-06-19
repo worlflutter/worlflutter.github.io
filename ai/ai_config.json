@@ -2,7 +2,7 @@
 {
 "isFree":false,
 "paySate":true,
-"freeCount":100,
+"freeCount":2,
 "price":[
 	{
 		"id": 1,
