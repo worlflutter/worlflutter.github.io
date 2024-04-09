@@ -65,6 +65,14 @@
               "decimals": 18,
               "symbol": "MKR",
               "logoURI": "https://hashpayinfo.github.io/eth/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.png"
+          },
+          {
+              "name": "laowang",
+              "protocol": "20",
+              "symbol": "lao",
+              "address": "0x8236E331C25859d13AD2e73e886C4a7751395601",
+              "decimals": 18,
+              "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png"
           }
           ]
 }
