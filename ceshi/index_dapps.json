@@ -1,0 +1,31 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
+                "url": "3"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
+                "url": "4"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                ]
+            }
+        ]
+    }
+}
