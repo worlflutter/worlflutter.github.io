@@ -11,20 +11,132 @@
       "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png"
     },
     {
-      "name": "Tether USD",
+      "name": "AVAX",
       "protocol": "20",
-      "symbol": "USDT",
-      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "decimals": 6,
-      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png"
+      "symbol": "AVAX",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
     },
     {
-      "name": "laowang",
+      "name": "ETH",
       "protocol": "20",
-      "symbol": "lao",
-      "address": "0x8236E331C25859d13AD2e73e886C4a7751395601",
+      "symbol": "ETH",
+      "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png"
-    }
+      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png"
+    },
+    {
+      "name": "Binance Coin",
+      "protocol": "",
+      "symbol": "BNB",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/bsc/bnb/logo.png"
+    },
+    {
+      "name": "BTT",
+      "protocol": "20",
+      "symbol": "BTT",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png"
+    },
+    {
+      "symbol": "ETC",
+      "address": "",
+      "name": "Ethereum Classic Mainnet",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/etc/etc/logo.png",
+      "protocol": "20"
+    },
+    {
+      "name": "ETHF",
+      "protocol": "20",
+      "symbol": "ETHF",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png"
+    },
+    {
+      "name": "ETHw",
+      "protocol": "20",
+      "symbol": "ETHW",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethw.png"
+    },
+    {
+      "name": "FTM",
+      "protocol": "20",
+      "symbol": "FTM",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/fantom/ftm/logo.png"
+    },
+    {
+      "name": "xDAI",
+      "protocol": "20",
+      "symbol": "xDAI",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png"
+    },
+    {
+      "name": "HO",
+      "protocol": "20",
+      "symbol": "HO",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/halo/ho/logo.png"
+    },
+    {
+      "name": "HT",
+      "protocol": "20",
+      "symbol": "HT",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png"
+    },
+    {
+      "name": "GLMR",
+      "protocol": "20",
+      "symbol": "GLMR",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png"
+    },
+    {
+      "name": "ETH",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png"
+    },
+    {
+      "name": "MATIC",
+      "protocol": "20",
+      "symbol": "MATIC",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png"
+    },
+    {
+      "name": "SQL",
+      "protocol": "20",
+      "symbol": "SQL",
+      "address": "",
+      "decimals": 9,
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f536f31313131313131313131313131313131313131313131313131313131313131313131313131313131322f6c6f676f2e706e67"
+    },
+    {
+      "name": "TRX",
+      "protocol": "20",
+      "symbol": "TRX",
+      "address": "",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/logo/trx.png"
+    },
   ]
 }
