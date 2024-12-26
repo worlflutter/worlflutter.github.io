@@ -9,7 +9,7 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png",
-       "source": "ethereum",
+       "source": "ethereum"
     },
     {
       "name": "AVAX",
