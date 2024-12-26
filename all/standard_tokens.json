@@ -48,33 +48,6 @@
       "source": "bttc"
     },
     {
-      "symbol": "ETC",
-      "address": "",
-      "name": "Ethereum Classic Mainnet",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/etc/etc/logo.png",
-      "protocol": "20",
-      "source": "etc"
-    },
-    {
-      "name": "ETHF",
-      "protocol": "20",
-      "symbol": "ETHF",
-      "address": "",
-      "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png",
-      "source": "ethf"
-    },
-    {
-      "name": "ETHW",
-      "protocol": "20",
-      "symbol": "ETHW",
-      "address": "",
-      "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethw.png",
-      "source": "ethw"
-    },
-    {
       "name": "FTM",
       "protocol": "20",
       "symbol": "FTM",
@@ -91,15 +64,6 @@
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png",
       "source": "gnosis"
-    },
-    {
-      "name": "HO",
-      "protocol": "20",
-      "symbol": "HO",
-      "address": "",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/halo/ho/logo.png",
-      "source": "halo"
     },
     {
       "name": "HT",
