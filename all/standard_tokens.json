@@ -6,7 +6,7 @@
       "name": "ETH",
       "protocol": "20",
       "symbol": "ETH",
-      "address": "",
+      "address": "ethereum",
       "decimals": 18,
       "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png",
        "source": "ethereum"
@@ -15,7 +15,7 @@
       "name": "AVAX",
       "protocol": "20",
       "symbol": "AVAX",
-      "address": "",
+      "address": "avalanche",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png",
       "source": "avalanche"
@@ -24,7 +24,7 @@
       "name": "ETH",
       "protocol": "20",
       "symbol": "ETH",
-      "address": "",
+      "address": "arbitrum",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png",
       "source": "arbitrum"
@@ -33,7 +33,7 @@
       "name": "Binance Coin",
       "protocol": "",
       "symbol": "BNB",
-      "address": "",
+      "address": "bsc",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/bsc/bnb/logo.png",
       "source": "bsc"
@@ -42,7 +42,7 @@
       "name": "BTT",
       "protocol": "20",
       "symbol": "BTT",
-      "address": "",
+      "address": "bttc",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png",
       "source": "bttc"
@@ -51,7 +51,7 @@
       "name": "FTM",
       "protocol": "20",
       "symbol": "FTM",
-      "address": "",
+      "address": "fantom",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/fantom/ftm/logo.png",
       "source": "fantom"
@@ -60,7 +60,7 @@
       "name": "xDAI",
       "protocol": "20",
       "symbol": "xDAI",
-      "address": "",
+      "address": "gnosis",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png",
       "source": "gnosis"
@@ -69,7 +69,7 @@
       "name": "HT",
       "protocol": "20",
       "symbol": "HT",
-      "address": "",
+      "address": "heco",
       "decimals": 18,
       "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png",
       "source": "heco"
@@ -78,7 +78,7 @@
       "name": "GLMR",
       "protocol": "20",
       "symbol": "GLMR",
-      "address": "",
+      "address": "moonbeam",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png",
       "source": "moonbeam"
@@ -87,7 +87,7 @@
       "name": "ETH",
       "protocol": "20",
       "symbol": "ETH",
-      "address": "",
+      "address": "optimism",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png",
       "source": "optimism"
@@ -96,7 +96,7 @@
       "name": "MATIC",
       "protocol": "20",
       "symbol": "MATIC",
-      "address": "",
+      "address": "polygon",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png",
       "source": "polygon"
@@ -105,7 +105,7 @@
       "name": "SQL",
       "protocol": "20",
       "symbol": "SQL",
-      "address": "",
+      "address": "solana",
       "decimals": 9,
       "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f536f31313131313131313131313131313131313131313131313131313131313131313131313131313131322f6c6f676f2e706e67",
       "source": "solana"
@@ -114,7 +114,7 @@
       "name": "TRX",
       "protocol": "20",
       "symbol": "TRX",
-      "address": "",
+      "address": "tron",
       "decimals": 6,
       "logoURI": "https://static.tronscan.org/production/logo/trx.png",
       "source": "tron"
