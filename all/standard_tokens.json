@@ -8,7 +8,8 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png"
+      "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png",
+       "source": "ethereum",
     },
     {
       "name": "AVAX",
@@ -16,7 +17,8 @@
       "symbol": "AVAX",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png",
+      "source": "avalanche"
     },
     {
       "name": "ETH",
@@ -24,7 +26,8 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png"
+      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png",
+      "source": "arbitrum"
     },
     {
       "name": "Binance Coin",
@@ -32,7 +35,8 @@
       "symbol": "BNB",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/bsc/bnb/logo.png"
+      "logoURI": "https://athena-wallet.github.io/bsc/bnb/logo.png",
+      "source": "bsc"
     },
     {
       "name": "BTT",
@@ -40,7 +44,8 @@
       "symbol": "BTT",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png",
+      "source": "btt"
     },
     {
       "symbol": "ETC",
@@ -48,7 +53,8 @@
       "name": "Ethereum Classic Mainnet",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/etc/etc/logo.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "name": "ETHF",
@@ -56,7 +62,8 @@
       "symbol": "ETHF",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png",
+      "source": "ethf"
     },
     {
       "name": "ETHw",
@@ -64,7 +71,8 @@
       "symbol": "ETHW",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethw.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethw.png",
+      "source": "ethw"
     },
     {
       "name": "FTM",
@@ -72,7 +80,8 @@
       "symbol": "FTM",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/fantom/ftm/logo.png"
+      "logoURI": "https://athena-wallet.github.io/fantom/ftm/logo.png",
+      "source": "fantom"
     },
     {
       "name": "xDAI",
@@ -80,7 +89,8 @@
       "symbol": "xDAI",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png"
+      "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png",
+      "source": "gnosis"
     },
     {
       "name": "HO",
@@ -88,7 +98,8 @@
       "symbol": "HO",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/halo/ho/logo.png"
+      "logoURI": "https://static.w3wallet.link/halo/ho/logo.png",
+      "source": "halo"
     },
     {
       "name": "HT",
@@ -96,7 +107,8 @@
       "symbol": "HT",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png"
+      "logoURI": "https://static.aicoinstorge.com/coin/20180704/153069934745221.png?x-oss-process=image/resize,m_lfit,h_93,w_93,image/circle,r_45/format,png",
+      "source": "heco"
     },
     {
       "name": "GLMR",
@@ -104,7 +116,8 @@
       "symbol": "GLMR",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png",
+      "source": "moonbeam"
     },
     {
       "name": "ETH",
@@ -112,7 +125,8 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png"
+      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png",
+      "source": "optimism"
     },
     {
       "name": "MATIC",
@@ -120,7 +134,8 @@
       "symbol": "MATIC",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png"
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png",
+      "source": "polygon"
     },
     {
       "name": "SQL",
@@ -128,7 +143,8 @@
       "symbol": "SQL",
       "address": "",
       "decimals": 9,
-      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f536f31313131313131313131313131313131313131313131313131313131313131313131313131313131322f6c6f676f2e706e67"
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f536f31313131313131313131313131313131313131313131313131313131313131313131313131313131322f6c6f676f2e706e67",
+      "source": "solana"
     },
     {
       "name": "TRX",
@@ -136,7 +152,8 @@
       "symbol": "TRX",
       "address": "",
       "decimals": 6,
-      "logoURI": "https://static.tronscan.org/production/logo/trx.png"
+      "logoURI": "https://static.tronscan.org/production/logo/trx.png",
+      "source": "tron"
     }
   ]
 }
