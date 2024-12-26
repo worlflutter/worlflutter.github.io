@@ -1,0 +1,32 @@
+[
+	{
+		"dirname": "0x060924FB947e37EEE230d0B1A71D9618aEc269fC",
+		"address": "0x060924FB947e37EEE230d0B1A71D9618aEc269fC",
+		"symbol": "AOM"
+	},
+	{
+		"dirname": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+		"address": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+		"symbol": "ARES"
+	},
+	{
+		"dirname": "0xA8162A07EFA81602c3803772d18D1789a44Fd87a",
+		"address": "0xA8162A07EFA81602c3803772d18D1789a44Fd87a",
+		"symbol": "ALEO"
+	},
+	{
+		"dirname": "0xBcCf7f0D846a051b8845BD216eE0ffB5131F9873",
+		"address": "0xBcCf7f0D846a051b8845BD216eE0ffB5131F9873",
+		"symbol": "AACE"
+	},
+	{
+		"dirname": "0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
+		"address": "0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
+		"symbol": "AIDI"
+	},
+	{
+		"dirname": "0xF75a591ca4259cb3ca2ec20C74D9c1de79E812d8",
+		"address": "0xF75a591ca4259cb3ca2ec20C74D9c1de79E812d8",
+		"symbol": "AID"
+	}
+]

@@ -1,0 +1,145 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-a.jpg",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
+                "url": "3"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
+                "url": "4"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "hot",
+                "items": [
+                    {
+                        "name": "SushiSwap",
+                        "des": "The SushiSwap protocol realigns incentives for network participants by introducing revenue sharing and forum-driven network efforts to the popular AMM model",
+                        "url": "https://app.sushi.com",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/sushiswap.png"
+                    },
+                    {
+                        "name": "Cream",
+                        "des": "C.R.E.A.M., a lending platform based on Compound Finance and exchange platform based on Balancer Labs",
+                        "url": "https://app.cream.finance",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/cream.png"
+                    },
+                    {
+                        "name": "Balancer",
+                        "des": "BAL is earned when eligible tokens are exchanged",
+                        "url": "https://balancer.exchange",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/balancer.png"
+                    },
+                    {
+                        "name": "WBTC",
+                        "des": "Wrapped Bitcoin delivers the power of Bitcoin\r\nwith the flexibility of an ERC20 token",
+                        "url": "https://wbtc.network",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/wbtc.png"
+                    },
+                    {
+                        "name": "Compound",
+                        "des": "Compound to provide a simple method is to earn interest or borrowing the etheric fang tokens.",
+                        "url": "https://app.compound.finance/",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/compound.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
+                    },
+                    {
+                        "name": "Swell",
+                        "des": "A non-custodial ETH liquidity staking protocol that helps you optimize yield in DeFi",
+                        "url": "https://app.swellnetwork.io",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/swell.png"
+                    },
+                    {
+                        "name": "Dydx",
+                        "des": "dYdX is the developer of a leading decentralized exchange on a mission to build open, secure, and powerful financial products. dYdX runs on audited smart contracts on Ethereum, which eliminates the need to trust a central exchange while trading. We combine the security and transparency of a decentralized exchange, with the speed and usability of a centralized exchange",
+                        "url": "http://dydx.exchange",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/dydx.png"
+                    },
+                    {
+                        "name": "Lybra Finance",
+                        "des": "Lybra 协议是一种开创性的去中心化协议，旨在为动荡的加密货币世界带来稳定性。",
+                        "url": "https://lybra.finance",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/lybra.png"
+                    },
+                    {
+                        "name": "Curve",
+                        "des": "Curve is DeFi's leading AMM, (Automated Market Maker). Hundreds of liquidity pools have been launched through Curve's factory and incentivized by Curve's DAO. Users rely on Curve's proprietary formulas to provide high liquidity, low slippage, low fee transactions among ERC-20 tokens.",
+                        "url": "https://curve.eth.link",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/curve.png"
+                    },
+                    {
+                        "name": "1inch",
+                        "des": "linch Aggregation Protocol Facilitates Cost-Efficient and Secure Swap Trading Across Multiple LiquiditySources",
+                        "url": "https://1inch.exchange",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/1inch.png"
+                    },
+                    {
+                        "name": "GALA",
+                        "des": "NFT game ecosystem on Ethereum and Binance smart chain",
+                        "url": "https://app.gala.games",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/gala.png"
+                    },
+                    {
+                        "name": "KingData",
+                        "des": "A professional DeFi data analysis service platform that supports multiple public chains such as ETH, HECO, BSC, HSC, and OKExChain. Comprehensive multidimensional data visualization analysis of APY, loan, DEX and other project data.",
+                        "url": "https://kingdata.com",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/kingdata.png"
+                    },
+                    {
+                        "name": "Axie Infinity",
+                        "des": "A pokemon-inspired digital pet universe.",
+                        "url": "https://land.axieinfinity.com",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Axie_Infinity.png"
+                    },
+                    {
+                        "name": "Aave",
+                        "des": "Aave is an open source decentralized lending protocol that provides users with deposit and lending services.The deposit and loan interest rates of users on both sides of the borrower and lenders are calculated by algorithms based on the platform's borrowing volume and deposit volume, and the platform uses Chainlink's oracle to ensure the fairness of the collateral price.When users make deposits, they will get aToken linked to the asset value 1:1 as a deposit certificate. Interest begins to accrue immediately upon deposit and is represented by a steady increase in the number of tokens held by the depositor. Deposit users can also lend 25%-100% of other assets on the platform depending on the aToken.",
+                        "url": "https://app.aave.com",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Aave.png"
+                    },
+                    {
+                        "name": "SWFT Bridge",
+                        "des": "Simple, safe, & secure cross-chain swap on BTC/ETH/ Tron/BSC/SOL/AVAX/..",
+                        "url": "https://defi.swft.pro",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/SWFT_.png"
+                    },
+                    {
+                        "name": "OpenSea",
+                        "des": "Largest NFT marketplace. Buy, sell and discover items.",
+                        "url": "https://opensea.io",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/OpenSea.png"
+                    },
+                    {
+                        "name": "Blur",
+                        "des": "NFT marketplace for professional traders.",
+                        "url": "https://blur.io",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/Blur.png"
+                    },
+                    {
+                        "name": "LIDO",
+                        "des": "The Lido DAO is a decentralized autonomous organization that governs the liquid staking protocol through the voting power of governance token () holders to determine key parameters (e.g., set fees, assign node operators and oracles, etc.)",
+                        "url": "https://lido.fi",
+                        "logo": "https://hashpayinfo.github.io/eth/hot_dapp/LIDO.png"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+[
+	{
+		"dirname": "0x08A5A14Fa138fFf51680e8Ac4fE52Bcf1cE62A35",
+		"address": "0x08A5A14Fa138fFf51680e8Ac4fE52Bcf1cE62A35",
+		"symbol": "TD"
+	},
+	{
+		"dirname": "0x58959E0C71080434f237bD42d07Cd84B74CeF438",
+		"address": "0x58959E0C71080434f237bD42d07Cd84B74CeF438",
+		"symbol": "TSR"
+	},
+	{
+		"dirname": "0x5dced3c2fab61e21b25177c6050d3f166f696110",
+		"address": "0x5dced3c2fab61e21b25177c6050d3f166f696110",
+		"symbol": "TEA"
+	},
+	{
+		"dirname": "0x734C90044a0bA31B3F2e640c10dC5d3540499Bfd",
+		"address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+		"symbol": "TSX"
+	},
+	{
+		"dirname": "0xB83c27805aAcA5C7082eB45C868d955Cf04C337F",
+		"address": "0xB83c27805aAcA5C7082eB45C868d955Cf04C337F",
+		"symbol": "Tiger"
+	}
+]
