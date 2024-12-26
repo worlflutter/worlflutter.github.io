@@ -45,7 +45,7 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png",
-      "source": "btt"
+      "source": "bttc"
     },
     {
       "symbol": "ETC",
@@ -66,7 +66,7 @@
       "source": "ethf"
     },
     {
-      "name": "ETHw",
+      "name": "ETHW",
       "protocol": "20",
       "symbol": "ETHW",
       "address": "",
