@@ -3,12 +3,22 @@
   "reason": "获取成功",
   "data": [
     {
+      "name": "AVAX",
+      "protocol": "20",
+      "symbol": "AVAX",
+      "address": "avalanche",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png",
+      "source": "avalanche"
+    },
+    {
       "name": "USDT.e",
       "protocol": "20",
       "symbol": "USDT.e",
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
       "decimals": 6,
-      "logoURI": "https://snowtrace.io/token/images/tether_32.png"
+      "logoURI": "https://snowtrace.io/token/images/tether_32.png",
+      "source": "avalanche"
     },
     {
       "name": "USDt",
@@ -16,7 +26,8 @@
       "symbol": "USDt ",
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "decimals": 6,
-      "logoURI": "https://snowtrace.io/token/images/tether_32.png"
+      "logoURI": "https://snowtrace.io/token/images/tether_32.png",
+      "source": "avalanche"
     },
     {
       "name": "USDC",
@@ -24,7 +35,8 @@
       "symbol": "USDC",
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "decimals": 6,
-      "logoURI": "https://snowtrace.io/token/images/usdc_32.png"
+      "logoURI": "https://snowtrace.io/token/images/usdc_32.png",
+      "source": "avalanche"
     },
     {
       "name": "USDC.e",
@@ -32,7 +44,8 @@
       "symbol": "USDC.e",
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "decimals": 6,
-      "logoURI": "https://snowtrace.io/token/images/centre-usdc_28.png"
+      "logoURI": "https://snowtrace.io/token/images/centre-usdc_28.png",
+      "source": "avalanche"
     },
     {
       "name": "BUSD.e",
@@ -40,7 +53,8 @@
       "symbol": "BUSD.e",
       "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
       "decimals": 18,
-      "logoURI": "https://snowtrace.io/token/images/busd_32.png"
+      "logoURI": "https://snowtrace.io/token/images/busd_32.png",
+      "source": "avalanche"
     },
     {
       "name": "DAI.e",
@@ -48,7 +62,8 @@
       "symbol": "DAI.e",
       "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
       "decimals": 18,
-      "logoURI": "https://snowtrace.io/token/images/MCDDai_32.png"
+      "logoURI": "https://snowtrace.io/token/images/MCDDai_32.png",
+      "source": "avalanche"
     },
     {
       "name": "SHIB.e",
@@ -56,7 +71,8 @@
       "symbol": "SHIB.e",
       "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
       "decimals": 18,
-      "logoURI": "https://snowtrace.io/token/images/shibatoken_32.png"
+      "logoURI": "https://snowtrace.io/token/images/shibatoken_32.png",
+      "source": "avalanche"
     },
     {
       "name": "WAVAX",
@@ -64,7 +80,8 @@
       "symbol": "WAVAX",
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "decimals": 18,
-      "logoURI": "https://snowtrace.io/token/images/avax_32.png"
+      "logoURI": "https://snowtrace.io/token/images/avax_32.png",
+      "source": "avalanche"
     }
   ]
 }
