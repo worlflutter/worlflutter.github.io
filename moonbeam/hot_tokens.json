@@ -3,12 +3,22 @@
   "reason": "获取成功",
   "data": [
     {
+      "name": "GLMR",
+      "protocol": "20",
+      "symbol": "GLMR",
+      "address": "moonbeam",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png",
+      "source": "moonbeam"
+    },
+    {
       "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
       "decimals": 6,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/usdt_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/usdt_32.png",
+      "source": "moonbeam"
     },
     {
       "name": "USDC",
@@ -16,7 +26,8 @@
       "symbol": "USDC",
       "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "decimals": 6,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/centre-usdc_28.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/centre-usdc_28.png",
+      "source": "moonbeam"
     },
     {
       "name": "BUSD",
@@ -24,7 +35,8 @@
       "symbol": "BUSD",
       "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
       "decimals": 18,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/busd_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/busd_32.png",
+      "source": "moonbeam"
     },
     {
       "name": "DAI",
@@ -32,7 +44,8 @@
       "symbol": "DAI",
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "decimals": 18,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/dai_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/dai_32.png",
+      "source": "moonbeam"
     },
     {
       "name": "MATIC",
@@ -40,7 +53,8 @@
       "symbol": "MATIC",
       "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
       "decimals": 18,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/matic_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/matic_32.png",
+      "source": "moonbeam"
     },
     {
       "name": "WBTC",
@@ -48,7 +62,8 @@
       "symbol": "WBTC",
       "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
       "decimals": 8,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/wbtc_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/wbtc_32.png",
+      "source": "moonbeam"
     },
     {
       "name": "FTM",
@@ -56,7 +71,8 @@
       "symbol": "FTM",
       "address": "0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327",
       "decimals": 18,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/ftm_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/ftm_32.png",
+      "source": "moonbeam"
     },
     {
       "name": " BEPRO",
@@ -64,7 +80,8 @@
       "symbol": "BEPRO",
       "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
       "decimals": 18,
-      "logoURI": "https://moonbeam.moonscan.io/token/images/bepronetwork_32.png"
+      "logoURI": "https://moonbeam.moonscan.io/token/images/bepronetwork_32.png",
+      "source": "moonbeam"
     }
   ]
 }
