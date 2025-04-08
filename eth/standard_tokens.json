@@ -8,7 +8,8 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png"
+      "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png",
+      "source": "ethereum"
     },
     {
       "name": "Tether USD",
@@ -16,7 +17,8 @@
       "symbol": "USDT",
       "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "decimals": 6,
-      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png",
+      "source": "ethereum"
     },
     {
       "name": "laowang",
@@ -24,7 +26,8 @@
       "symbol": "lao",
       "address": "0x8236E331C25859d13AD2e73e886C4a7751395601",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7/logo.png",
+      "source": "ethereum"
     }
   ]
 }
