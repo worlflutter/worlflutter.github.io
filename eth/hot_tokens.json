@@ -3,6 +3,15 @@
   "reason": "获取成功",
   "data": [
           {
+              "name": "ETH",
+              "protocol": "20",
+              "symbol": "ETH",
+              "address": "ethereum",
+              "decimals": 18,
+              "logoURI": "https://hashpayinfo.github.io/eth/eth/eth.png",
+               "source": "ethereum"
+          },
+          {
               "name": "Tether USD",
               "protocol": "20",
               "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
