@@ -3,12 +3,22 @@
   "reason": "获取成功",
   "data": [
     {
+      "name": "xDAI",
+      "protocol": "20",
+      "symbol": "xDAI",
+      "address": "gnosis",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png",
+      "source": "gnosis"
+    },
+    {
       "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
       "decimals": 6,
-      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "source": "gnosis"
     },
     {
       "name": "USDC",
@@ -16,7 +26,8 @@
       "symbol": "USDC",
       "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
       "decimals": 6,
-      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+      "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "source": "gnosis"
     },
     {
       "name": "MATIC",
@@ -24,7 +35,8 @@
       "symbol": "MATIC",
       "address": "0x74e596525C63393f42C76987b6A66F4e52733efa",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/polygon(matic)/0x0000000000000000000000000000000000001010/logo.png"
+      "logoURI": "https://hashpayinfo.github.io/polygon(matic)/0x0000000000000000000000000000000000001010/logo.png",
+      "source": "gnosis"
     }
   ]
 }
