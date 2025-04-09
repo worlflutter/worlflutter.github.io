@@ -3,12 +3,22 @@
   "reason": "获取成功",
   "data": [
     {
+      "symbol": "ETC",
+      "address": "",
+      "name": "Ethereum Classic Mainnet",
+      "decimals": 18,
+      "logoURI": "https://hashpayinfo.github.io/etc/etc/logo.png",
+      "protocol": "20",
+      "source": "etc"
+    },
+    {
       "symbol": "USDT",
       "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
       "name": "Tether USD",
       "decimals": 6,
       "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "HEBE",
@@ -16,7 +26,8 @@
       "name": "Hebe Wallet",
       "decimals": 18,
       "logoURI": "https://hashpayinfo.github.io/etc/0x88d8c3dc6b5324f34e8cf229a93e197048671abd/logo.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "ETH",
@@ -24,7 +35,8 @@
       "name": "Ethereum",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "BNB",
@@ -32,7 +44,8 @@
       "name": "Binance",
       "decimals": 18,
       "logoURI": "https://hashpay.gitee.io/icon/bnbtoken.jpg",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "USDC",
@@ -40,7 +53,8 @@
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "BUSD",
@@ -48,7 +62,8 @@
       "name": "Binance-Peg BUSD Token",
       "decimals": 18,
       "logoURI": "https://hashpayinfo.github.io/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56/logo.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     },
     {
       "symbol": "DAI",
@@ -56,7 +71,8 @@
       "name": "Dai Stablecoin",
       "decimals": 18,
       "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png",
-      "protocol": "20"
+      "protocol": "20",
+      "source": "etc"
     }
   ]
 }
