@@ -9,7 +9,7 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethf.png",
-      "source": "ethereum"
+      "source": "ethf"
     },
           {
               "name": "USD Coin",
@@ -18,7 +18,7 @@
               "decimals": 6,
               "symbol": "USDC",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "name": "Dai",
@@ -27,7 +27,7 @@
               "decimals": 18,
               "symbol": "DAI",
               "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "name": "Uniswap",
@@ -36,7 +36,7 @@
               "decimals": 18,
               "symbol": "UNI",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "name": "Tether",
@@ -45,7 +45,7 @@
               "decimals": 6,
               "symbol": "USDT",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "protocol": "20",
@@ -54,7 +54,7 @@
               "decimals": 18,
               "symbol": "SUSHI",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "name": "Chainlink",
@@ -63,7 +63,7 @@
               "decimals": 18,
               "symbol": "LINK",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "protocol": "20",
@@ -72,7 +72,7 @@
               "decimals": 18,
               "symbol": "YFI",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png",
-            "source": "ethereum"
+            "source": "ethf"
           },
           {
               "name": "Curve DAO Token",
@@ -81,7 +81,7 @@
               "decimals": 18,
               "symbol": "CRV",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0xD533a949740bb3306d119CC777fa900bA034cd52.png",
-            "source": "ethereum"
+             "source": "ethf"
           },
           {
               "name": "Wrapped Bitcoin",
@@ -90,7 +90,7 @@
               "decimals": 8,
               "symbol": "WBTC",
               "logoURI": "https://acswapinfo.github.io/tokens/eth/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
-            "source": "ethereum"
+             "source": "ethf"
           }
            ]
 }
