@@ -1,0 +1,38 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "(PoS) Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6,
+      "logoURI": "https://athena-wallet.github.io/tron/tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t/logo.png"
+    },
+    {
+      "name": "Jupiter",
+      "protocol": "20",
+      "symbol": "JUP",
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "decimals": 6,
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7374617469632e6a75702e61672f6a75702f69636f6e2e706e67"
+    },
+    {
+      "name": "USD Coin",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimals": 6,
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f45506a465764643541756671535371654d32714e31787a7962617043384734774547476b5a777954447431762f6c6f676f2e706e67"
+    },
+    {
+      "name": "Wormhole Token",
+      "protocol": "20",
+      "symbol": "W",
+      "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "decimals": 6,
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f776f726d686f6c652e636f6d2f746f6b656e2e706e67"
+    }
+  ]
+}
