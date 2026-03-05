@@ -8,7 +8,7 @@
       "symbol": "BNB",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpay.gitee.io/icon/bnbtoken.jpg"
+      "logoURI": "https://worlflutter.github.io/logo/logo.png"
     },
     {
       "name": " ",
@@ -16,7 +16,7 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
+      "logoURI": "https://worlflutter.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
     }
   ]
 }
