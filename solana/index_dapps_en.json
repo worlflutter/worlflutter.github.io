@@ -1,0 +1,43 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+         "banners": [
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-a.jpg",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
+                "url": "3"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
+                "url": "4"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                    {
+                        "name": "Jupiter",
+                        "des": "",
+                        "url": "https://jup.ag",
+                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f63646e2f696d67732f7336303f7265663d3638373437343730373333613266326637333734363137343639363332653661373537303265363136373266366137353730326636393633366636653265373036653637"
+                    },
+                    {
+                        "name": "Raydium",
+                        "des": "",
+                        "url": "https://raydium.io",
+                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f65782d696d672f52564b6436317a745a5739475577685262624c6f59565245355866314232745673634b71775a71586745722e706e67"
+                    }
+                ]
+            }
+        ]
+    }
+}
