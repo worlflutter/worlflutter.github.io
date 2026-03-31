@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "Ether",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://worlflutter.github.io/zksync/0x0000000000000000000000000000000000000000/logo.png"
+    }
+  ]
+}
