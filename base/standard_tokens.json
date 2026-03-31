@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "Ether",
+      "protocol": "20",
+      "symbol": "ETH",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://dtcwallet.github.io/eth/eth/eth.png"
+    }
+  ]
+}
