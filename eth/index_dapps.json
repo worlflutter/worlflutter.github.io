@@ -12,35 +12,40 @@
                         "des": "全球最大的去中心化交易协议",
                         "url": "https://app.uniswap.org/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
-                        "chains": ["ETH", "ARB", "OP", "POL"]
+                        "chains": ["ETH", "ARB", "OP", "POL"],
+                        "type": "DEX"
                     },
                     {
                         "name": "PancakeSwap",
                         "des": "币安智能链(BSC)上最受欢迎的AMM DEX",
                         "url": "https://pancakeswap.finance/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
-                        "chains": ["BSC", "ETH"]
+                        "chains": ["BSC", "ETH"],
+                        "type": "DEX"
                     },
                     {
                         "name": "SunSwap",
                         "des": "波场 TRON 最大的去中心化交易所",
                         "url": "https://sun.io/#/v3/swap",
                         "logo": "https://static.tronscan.org/production/upload/logo/sun10.png",
-                        "chains": ["TRX"]
+                        "chains": ["TRX"],
+                        "type": "DEX"
                     },
                     {
                         "name": "OpenSea",
                         "des": "全球最大的综合性 NFT 交易市场",
                         "url": "https://opensea.io/",
                         "logo": "https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png",
-                        "chains": ["ETH", "POL", "ARB"]
+                        "chains": ["ETH", "POL", "ARB"],
+                        "type": "NFT"
                     },
                     {
                         "name": "TronScan",
                         "des": "波场 TRON 官方区块链浏览器",
                         "url": "https://tronscan.org",
                         "logo": "https://static.tronscan.org/production/upload/logo/Staking.png",
-                        "chains": ["TRX"]
+                        "chains": ["TRX"],
+                        "type": "工具"
                     }
                 ]
             },
@@ -52,35 +57,40 @@
                         "des": "波场 TRON 官方支持的首个去中心化借贷平台",
                         "url": "https://justlend.org/",
                         "logo": "https://static.tronscan.org/production/upload/logo/justlend.png",
-                        "chains": ["TRX"]
+                        "chains": ["TRX"],
+                        "type": "借贷"
                     },
                     {
                         "name": "Aave",
                         "des": "全球领先的开源去中心化借贷协议",
                         "url": "https://app.aave.com/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
-                        "chains": ["ETH", "POL", "AVAX"]
+                        "chains": ["ETH", "POL", "AVAX"],
+                        "type": "借贷"
                     },
                     {
                         "name": "Lido",
                         "des": "领先的流动性质押解决方案",
                         "url": "https://stake.lido.fi/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png",
-                        "chains": ["ETH", "SOL", "POL"]
+                        "chains": ["ETH", "SOL", "POL"],
+                        "type": "质押"
                     },
                     {
                         "name": "Curve Finance",
                         "des": "专注于稳定币的高效交易流动性池",
                         "url": "https://curve.fi/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
-                        "chains": ["ETH", "BSC", "ARB"]
+                        "chains": ["ETH", "BSC", "ARB"],
+                        "type": "DEX"
                     },
                     {
                         "name": "Energy Lease",
                         "des": "波场 TRON 能量租赁与交易平台",
                         "url": "https://tronify.ai",
                         "logo": "https://athena-wallet.github.io/tron/dapplogo/tronify.png",
-                        "chains": ["TRX"]
+                        "chains": ["TRX"],
+                        "type": "工具"
                     }
                 ]
             }
