@@ -3,9 +3,9 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "SQL",
+      "name": "SOL",
       "protocol": "20",
-      "symbol": "SQL",
+      "symbol": "SOL",
       "address": "",
       "decimals": 9,
       "logoURI": "https://worlflutter.github.io/solana/logo/logo.png"
