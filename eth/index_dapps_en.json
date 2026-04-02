@@ -2,7 +2,14 @@
     "errorCode": 0,
     "reason": "获取成功",
     "data": {
-        "banners": [],
+        "banners": [
+            {
+                "title": "探索 Web3 世界",
+                "image": "https://example.com/banner1.jpg",
+                "link": "https://app.uniswap.org/",
+                "type": "featured"
+            }
+        ],
         "dapps": [
             {
                 "type": "热门推荐",
@@ -12,7 +19,7 @@
                         "des": "全球最大的去中心化交易协议",
                         "url": "https://app.uniswap.org/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
-                        "chains": ["ETH", "ARB", "OP", "POL"],
+                        "chains": ["ETH", "ARB", "OP", "POL", "BASE"],
                         "type": "DEX"
                     },
                     {
@@ -20,7 +27,52 @@
                         "des": "币安智能链(BSC)上最受欢迎的AMM DEX",
                         "url": "https://pancakeswap.finance/",
                         "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
-                        "chains": ["BSC", "ETH"],
+                        "chains": ["BSC", "ETH", "ARB"],
+                        "type": "DEX"
+                    },
+                    {
+                        "name": "OpenSea",
+                        "des": "全球最大的综合性 NFT 交易市场",
+                        "url": "https://opensea.io/",
+                        "logo": "https://opensea.io/static/images/logos/opensea-logo.png",
+                        "chains": ["ETH", "POL", "ARB", "BASE"],
+                        "type": "NFT"
+                    },
+                    {
+                        "name": "Aave",
+                        "des": "全球领先的开源去中心化借贷协议",
+                        "url": "https://app.aave.com/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
+                        "chains": ["ETH", "POL", "AVAX", "ARB", "OP"],
+                        "type": "借贷"
+                    },
+                    {
+                        "name": "1inch",
+                        "des": "DeFi 聚合器，自动找到最优交易路径",
+                        "url": "https://app.1inch.io/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png",
+                        "chains": ["ETH", "BSC", "POL", "ARB", "OP"],
+                        "type": "DEX聚合器"
+                    }
+                ]
+            },
+            {
+                "type": "交易所 DEX",
+                "items": [
+                    {
+                        "name": "Uniswap",
+                        "des": "全球最大的去中心化交易协议",
+                        "url": "https://app.uniswap.org/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+                        "chains": ["ETH", "ARB", "OP", "POL", "BASE"],
+                        "type": "DEX"
+                    },
+                    {
+                        "name": "PancakeSwap",
+                        "des": "币安智能链(BSC)上最受欢迎的AMM DEX",
+                        "url": "https://pancakeswap.finance/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+                        "chains": ["BSC", "ETH", "ARB"],
                         "type": "DEX"
                     },
                     {
@@ -32,40 +84,85 @@
                         "type": "DEX"
                     },
                     {
-                        "name": "OpenSea",
-                        "des": "全球最大的综合性 NFT 交易市场",
-                        "url": "https://opensea.io/",
-                        "logo": "https://avatars.githubusercontent.com/u/34966464?s=200&v=4",
-                        "chains": ["ETH", "POL", "ARB"],
-                        "type": "NFT"
+                        "name": "Curve Finance",
+                        "des": "专注于稳定币的高效交易流动性池",
+                        "url": "https://curve.fi/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+                        "chains": ["ETH", "BSC", "ARB", "POL"],
+                        "type": "DEX"
                     },
                     {
-                        "name": "TronScan",
-                        "des": "波场 TRON 官方区块链浏览器",
-                        "url": "https://tronscan.org",
-                        "logo": "https://static.tronscan.org/production/upload/logo/Staking.png",
-                        "chains": ["TRX"],
-                        "type": "工具"
+                        "name": "1inch",
+                        "des": "DeFi 聚合器，自动找到最优交易路径",
+                        "url": "https://app.1inch.io/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png",
+                        "chains": ["ETH", "BSC", "POL", "ARB", "OP"],
+                        "type": "DEX聚合器"
+                    },
+                    {
+                        "name": "Jupiter",
+                        "des": "Solana 上最优的交易聚合器",
+                        "url": "https://jup.ag/",
+                        "logo": "https://station.jup.ag/favicon.ico",
+                        "chains": ["SOL"],
+                        "type": "DEX聚合器"
                     }
                 ]
             },
             {
-                "type": "热门 DeFi",
+                "type": "跨链桥",
                 "items": [
+                    {
+                        "name": "Stargate",
+                        "des": "LayerZero 官方跨链桥，安全快速",
+                        "url": "https://stargate.finance/",
+                        "logo": "https://stargate.finance/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL", "ARB", "OP", "AVAX"],
+                        "type": "跨链桥"
+                    },
+                    {
+                        "name": "Across",
+                        "des": "最快的跨链桥，低手续费",
+                        "url": "https://across.to/",
+                        "logo": "https://across.to/favicon.ico",
+                        "chains": ["ETH", "ARB", "OP", "POL", "BASE"],
+                        "type": "跨链桥"
+                    },
+                    {
+                        "name": "Orbiter Finance",
+                        "des": "专注 L2 之间的快速跨链",
+                        "url": "https://www.orbiter.finance/",
+                        "logo": "https://www.orbiter.finance/favicon.ico",
+                        "chains": ["ETH", "ARB", "OP", "zkSync", "Scroll"],
+                        "type": "跨链桥"
+                    },
+                    {
+                        "name": "Wormhole",
+                        "des": "多链资产跨链桥接协议",
+                        "url": "https://wormhole.com/",
+                        "logo": "https://wormhole.com/favicon.ico",
+                        "chains": ["ETH", "SOL", "BSC", "POL", "AVAX"],
+                        "type": "跨链桥"
+                    }
+                ]
+            },
+            {
+                "type": "DeFi 理财",
+                "items": [
+                    {
+                        "name": "Aave",
+                        "des": "全球领先的开源去中心化借贷协议",
+                        "url": "https://app.aave.com/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
+                        "chains": ["ETH", "POL", "AVAX", "ARB", "OP"],
+                        "type": "借贷"
+                    },
                     {
                         "name": "JustLend",
                         "des": "波场 TRON 官方支持的首个去中心化借贷平台",
                         "url": "https://justlend.org/",
                         "logo": "https://static.tronscan.org/production/upload/logo/justlend.png",
                         "chains": ["TRX"],
-                        "type": "借贷"
-                    },
-                    {
-                        "name": "Aave",
-                        "des": "全球领先的开源去中心化借贷协议",
-                        "url": "https://app.aave.com/",
-                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
-                        "chains": ["ETH", "POL", "AVAX"],
                         "type": "借贷"
                     },
                     {
@@ -77,20 +174,385 @@
                         "type": "质押"
                     },
                     {
-                        "name": "Curve Finance",
-                        "des": "专注于稳定币的高效交易流动性池",
-                        "url": "https://curve.fi/",
-                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
-                        "chains": ["ETH", "BSC", "ARB"],
-                        "type": "DEX"
+                        "name": "Compound",
+                        "des": "自动化利率市场协议，存币生息",
+                        "url": "https://app.compound.finance/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+                        "chains": ["ETH", "POL", "ARB"],
+                        "type": "借贷"
+                    },
+                    {
+                        "name": "Pendle",
+                        "des": "收益代币化协议，自由交易未来收益",
+                        "url": "https://app.pendle.finance/",
+                        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png",
+                        "chains": ["ETH", "ARB", "BSC"],
+                        "type": "收益"
+                    },
+                    {
+                        "name": "EigenLayer",
+                        "des": "以太坊再质押协议，获得额外收益",
+                        "url": "https://app.eigenlayer.xyz/",
+                        "logo": "https://app.eigenlayer.xyz/favicon.ico",
+                        "chains": ["ETH"],
+                        "type": "再质押"
+                    }
+                ]
+            },
+            {
+                "type": "NFT 市场",
+                "items": [
+                    {
+                        "name": "OpenSea",
+                        "des": "全球最大的综合性 NFT 交易市场",
+                        "url": "https://opensea.io/",
+                        "logo": "https://opensea.io/static/images/logos/opensea-logo.png",
+                        "chains": ["ETH", "POL", "ARB", "BASE"],
+                        "type": "NFT"
+                    },
+                    {
+                        "name": "Blur",
+                        "des": "专业 NFT 交易者平台，零手续费",
+                        "url": "https://blur.io/",
+                        "logo": "https://blur.io/favicon.ico",
+                        "chains": ["ETH", "BLAST"],
+                        "type": "NFT"
+                    },
+                    {
+                        "name": "Magic Eden",
+                        "des": "Solana 和 BTC 上最大的 NFT 市场",
+                        "url": "https://magiceden.io/",
+                        "logo": "https://magiceden.io/favicon.ico",
+                        "chains": ["SOL", "BTC", "POL", "ETH"],
+                        "type": "NFT"
+                    },
+                    {
+                        "name": "Element",
+                        "des": "多链 NFT 聚合交易平台",
+                        "url": "https://element.market/",
+                        "logo": "https://element.market/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL", "ARB"],
+                        "type": "NFT"
+                    },
+                    {
+                        "name": "Zora",
+                        "des": "创作者友好的 NFT 铸造与交易平台",
+                        "url": "https://zora.co/",
+                        "logo": "https://zora.co/favicon.ico",
+                        "chains": ["ETH", "ZORA", "BASE"],
+                        "type": "NFT"
+                    }
+                ]
+            },
+            {
+                "type": "GameFi 游戏",
+                "items": [
+                    {
+                        "name": "Axie Infinity",
+                        "des": "经典回合制宠物对战链游",
+                        "url": "https://app.axieinfinity.com/",
+                        "logo": "https://cdn.axieinfinity.com/favicon.ico",
+                        "chains": ["RON"],
+                        "type": "游戏"
+                    },
+                    {
+                        "name": "Pixels",
+                        "des": "像素风农场经营游戏，边玩边赚",
+                        "url": "https://pixels.xyz/",
+                        "logo": "https://pixels.xyz/favicon.ico",
+                        "chains": ["RON"],
+                        "type": "游戏"
+                    },
+                    {
+                        "name": "Big Time",
+                        "des": "3A 级多人在线 RPG 链游",
+                        "url": "https://bigtime.gg/",
+                        "logo": "https://bigtime.gg/favicon.ico",
+                        "chains": ["ETH"],
+                        "type": "游戏"
+                    },
+                    {
+                        "name": "The Sandbox",
+                        "des": "去中心化虚拟世界与游戏平台",
+                        "url": "https://www.sandbox.game/",
+                        "logo": "https://www.sandbox.game/favicon.ico",
+                        "chains": ["ETH", "POL"],
+                        "type": "游戏"
+                    }
+                ]
+            },
+            {
+                "type": "数据分析",
+                "items": [
+                    {
+                        "name": "DEXScreener",
+                        "des": "实时 DEX 交易对 K 线与数据",
+                        "url": "https://dexscreener.com/",
+                        "logo": "https://dexscreener.com/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "数据"
+                    },
+                    {
+                        "name": "DexTools",
+                        "des": "代币分析与交易工具",
+                        "url": "https://www.dextools.io/",
+                        "logo": "https://www.dextools.io/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL", "SOL"],
+                        "type": "数据"
+                    },
+                    {
+                        "name": "DefiLlama",
+                        "des": "DeFi TVL 排行与协议数据",
+                        "url": "https://defillama.com/",
+                        "logo": "https://defillama.com/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "数据"
+                    },
+                    {
+                        "name": "Nansen",
+                        "des": "链上数据分析与巨鲸追踪",
+                        "url": "https://www.nansen.ai/",
+                        "logo": "https://www.nansen.ai/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL", "ARB"],
+                        "type": "数据"
+                    },
+                    {
+                        "name": "Arkham",
+                        "des": "链上地址标签与资金流向追踪",
+                        "url": "https://platform.arkhamintelligence.com/",
+                        "logo": "https://platform.arkhamintelligence.com/favicon.ico",
+                        "chains": ["ETH", "BTC"],
+                        "type": "数据"
+                    }
+                ]
+            },
+            {
+                "type": "空投任务",
+                "items": [
+                    {
+                        "name": "Galxe",
+                        "des": "Web3 任务平台，参与活动获得奖励",
+                        "url": "https://galxe.com/",
+                        "logo": "https://galxe.com/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "任务"
+                    },
+                    {
+                        "name": "Layer3",
+                        "des": "探索链上世界，完成任务赚取奖励",
+                        "url": "https://layer3.xyz/",
+                        "logo": "https://layer3.xyz/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "任务"
+                    },
+                    {
+                        "name": "Zealy",
+                        "des": "社区任务与贡献激励平台",
+                        "url": "https://zealy.io/",
+                        "logo": "https://zealy.io/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "任务"
+                    },
+                    {
+                        "name": "DeBank",
+                        "des": "链上身份与资产管理，空投追踪",
+                        "url": "https://debank.com/",
+                        "logo": "https://debank.com/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "工具"
+                    }
+                ]
+            },
+            {
+                "type": "工具",
+                "items": [
+                    {
+                        "name": "Revoke.cash",
+                        "des": "授权管理工具，取消代币授权保护资产",
+                        "url": "https://revoke.cash/",
+                        "logo": "https://revoke.cash/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL", "ARB", "OP"],
+                        "type": "安全"
+                    },
+                    {
+                        "name": "Etherscan",
+                        "des": "以太坊官方区块链浏览器",
+                        "url": "https://etherscan.io/",
+                        "logo": "https://etherscan.io/favicon.ico",
+                        "chains": ["ETH"],
+                        "type": "浏览器"
+                    },
+                    {
+                        "name": "TronScan",
+                        "des": "波场 TRON 官方区块链浏览器",
+                        "url": "https://tronscan.org/",
+                        "logo": "https://static.tronscan.org/production/upload/logo/Staking.png",
+                        "chains": ["TRX"],
+                        "type": "浏览器"
+                    },
+                    {
+                        "name": "Safe (Multisig)",
+                        "des": "最安全的多签钱包管理工具",
+                        "url": "https://app.safe.global/",
+                        "logo": "https://app.safe.global/favicon.ico",
+                        "chains": ["ETH", "POL", "ARB", "OP", "BSC"],
+                        "type": "钱包"
+                    },
+                    {
+                        "name": "ENS",
+                        "des": "以太坊域名服务，注册 .eth 域名",
+                        "url": "https://app.ens.domains/",
+                        "logo": "https://app.ens.domains/favicon.ico",
+                        "chains": ["ETH"],
+                        "type": "域名"
+                    },
+                    {
+                        "name": "Chainlist",
+                        "des": "一键添加 RPC 网络到钱包",
+                        "url": "https://chainlist.org/",
+                        "logo": "https://chainlist.org/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "工具"
                     },
                     {
                         "name": "Energy Lease",
                         "des": "波场 TRON 能量租赁与交易平台",
-                        "url": "https://tronify.ai",
+                        "url": "https://tronify.ai/",
                         "logo": "https://athena-wallet.github.io/tron/dapplogo/tronify.png",
                         "chains": ["TRX"],
                         "type": "工具"
+                    },
+                    {
+                        "name": "GoPlus Security",
+                        "des": "代币安全检测，识别风险合约",
+                        "url": "https://gopluslabs.io/",
+                        "logo": "https://gopluslabs.io/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "安全"
+                    }
+                ]
+            },
+            {
+                "type": "社交 SocialFi",
+                "items": [
+                    {
+                        "name": "Farcaster (Warpcast)",
+                        "des": "去中心化社交协议，Web3 版 Twitter",
+                        "url": "https://warpcast.com/",
+                        "logo": "https://warpcast.com/favicon.ico",
+                        "chains": ["OP"],
+                        "type": "社交"
+                    },
+                    {
+                        "name": "Lens Protocol",
+                        "des": "去中心化社交图谱协议",
+                        "url": "https://www.lens.xyz/",
+                        "logo": "https://www.lens.xyz/favicon.ico",
+                        "chains": ["POL"],
+                        "type": "社交"
+                    },
+                    {
+                        "name": "CyberConnect",
+                        "des": "Web3 社交身份与关系网络",
+                        "url": "https://cyberconnect.me/",
+                        "logo": "https://cyberconnect.me/favicon.ico",
+                        "chains": ["ETH", "BSC", "POL"],
+                        "type": "社交"
+                    }
+                ]
+            },
+            {
+                "type": "AI + Web3",
+                "items": [
+                    {
+                        "name": "ChainGPT",
+                        "des": "AI 驱动的区块链助手与分析工具",
+                        "url": "https://www.chaingpt.org/",
+                        "logo": "https://www.chaingpt.org/favicon.ico",
+                        "chains": ["ETH", "BSC"],
+                        "type": "AI"
+                    },
+                    {
+                        "name": "Bittensor",
+                        "des": "去中心化机器学习网络",
+                        "url": "https://bittensor.com/",
+                        "logo": "https://bittensor.com/favicon.ico",
+                        "chains": ["TAO"],
+                        "type": "AI"
+                    },
+                    {
+                        "name": "Fetch.ai",
+                        "des": "基于 AI Agent 的自动化经济网络",
+                        "url": "https://fetch.ai/",
+                        "logo": "https://fetch.ai/favicon.ico",
+                        "chains": ["ETH"],
+                        "type": "AI"
+                    }
+                ]
+            },
+            {
+                "type": "衍生品交易",
+                "items": [
+                    {
+                        "name": "dYdX",
+                        "des": "去中心化永续合约交易所",
+                        "url": "https://trade.dydx.exchange/",
+                        "logo": "https://trade.dydx.exchange/favicon.ico",
+                        "chains": ["dYdX"],
+                        "type": "衍生品"
+                    },
+                    {
+                        "name": "GMX",
+                        "des": "去中心化合约交易平台，低滑点高流动性",
+                        "url": "https://app.gmx.io/",
+                        "logo": "https://app.gmx.io/favicon.ico",
+                        "chains": ["ARB", "AVAX"],
+                        "type": "衍生品"
+                    },
+                    {
+                        "name": "Hyperliquid",
+                        "des": "高性能链上永续合约 DEX",
+                        "url": "https://app.hyperliquid.xyz/",
+                        "logo": "https://app.hyperliquid.xyz/favicon.ico",
+                        "chains": ["Hyperliquid"],
+                        "type": "衍生品"
+                    },
+                    {
+                        "name": "Synthetix",
+                        "des": "合成资产发行与交易协议",
+                        "url": "https://synthetix.io/",
+                        "logo": "https://synthetix.io/favicon.ico",
+                        "chains": ["ETH", "OP"],
+                        "type": "衍生品"
+                    }
+                ]
+            },
+            {
+                "type": "DAO 治理",
+                "items": [
+                    {
+                        "name": "Snapshot",
+                        "des": "去中心化投票治理平台",
+                        "url": "https://snapshot.org/",
+                        "logo": "https://snapshot.org/favicon.ico",
+                        "chains": ["ALL"],
+                        "type": "治理"
+                    },
+                    {
+                        "name": "Tally",
+                        "des": "链上治理仪表板与投票工具",
+                        "url": "https://www.tally.xyz/",
+                        "logo": "https://www.tally.xyz/favicon.ico",
+                        "chains": ["ETH", "POL", "ARB"],
+                        "type": "治理"
+                    },
+                    {
+                        "name": "Aragon",
+                        "des": "DAO 创建与管理工具",
+                        "url": "https://aragon.org/",
+                        "logo": "https://aragon.org/favicon.ico",
+                        "chains": ["ETH", "POL"],
+                        "type": "治理"
                     }
                 ]
             }
