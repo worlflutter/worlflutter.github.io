@@ -35,7 +35,7 @@
                         "name": "OpenSea",
                         "des": "全球最大的综合性 NFT 交易市场",
                         "url": "https://opensea.io/",
-                        "logo": "https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png",
+                        "logo": "https://avatars.githubusercontent.com/u/34966464?s=200&v=4",
                         "chains": ["ETH", "POL", "ARB"],
                         "type": "NFT"
                     },
