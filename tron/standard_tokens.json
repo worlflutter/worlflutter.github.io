@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "TRX",
+      "protocol": "20",
+      "symbol": "TRX",
+      "address": "",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/logo/trx.png"
+    },
+    {
+      "name": "USD Token",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "decimals": 6,
+      "logoURI": "https://athena-wallet.github.io/tron/tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-a.jpg",
+                "url": "1"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
+                "url": "2"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
+                "url": "3"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
+                "url": "4"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                    {
+                        "name": "SunSwap",
+                        "des": "",
+                        "url": "https://sun.io/#/v3/swap",
+                        "logo": "https://static.tronscan.org/production/upload/logo/sun10.png"
+                    },
+                    {
+                        "name": "Energy Lease",
+                        "des": "",
+                        "url": "https://tronify.ai",
+                        "logo": "https://athena-wallet.github.io/tron/dapplogo/tronify.png"
+                    },
+                    {
+                        "name": "JustLend",
+                        "des": "",
+                        "url": "https://justlend.org/",
+                        "logo": "https://static.tronscan.org/production/upload/logo/justlend.png"
+                    },
+                    {
+                        "name": "Tron Scan",
+                        "des": "",
+                        "url": "https://tronscan.org",
+                        "logo": "https://static.tronscan.org/production/upload/logo/Staking.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
