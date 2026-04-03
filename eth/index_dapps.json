@@ -34,7 +34,7 @@
                         "name": "OpenSea",
                         "des": "全球最大的综合性 NFT 交易市场",
                         "url": "https://opensea.io/",
-                        "logo": "https://opensea.io/static/images/logos/opensea-logo.png",
+                        "logo": "https://pbs.twimg.com/media/HE5-lClWsAASM7W.jpg",
                         "chains": ["ETH", "POL", "ARB", "BASE"],
                         "type": "NFT"
                     },
@@ -103,7 +103,7 @@
                         "name": "Jupiter",
                         "des": "Solana 上最优的交易聚合器",
                         "url": "https://jup.ag/",
-                        "logo": "https://station.jup.ag/favicon.ico",
+                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f63646e2f696d67732f7336303f7265663d3638373437343730373333613266326637333734363137343639363332653661373537303265363136373266366137353730326636393633366636653265373036653637",
                         "chains": ["SOL"],
                         "type": "DEX聚合器"
                     }
@@ -116,7 +116,7 @@
                         "name": "Stargate",
                         "des": "LayerZero 官方跨链桥，安全快速",
                         "url": "https://stargate.finance/",
-                        "logo": "https://stargate.finance/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://stargate.finance&size=128",
                         "chains": ["ETH", "BSC", "POL", "ARB", "OP", "AVAX"],
                         "type": "跨链桥"
                     },
@@ -206,7 +206,7 @@
                         "name": "OpenSea",
                         "des": "全球最大的综合性 NFT 交易市场",
                         "url": "https://opensea.io/",
-                        "logo": "https://opensea.io/static/images/logos/opensea-logo.png",
+                        "logo": "https://pbs.twimg.com/media/HE5-lClWsAASM7W.jpg",
                         "chains": ["ETH", "POL", "ARB", "BASE"],
                         "type": "NFT"
                     },
@@ -214,7 +214,7 @@
                         "name": "Blur",
                         "des": "专业 NFT 交易者平台，零手续费",
                         "url": "https://blur.io/",
-                        "logo": "https://blur.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://blur.io&size=128",
                         "chains": ["ETH", "BLAST"],
                         "type": "NFT"
                     },
@@ -222,7 +222,7 @@
                         "name": "Magic Eden",
                         "des": "Solana 和 BTC 上最大的 NFT 市场",
                         "url": "https://magiceden.io/",
-                        "logo": "https://magiceden.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://magiceden.io/&size=128",
                         "chains": ["SOL", "BTC", "POL", "ETH"],
                         "type": "NFT"
                     },
@@ -230,7 +230,7 @@
                         "name": "Element",
                         "des": "多链 NFT 聚合交易平台",
                         "url": "https://element.market/",
-                        "logo": "https://element.market/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://element.market/&size=128",
                         "chains": ["ETH", "BSC", "POL", "ARB"],
                         "type": "NFT"
                     },
@@ -259,7 +259,7 @@
                         "name": "Pixels",
                         "des": "像素风农场经营游戏，边玩边赚",
                         "url": "https://pixels.xyz/",
-                        "logo": "https://pixels.xyz/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pixels.xyz/&size=128",
                         "chains": ["RON"],
                         "type": "游戏"
                     },
@@ -267,7 +267,7 @@
                         "name": "Big Time",
                         "des": "3A 级多人在线 RPG 链游",
                         "url": "https://bigtime.gg/",
-                        "logo": "https://bigtime.gg/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bigtime.gg/&size=128",
                         "chains": ["ETH"],
                         "type": "游戏"
                     },
@@ -296,7 +296,7 @@
                         "name": "DexTools",
                         "des": "代币分析与交易工具",
                         "url": "https://www.dextools.io/",
-                        "logo": "https://www.dextools.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dextools.io/&size=128",
                         "chains": ["ETH", "BSC", "POL", "SOL"],
                         "type": "数据"
                     },
@@ -312,7 +312,7 @@
                         "name": "Nansen",
                         "des": "链上数据分析与巨鲸追踪",
                         "url": "https://www.nansen.ai/",
-                        "logo": "https://www.nansen.ai/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=ttps://www.nansen.ai/&size=128",
                         "chains": ["ETH", "BSC", "POL", "ARB"],
                         "type": "数据"
                     },
@@ -320,7 +320,7 @@
                         "name": "Arkham",
                         "des": "链上地址标签与资金流向追踪",
                         "url": "https://platform.arkhamintelligence.com/",
-                        "logo": "https://platform.arkhamintelligence.com/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://platform.arkhamintelligence.com/&size=128",
                         "chains": ["ETH", "BTC"],
                         "type": "数据"
                     }
@@ -341,7 +341,7 @@
                         "name": "Layer3",
                         "des": "探索链上世界，完成任务赚取奖励",
                         "url": "https://layer3.xyz/",
-                        "logo": "https://layer3.xyz/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://layer3.xyz/&size=128",
                         "chains": ["ALL"],
                         "type": "任务"
                     },
@@ -349,7 +349,7 @@
                         "name": "Zealy",
                         "des": "社区任务与贡献激励平台",
                         "url": "https://zealy.io/",
-                        "logo": "https://zealy.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zealy.io/&size=128",
                         "chains": ["ALL"],
                         "type": "任务"
                     },
@@ -426,7 +426,7 @@
                         "name": "GoPlus Security",
                         "des": "代币安全检测，识别风险合约",
                         "url": "https://gopluslabs.io/",
-                        "logo": "https://gopluslabs.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gopluslabs.io/&size=128",
                         "chains": ["ALL"],
                         "type": "安全"
                     }
@@ -447,7 +447,7 @@
                         "name": "Lens Protocol",
                         "des": "去中心化社交图谱协议",
                         "url": "https://www.lens.xyz/",
-                        "logo": "https://www.lens.xyz/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.lens.xyz/&size=128",
                         "chains": ["POL"],
                         "type": "社交"
                     },
@@ -468,7 +468,7 @@
                         "name": "ChainGPT",
                         "des": "AI 驱动的区块链助手与分析工具",
                         "url": "https://www.chaingpt.org/",
-                        "logo": "https://www.chaingpt.org/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.chaingpt.org/&size=128",
                         "chains": ["ETH", "BSC"],
                         "type": "AI"
                     },
@@ -513,7 +513,7 @@
                         "name": "Hyperliquid",
                         "des": "高性能链上永续合约 DEX",
                         "url": "https://app.hyperliquid.xyz/",
-                        "logo": "https://app.hyperliquid.xyz/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://app.hyperliquid.xyz/&size=128",
                         "chains": ["Hyperliquid"],
                         "type": "衍生品"
                     },
@@ -521,7 +521,7 @@
                         "name": "Synthetix",
                         "des": "合成资产发行与交易协议",
                         "url": "https://synthetix.io/",
-                        "logo": "https://synthetix.io/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://synthetix.io/&size=128",
                         "chains": ["ETH", "OP"],
                         "type": "衍生品"
                     }
@@ -534,7 +534,7 @@
                         "name": "Snapshot",
                         "des": "去中心化投票治理平台",
                         "url": "https://snapshot.org/",
-                        "logo": "https://snapshot.org/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://snapshot.org/&size=128",
                         "chains": ["ALL"],
                         "type": "治理"
                     },
@@ -550,7 +550,7 @@
                         "name": "Aragon",
                         "des": "DAO 创建与管理工具",
                         "url": "https://aragon.org/",
-                        "logo": "https://aragon.org/favicon.ico",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aragon.org/&size=128",
                         "chains": ["ETH", "POL"],
                         "type": "治理"
                     }
