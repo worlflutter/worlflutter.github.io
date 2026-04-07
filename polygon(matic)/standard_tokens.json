@@ -3,9 +3,9 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "MATIC",
+      "name": "POL",
       "protocol": "20",
-      "symbol": "MATIC",
+      "symbol": "POL",
       "address": "",
       "decimals": 18,
       "logoURI": "https://worlflutter.github.io/polygon(matic)/0x0000000000000000000000000000000000001010/logo.png"
