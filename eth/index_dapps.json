@@ -22,6 +22,40 @@
                 "type": "featured"
             }
         ],
+       "topics": [
+            {
+              "name": "Layer2 扩容生态",
+              "url": "https://ethereum.org/zh/layer-2/"
+            },
+            {
+              "name": "比特币减半与影响",
+              "url": "https://academy.binance.com/zh/articles/what-is-a-bitcoin-halving"
+            },
+            {
+              "name": "DeFi 收益数据榜",
+              "url": "https://defillama.com/"
+            },
+            {
+              "name": "🛡️ 钱包防钓鱼指南",
+              "url": "https://academy.binance.com/zh/articles/how-to-spot-scams-in-decentralized-finance-defi"
+            },
+            {
+              "name": "什么是去中心化钱包",
+              "url": "https://academy.binance.com/zh/articles/crypto-wallet-types-explained"
+            },
+            {
+              "name": "助记词与私钥的区别",
+              "url": "https://academy.binance.com/zh/articles/what-is-a-seed-phrase"
+            },
+            {
+              "name": "🪂 如何安全交互空投",
+              "url": "https://academy.binance.com/zh/articles/what-are-crypto-airdrops"
+            },
+            {
+              "name": "NFT 市场与确权",
+              "url": "https://opensea.io/"
+            }
+              ]
         "dapps": [
             {
                 "type": "热门推荐",
