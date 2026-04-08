@@ -8,6 +8,18 @@
                 "image": "https://example.com/banner1.jpg",
                 "link": "https://app.uniswap.org/",
                 "type": "featured"
+            },
+            {
+                "title": "探索 Web3 世界2",
+                "image": "https://example.com/banner1.jpg",
+                "link": "https://app.uniswap.org/",
+                "type": "featured"
+            },
+            {
+                "title": "探索 Web3 世界3",
+                "image": "https://example.com/banner1.jpg",
+                "link": "https://app.uniswap.org/",
+                "type": "featured"
             }
         ],
         "dapps": [
