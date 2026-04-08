@@ -5,19 +5,19 @@
         "banners": [
             {
                 "title": "探索 Web3 世界",
-                "subtitle":'发现最新的去中心化应用',
+                "subtitle":"发现最新的去中心化应用",
                 "image": "https://example.com/banner1.jpg",
                 "url": "https://app.uniswap.org/",
             },
             {
                 "title": "探索 Web3 世界2",
-                "subtitle":'发现最新的去中心化应用',
+                "subtitle":"发现最新的去中心化应用",
                 "image": "https://example.com/banner1.jpg",
                 "url": "https://app.uniswap.org/",
             },
             {
                 "title": "探索 Web3 世界3",
-                "subtitle":'发现最新的去中心化应用',
+                "subtitle":"发现最新的去中心化应用",
                 "image": "https://example.com/banner1.jpg",
                 "url": "https://app.uniswap.org/",
             }
