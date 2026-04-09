@@ -62,7 +62,67 @@
               "name": "NFT 市场与确权",
               "url": "https://opensea.io/",
               "category": "nft"
-            }
+            },
+  {
+    "name": "以太坊质押收益观察",
+    "url": "https://ethereum.org/zh/staking/",
+    "category": "defi"
+  },
+  {
+    "name": "RWA 赛道最新进展",
+    "url": "https://academy.binance.com/zh/articles/what-are-real-world-assets-rwa-in-crypto",
+    "category": "all"
+  },
+  {
+    "name": "稳定币生态与支付应用",
+    "url": "https://academy.binance.com/zh/articles/what-are-stablecoins",
+    "category": "defi"
+  },
+  {
+    "name": "链上数据分析入门",
+    "url": "https://www.dune.com/",
+    "category": "tech"
+  },
+  {
+    "name": "Web3 新手安全手册",
+    "url": "https://academy.binance.com/zh/articles/how-to-keep-your-crypto-safe",
+    "category": "tech"
+  },
+  {
+    "name": "铭文与链上资产热点",
+    "url": "https://academy.binance.com/zh/articles/what-are-bitcoin-ordinals-and-inscriptions",
+    "category": "all"
+  },
+  {
+    "name": "NFT 交易市场趋势",
+    "url": "https://opensea.io/",
+    "category": "nft"
+  },
+  {
+    "name": "GameFi 用户增长观察",
+    "url": "https://dappradar.com/rankings/category/games",
+    "category": "gamefi"
+  },
+  {
+    "name": "跨链桥安全与风险",
+    "url": "https://academy.binance.com/zh/articles/what-are-cross-chain-bridges",
+    "category": "tech"
+  },
+  {
+    "name": "空投项目交互导航",
+    "url": "https://academy.binance.com/zh/articles/what-are-crypto-airdrops",
+    "category": "gamefi"
+  },
+  {
+    "name": "DePIN 热门项目追踪",
+    "url": "https://academy.binance.com/zh/articles/what-is-depin-in-crypto",
+    "category": "tech"
+  },
+  {
+    "name": "模块化区块链趋势",
+    "url": "https://ethereum.org/zh/developers/docs/scaling/",
+    "category": "tech"
+  }
               ],
         "dapps": [
             {
