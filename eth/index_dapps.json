@@ -217,7 +217,7 @@
                         "name": "Jupiter",
                         "des": "Solana 上最优的交易聚合器",
                         "url": "https://jup.ag/",
-                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f63646e2f696d67732f7336303f7265663d3638373437343730373333613266326637333734363137343639363332653661373537303265363136373266366137353730326636393633366636653265373036653637",
+                        "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jup.ag/&size=128",
                         "chains": ["SOL"],
                         "type": "DEX聚合器"
                     }
