@@ -218,7 +218,7 @@
             "des": "Solana 上最优的交易聚合器",
             "url": "https://jup.ag/",
             "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jup.ag/&size=128",
-            "chains": ["Solana", "sSol"],
+            "chains": ["Solana"],
             "type": "DEX聚合器"
         }
     ]
