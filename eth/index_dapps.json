@@ -141,7 +141,7 @@
             "des": "币安智能链(BSC)上最受欢迎的AMM DEX",
             "url": "https://pancakeswap.finance/",
             "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
-            "chains": ["BSC", "Ethereum", "Arbitrum", "Base",ZKsync],
+            "chains": ["BSC", "Ethereum", "Arbitrum", "Base","ZKsync"],
             "type": "DEX"
         },
         {
