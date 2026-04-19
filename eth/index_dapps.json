@@ -133,7 +133,7 @@
             "des": "全球最大的去中心化交易协议",
             "url": "https://app.uniswap.org/",
             "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
-            "chains": ["Ethereum", "BSC", "Polygon", "Arbitrum", "Optimism", "Base", "ZKsync", "Avalanche", "Gnosis", "Sepolia"],
+            "chains": ["Ethereum", "BSC", "Polygon", "Arbitrum", "Optimism", "Base", "ZKsync", "Avalanche", "Gnosis"],
             "type": "DEX"
         },
         {
@@ -141,7 +141,7 @@
             "des": "币安智能链(BSC)上最受欢迎的AMM DEX",
             "url": "https://pancakeswap.finance/",
             "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
-            "chains": ["BSC", "Ethereum", "Arbitrum", "Base"],
+            "chains": ["BSC", "Ethereum", "Arbitrum", "Base",ZKsync],
             "type": "DEX"
         },
         {
