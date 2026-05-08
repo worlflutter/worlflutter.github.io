@@ -3,15 +3,6 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "ETH",
-      "protocol": "20",
-      "symbol": "ETH",
-      "address": "optimism",
-      "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png",
-      "source": "optimism"
-    },
-    {
       "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
