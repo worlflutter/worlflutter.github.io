@@ -5,10 +5,10 @@
     {
       "name": "LT",
       "protocol": "20",
-      "symbol": "LT",
+      "symbol": "Ltlab",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://worlflutter.github.io/dtc/ltlap.png"
+      "logoURI": "https://worlflutter.github.io/dtc/ltlab.png"
     }
   ]
 }
