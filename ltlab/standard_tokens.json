@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "LT",
+      "protocol": "20",
+      "symbol": "LT",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://worlflutter.github.io/dtc/ltlap.png"
+    }
+  ]
+}
