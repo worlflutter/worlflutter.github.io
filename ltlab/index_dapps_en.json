@@ -25,10 +25,10 @@
                 "type": "hot",
                 "items": [
                     {
-                        "name": "DTCscan",
+                        "name": "Ltlab Scan",
                         "des": "Query and verify address transactions",
                         "url": "https://explorer.ltlabchain.com/",
-                        "logo": "https://worlflutter.github.io/ltlap/dapp/network.png"
+                        "logo": "https://worlflutter.github.io/ltlab/dapp/network.png"
                     }
                 ]
             }
