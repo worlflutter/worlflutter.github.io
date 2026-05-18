@@ -9,6 +9,14 @@
       "decimals": 18,
       "symbol": "USDT",
       "logoURI": "https://hashpayinfo.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
+    },
+    {
+      "name": "CARE",
+      "protocol": "20",
+      "address": "0xc46fb38500edfc9c19c4c0d7863bb51e08d062f5",
+      "decimals": 18,
+      "symbol": "CARE",
+      "logoURI": ""
     }
   ]
 }
