@@ -3,12 +3,12 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "Tether USD",
+      "name": "usdt",
       "protocol": "20",
-      "address": "0xc87A7b16fdF156732729be1412d5fE50ff481701",
+      "address": "0xE67106A78AB6d42184B1c74abF49b80bA6614201",
       "decimals": 18,
-      "symbol": "USDT",
-      "logoURI": "https://hashpayinfo.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
+      "symbol": "usdt",
+      "logoURI": "https://cdn.ltlabchain.com/usdt.png"
     },
     {
       "name": "CARE",
@@ -16,7 +16,7 @@
       "address": "0xc46fb38500edfc9c19c4c0d7863bb51e08d062f5",
       "decimals": 18,
       "symbol": "CARE",
-      "logoURI": ""
+      "logoURI": "https://cdn.ltlabchain.com/care.jpg"
     }
   ]
 }
