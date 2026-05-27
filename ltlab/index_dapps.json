@@ -27,8 +27,26 @@
                     {
                         "name": "区块链浏览器",
                         "des": "查询验证地址交易",
-                        "url": "https://explorer.ltlabchain.com/",
+                        "url": "https://litiondex.com/",
                         "logo": "https://worlflutter.github.io/ltlab/dapp/network.png"
+                    },
+                    {
+                        "name": "交易所",
+                        "des": "",
+                        "url": "https://litiondex.com",
+                        "logo": ""
+                    },
+                    {
+                        "name": "挖矿链接",
+                        "des": "",
+                        "url": "https://ltminer.com",
+                        "logo": ""
+                    },
+                    {
+                        "name": "生态链接",
+                        "des": "",
+                        "url": "https://litionrwa.com",
+                        "logo": ""
                     }
                 ]
             }
