@@ -3,14 +3,6 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "usdt",
-      "protocol": "20",
-      "address": "0xE67106A78AB6d42184B1c74abF49b80bA6614201",
-      "decimals": 18,
-      "symbol": "usdt",
-      "logoURI": "https://cdn.ltlabchain.com/usdt.png"
-    },
-    {
       "name": "CARE",
       "protocol": "20",
       "address": "0xc46fb38500edfc9c19c4c0d7863bb51e08d062f5",
