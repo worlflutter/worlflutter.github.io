@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>加入局域网派对</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            padding-top: 100px;
+            background-color: #f4f5f7;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #78C043;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        #wechat-mask {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 999;
+            color: white;
+            text-align: right;
+            padding: 20px;
+            box-sizing: border-box;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>🎉 准备加入派对</h2>
+    <p>点击下方按钮直接进入房间</p>
+
+    <!-- ⚠️ 必须是用户亲手点击按钮！不能用 onload 自动跳转，会被浏览器拦截 -->
+    <a href="javascript:void(0);" class="btn" onclick="openApp()">立即在 APP 中打开</a>
+
+    <div id="wechat-mask" onclick="this.style.display='none'">
+        <p>↗️ 请点击右上角<br>选择在<strong>浏览器中打开</strong></p>
+    </div>
+
+    <script>
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function openApp() {
+            var ua = navigator.userAgent.toLowerCase();
+            var targetIp = getQueryParam('ip');
+
+            // 1. 拦截微信/QQ：弹遮罩，逼迫用户去右上角系统浏览器
+            if (ua.indexOf('micromessenger') !== -1 || ua.indexOf('qq/') !== -1) {
+                document.getElementById('wechat-mask').style.display = 'block';
+                return;
+            }
+
+            // 2. 判断是否是安卓手机
+            var isAndroid = ua.indexOf('android') > -1 || ua.indexOf('adr') > -1;
+
+            if (isAndroid) {
+                // 🌟 安卓终极必杀技：Chrome Intent 语法
+                // ⚠️ 注意：把下方的 com.example.yourapp 换成你真实的包名！（在 app/build.gradle 里看 applicationID）
+                var packageName = "com.example.flutter_shiji";
+                var intentUrl = "intent://join?ip=" + targetIp + "#Intent;scheme=partyapp;package=" + packageName + ";end";
+                window.location.href = intentUrl;
+            } else {
+                // 🌟 iOS 原生 Safari 写法
+                window.location.href = "partyapp://join?ip=" + targetIp;
+            }
+        }
+    </script>
+</body>
+
+</html>
